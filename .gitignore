@@ -24,3 +24,14 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# KiCad 6+ (project is KiCad 10)
+*.kicad_prl
+*-backups/
+fp-info-cache
+~*.lck
+\#auto_saved_files#
+_autosave-*
+*.kicad_sch-bak
+*.kicad_sym-bak
+*.kicad_pcb-bak

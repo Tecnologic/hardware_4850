@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name hardware_4850)(type KiCad)(uri ${KIPRJMOD}/footprints/hardware_4850.pretty)(options "")(descr ""))
-)
