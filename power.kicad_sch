@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "5028f00b-9a83-4915-be5a-f97d25fbf2a7")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x01"
 			(pin_names
@@ -3582,7 +3582,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005db60c8f")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0153"
 			(at 170.18 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3641,7 +3641,7 @@
 		(instances
 			(project "hardware_4850"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
-					(reference "#PWR0107")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -5343,5 +5343,1150 @@
 				)
 			)
 		)
+	)
+	(sheet
+		(at 330.2 30.48)
+		(size 24.13 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "80c37c27-1848-4f66-8745-f6ba4db7060c")
+		(property "Sheetname" "aux_a"
+			(at 330.2 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "aux_leg.kicad_sch"
+			(at 330.2 57.7346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Phase" output
+			(at 354.33 33.02 0)
+			(uuid "df79ae0e-edb9-458e-b027-a99e37dccb16")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PwmH" input
+			(at 330.2 33.02 180)
+			(uuid "62fd5b69-b946-4fa8-9405-df1d72b3af10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PwmL" input
+			(at 330.2 35.56 180)
+			(uuid "6bfb57ac-1bd5-4cbb-a0f8-5aa746936e82")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ISenseP" passive
+			(at 330.2 39.37 180)
+			(uuid "2750fb9f-5ba1-43dc-99b7-d133caf3a259")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ISenseN" passive
+			(at 330.2 41.91 180)
+			(uuid "e3827893-1d30-4785-b9a9-44742db5aee7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(page "14")
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 330.2 33.02) (xy 322.58 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e0d9a72-1e54-401a-ad67-0d686c1b633b")
+	)
+	(label "PwmAH"
+		(at 322.58 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c3ff3927-99c5-4133-a217-232b2aa61fde")
+	)
+	(wire
+		(pts
+			(xy 330.2 35.56) (xy 322.58 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0002a3c6-1fba-4d2b-bdc5-a70cbd4d40e5")
+	)
+	(label "PwmAL"
+		(at 322.58 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "24abe60b-6a6a-416d-b93c-7a4c8235991c")
+	)
+	(wire
+		(pts
+			(xy 330.2 39.37) (xy 322.58 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1a2c608-527a-4380-a696-4372efd6c8a9")
+	)
+	(label "ISenseAP"
+		(at 322.58 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8916ddff-57ad-48eb-999f-403868eabaa5")
+	)
+	(wire
+		(pts
+			(xy 330.2 41.91) (xy 322.58 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce5d7878-3e4d-49df-9c93-d6964fe4ef60")
+	)
+	(label "ISenseAN"
+		(at 322.58 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "89274a14-8e03-452b-97bb-8c757b229fbe")
+	)
+	(wire
+		(pts
+			(xy 354.33 33.02) (xy 364.49 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62927310-26f5-497b-be6a-9d58fd6d9587")
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 369.57 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1186f491-e6a3-4434-ab19-c9a068c10a95")
+		(property "Reference" "J111"
+			(at 371.602 31.9532 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "F1"
+			(at 371.602 34.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+			(at 369.57 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 369.57 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "92e7f979-ad00-4acd-aeaf-f8dfe724daea")
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(reference "J111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 330.2 69.85)
+		(size 24.13 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "be6a94bd-513e-4baa-9798-f60bfe3b6a4c")
+		(property "Sheetname" "aux_b"
+			(at 330.2 69.1384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "aux_leg.kicad_sch"
+			(at 330.2 97.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Phase" output
+			(at 354.33 72.39 0)
+			(uuid "0390f4c3-9d40-4c52-bdfd-be110e6a5ae3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PwmH" input
+			(at 330.2 72.39 180)
+			(uuid "4ee8032a-5bf5-4d94-8310-81aee3e54508")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PwmL" input
+			(at 330.2 74.93 180)
+			(uuid "041694c0-4880-4659-9d79-9dcedc4f41db")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ISenseP" passive
+			(at 330.2 78.74 180)
+			(uuid "ee1c564e-54f2-4213-960e-fd454b7721d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ISenseN" passive
+			(at 330.2 81.28 180)
+			(uuid "b58401e6-5ffd-4163-804d-69484341960e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(page "15")
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 330.2 72.39) (xy 322.58 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0c580a6-a8dd-460e-8f6d-8b16d75127a3")
+	)
+	(label "PwmBH"
+		(at 322.58 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "53c5c4a6-dfe9-4c53-9f5d-5341b2c99748")
+	)
+	(wire
+		(pts
+			(xy 330.2 74.93) (xy 322.58 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bc3f284-a680-43aa-ba05-47b19b19d05c")
+	)
+	(label "PwmBL"
+		(at 322.58 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "20e514fa-0855-4723-8cfe-2f63057cca2c")
+	)
+	(wire
+		(pts
+			(xy 330.2 78.74) (xy 322.58 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33e19d96-902d-4f7e-92ac-3b2e039468e6")
+	)
+	(label "ISenseBP"
+		(at 322.58 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1ac739c2-e9b3-45e8-a612-de039dda8d1b")
+	)
+	(wire
+		(pts
+			(xy 330.2 81.28) (xy 322.58 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "069fee60-93f1-4206-bc4c-26abd198d8a4")
+	)
+	(label "ISenseBN"
+		(at 322.58 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8d9d937b-0e92-4f38-bbb5-0d7728e098a1")
+	)
+	(wire
+		(pts
+			(xy 354.33 72.39) (xy 364.49 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e2b024c-a8f0-4c20-9914-ee7c7cd926fd")
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 369.57 72.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2c873e99-ceca-4f82-a936-81b6dd25e5c8")
+		(property "Reference" "J112"
+			(at 371.602 71.3232 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "F2"
+			(at 371.602 73.6346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+			(at 369.57 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 369.57 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "93f13a9b-13b1-42d3-97fa-2b82f798261c")
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(reference "J112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 369.57 110.49 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2e64b682-0fda-4a2f-86e0-c24aab576465")
+		(property "Reference" "J113"
+			(at 371.602 109.423 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DC+"
+			(at 371.602 111.735 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+			(at 369.57 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 369.57 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 369.57 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2f004540-d3fd-46d4-8908-152562087ed5")
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(reference "J113")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 364.49 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "68f90945-a1ce-458d-9130-69a4e6b18f80")
+		(property "Reference" "#PWR0150"
+			(at 364.49 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 364.871 101.016 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 364.49 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 364.49 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 364.49 105.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c37ee9f2-078f-4cb5-a070-a53005a3954b")
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 364.49 105.41) (xy 364.49 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61b28fca-f5b0-4df1-80ea-1d1c38e3dc09")
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
+		(at 335.28 139.7 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "29809ade-019e-4e73-8b14-cceda80bffa5")
+		(property "Reference" "J110"
+			(at 336.55 129.108 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AUX"
+			(at 336.55 131.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical_SMD"
+			(at 335.28 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 335.28 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 335.28 139.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" "C261072"
+			(at 335.28 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2d2b5038-8e65-4e2f-aba2-9209a6cb4a95")
+		)
+		(pin "2"
+			(uuid "3c01d6b1-3aed-4b04-9a25-ab1dd6f04a65")
+		)
+		(pin "3"
+			(uuid "993da28a-385c-413e-a897-dabae0781ec7")
+		)
+		(pin "4"
+			(uuid "4d5e2f56-fbee-4c7d-be2f-9e9586c40422")
+		)
+		(pin "5"
+			(uuid "bf67e00d-7798-4053-b66a-4b57c027eff0")
+		)
+		(pin "6"
+			(uuid "33c6d51c-769e-4af9-b15e-dd58c318e29e")
+		)
+		(pin "7"
+			(uuid "6e53a70c-8262-4d8c-a7cc-5c0f60bd6963")
+		)
+		(pin "8"
+			(uuid "e7636b32-51fe-4b51-9df4-e93f19503c9e")
+		)
+		(pin "9"
+			(uuid "a958d78d-b6b0-4047-a084-0aa9919b4744")
+		)
+		(pin "10"
+			(uuid "df12542b-f07a-4973-8614-f559aca47a94")
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(reference "J110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 330.2 134.62) (xy 325.12 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcae68c9-f2dc-4c0d-a255-b5f15794b761")
+	)
+	(label "PwmAH"
+		(at 325.12 134.62 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c6f0ccf2-2301-49b7-875a-2c1bfbfe0e52")
+	)
+	(wire
+		(pts
+			(xy 330.2 137.16) (xy 325.12 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82899117-d970-43ac-b50a-9b6a29330fae")
+	)
+	(label "PwmBH"
+		(at 325.12 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4f4fcebc-99df-4748-b9b4-2942a22454fe")
+	)
+	(wire
+		(pts
+			(xy 330.2 139.7) (xy 325.12 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "932229d9-ba8f-477c-a986-328eef8b4c1f")
+	)
+	(label "ISenseBP"
+		(at 325.12 139.7 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f11da80b-73bf-436b-8cb7-7e76ceb8fc8b")
+	)
+	(wire
+		(pts
+			(xy 330.2 142.24) (xy 325.12 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7158ad51-839a-40cc-8460-39de6ca2a398")
+	)
+	(label "ISenseAP"
+		(at 325.12 142.24 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0ba092b8-e5e9-4661-9988-b038f315bab2")
+	)
+	(wire
+		(pts
+			(xy 342.9 134.62) (xy 347.98 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "651272c9-03a6-49b4-b04a-c84bd09d334a")
+	)
+	(label "PwmAL"
+		(at 347.98 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0a34e926-7253-4df0-9b90-85d5b2ce6767")
+	)
+	(wire
+		(pts
+			(xy 342.9 137.16) (xy 347.98 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa72d7f1-8f51-4fdb-8a0e-cb231a736464")
+	)
+	(label "PwmBL"
+		(at 347.98 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b4ccfec-dfa7-428e-bd29-dba32f34fb32")
+	)
+	(wire
+		(pts
+			(xy 342.9 139.7) (xy 347.98 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47c00486-44a6-4e19-91db-4f4413247588")
+	)
+	(label "ISenseBN"
+		(at 347.98 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "926a2524-dc19-4edc-a954-b3ed79bdfa80")
+	)
+	(wire
+		(pts
+			(xy 342.9 142.24) (xy 347.98 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "728a7c96-7cf6-413b-9ef5-7290a7cc279c")
+	)
+	(label "ISenseAN"
+		(at 347.98 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7907996b-257f-49cc-87cd-c899e2b338b4")
+	)
+	(wire
+		(pts
+			(xy 330.2 144.78) (xy 330.2 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9610202-0195-4518-ab48-0110487c6046")
+	)
+	(wire
+		(pts
+			(xy 342.9 144.78) (xy 342.9 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03b135a5-328b-4e72-b72d-4201a778fb68")
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 330.2 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5b79ae6f-185a-43b7-8ba9-b4a52cacaf4c")
+		(property "Reference" "#PWR0151"
+			(at 330.2 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 330.302 153.772 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 330.2 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 330.2 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 330.2 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2454c80d-d9d0-4485-bf5d-af0e8e79b452")
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(reference "#PWR0151")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 342.9 149.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "075a8fcd-0e2f-4b46-8d2e-7a467f36dedf")
+		(property "Reference" "#PWR0152"
+			(at 342.9 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 343.002 153.772 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 342.9 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 342.9 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 342.9 149.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8483eb4-c51f-4301-a6bf-6961a86ba5db")
+		)
+		(instances
+			(project "hardware_4850"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(reference "#PWR0152")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(text "Aux bridge (asymmetric H-bridge, two half bridges like the phases):\nEESM: field winding between F1 and F2 (fast de-excitation with A_L + B_H).\nPMSM: brake resistor between DC+ and F2, leg A may stay unpopulated.\nJ110 AUX: PWM of both legs and the Kelvin pairs of the low-side shunts."
+		(exclude_from_sim no)
+		(at 300.99 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c165fe8-bdbe-49a5-94fd-263fc6e237f9")
 	)
 )

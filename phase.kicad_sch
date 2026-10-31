@@ -3738,7 +3738,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "56u"
 			(at 241.3 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3781,7 +3781,7 @@
 				)
 			)
 		)
-		(property "Part#" "667-EEH-ZC1K470P"
+		(property "Part#" ""
 			(at 254 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -4341,7 +4341,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BSC040N08"
+		(property "Value" "NCEP6080AG"
 			(at 148.7424 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4387,7 +4387,7 @@
 				)
 			)
 		)
-		(property "Part#" "726-BSC040N08NS5ATMA"
+		(property "Part#" ""
 			(at 148.59 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4452,7 +4452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BSC040N08"
+		(property "Value" "NCEP6080AG"
 			(at 197.0024 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4498,7 +4498,7 @@
 				)
 			)
 		)
-		(property "Part#" "726-BSC040N08NS5ATMA"
+		(property "Part#" ""
 			(at 197.0024 50.5714 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4563,7 +4563,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BSC040N08"
+		(property "Value" "NCEP6080AG"
 			(at 148.7424 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4609,7 +4609,7 @@
 				)
 			)
 		)
-		(property "Part#" "726-BSC040N08NS5ATMA"
+		(property "Part#" ""
 			(at 148.59 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4674,7 +4674,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BSC040N08"
+		(property "Value" "NCEP6080AG"
 			(at 197.0024 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4720,7 +4720,7 @@
 				)
 			)
 		)
-		(property "Part#" "726-BSC040N08NS5ATMA"
+		(property "Part#" ""
 			(at 197.0024 77.2414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4784,7 +4784,7 @@
 				)
 			)
 		)
-		(property "Value" "21R"
+		(property "Value" "1R1"
 			(at 127 45.3136 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4826,7 +4826,7 @@
 				)
 			)
 		)
-		(property "Part#" "MCR03ERTJ21R"
+		(property "Part#" ""
 			(at 127 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4880,7 +4880,7 @@
 				)
 			)
 		)
-		(property "Value" "21R"
+		(property "Value" "1R1"
 			(at 180.34 45.3136 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4922,7 +4922,7 @@
 				)
 			)
 		)
-		(property "Part#" "MCR03ERTJ21R"
+		(property "Part#" ""
 			(at 180.34 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5060,7 +5060,7 @@
 				)
 			)
 		)
-		(property "Value" "21R"
+		(property "Value" "1R1"
 			(at 176.53 71.9836 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5102,7 +5102,7 @@
 				)
 			)
 		)
-		(property "Part#" "MCR03ERTJ21R"
+		(property "Part#" ""
 			(at 176.53 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5156,7 +5156,7 @@
 				)
 			)
 		)
-		(property "Value" "21R"
+		(property "Value" "1R1"
 			(at 127 71.9836 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5198,7 +5198,7 @@
 				)
 			)
 		)
-		(property "Part#" "MCR03ERTJ21R"
+		(property "Part#" ""
 			(at 127 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5760,7 +5760,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "1R1"
 			(at 127 80.8736 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5856,7 +5856,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "1R1"
 			(at 176.53 85.9536 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5952,7 +5952,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "1R1"
 			(at 127 52.9336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6048,7 +6048,7 @@
 				)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "1R1"
 			(at 180.34 52.9336 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6260,7 +6260,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "56u"
 			(at 248.92 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6303,7 +6303,7 @@
 				)
 			)
 		)
-		(property "Part#" "667-EEH-ZC1K470P"
+		(property "Part#" ""
 			(at 261.62 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
