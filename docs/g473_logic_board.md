@@ -1,24 +1,29 @@
-# Logic Board Redesign: STM32G474RET6
+# Logic Board Redesign: STM32G473RET6
 
 Status: concept, 2026-10-31. Nothing of this is drawn yet. The pin data comes
-from ST's open pin data (`STM32G474R(B-C-E)Tx.xml`, LQFP64). The internal
+from ST's open pin data (`STM32G473R(B-C-E)Tx.xml`, LQFP64; it differs from
+the G474R only by the missing HRTIM). The internal
 connections marked *(RM0440)* are from memory of the reference manual and must
 be checked in CubeMX before the schematic is drawn.
 
 The firmware side is `docs/system_plan.md` section 5.2 in the
 [unimoc](https://github.com/Tecnologic/unimoc) repository.
 
-## 1. Why the G474
+## 1. Why the G473
 
 - **CAN FD.** The F7 family only has bxCAN (classic CAN). The drive network is
   Cyphal on CAN FD (4 Mbit/s data phase with the TCAN334).
 - **Flash.** 512 KB dual bank: firmware image in bank 1, bank 2 for the update
   over Cyphal. The F730R8 has 64 KB.
-- **Same family as the BCC** (STM32G473): one hot path for both boards.
+- **Same part as the BCC** (STM32G473CET6, here in LQFP64): one hot path for
+  both boards. Parts are at hand.
+- **No HRTIM** (the only difference to the G474). The aux bridge runs on
+  TIM8, which has what it needs: complementary outputs with dead time, its own
+  break inputs, sync with TIM1 and an OCREF clear input.
 - **Analog and protection on chip,** used throughout this design instead of
   external parts (section 3).
 
-The G474 is slower per cycle than the F7. The hot-path estimate in unimoc
+The G473 is slower per cycle than the F7. The hot-path estimate in unimoc
 (`docs/hotpath_plan.md`) is about 45 % CPU at 32 kHz PWM. Measure the real load
 on the BCC (DWT cycle counter) before the order. If it is far above that
 estimate, the fallback is an STM32H7 (FDCAN, up to 550 MHz) with a new
@@ -75,23 +80,30 @@ on both boards and filter them at the MCU (section 3.2).
 | COMP1 | Ia (PA1, COMP1_INP) | DAC *(RM0440)* | TIM1 break: phases off |
 | COMP2 | Ib (PA7, COMP2_INP) | DAC | TIM1 break |
 | COMP4 | Ic (PB0, COMP4_INP) | DAC | TIM1 break |
-| COMP3 | Vdc (PC1, COMP3_INP) | DAC, with hysteresis | TIM1 break (overvoltage) **and** HRTIM event: chopper on (PMSM) or fast de-excitation (EESM) |
-| COMP6 | aux shunt (PB11, COMP6_INP) | DAC | HRTIM fault: aux bridge off |
+| COMP3 | Vdc (PC1, COMP3_INP) | DAC, with hysteresis | TIM1 break (overvoltage) **and** TIM8 OCREF clear: chopper on (PMSM); TIM8 break2 for the fast de-excitation (EESM) |
+| COMP6 | aux shunt (PB11, COMP6_INP) | DAC | TIM8 break: aux bridge off |
 
-The comparator outputs reach TIM1 break and the HRTIM events and faults
-internally *(RM0440)*, so no pins are used for them. The external E-stop goes
-to TIM1_BKIN (PA6) and HRTIM_FLT2 (PA15) on the same net.
+The comparator outputs reach the TIM1 and TIM8 break inputs and the TIM8
+OCREF clear internally *(RM0440)*, so no pins are used for them. The external
+E-stop goes to TIM1_BKIN (PA6) and TIM8_BKIN (PD2) on the same net.
 
 ### 3.4 PWM
 
 - Phases: TIM1 CH1–CH3 with CH1N–CH3N, the classic pins PA8–PA10 and
   PB13–PB15. The BCC uses TIM8. The timer is a devicetree property of the
   `foc0` node, so the hot path stays the same.
-- Aux bridge: HRTIM timer E (leg A) and timer F (leg B). Synchronized with TIM1
-  through the HRTIM sync input *(RM0440)*. The HRTIM can set and reset outputs
-  directly on comparator events (chopper without CPU) and has its own fault
+- Aux bridge: TIM8, leg A on CH3/CH3N, leg B on CH1/CH1N, slave of TIM1
+  (trigger/reset from TIM1 TRGO through ITR0 *(RM0440)*). TIM8 has its own break
   inputs, separate from the phase break: on a phase trip, the chopper must keep
   running.
+- EESM: leg A switches complementary with dead time; leg B is forced to
+  "CH1N active" (B_L on). Fast de-excitation: A_L and B_H forced on (by
+  software, or by the TIM8 break2 with the idle states set to A_L and B_H on).
+- PMSM chopper without the CPU: CH1 (B_H) disabled, CH1N (B_L) enabled, CCR at
+  100 % so B_L is normally off. COMP3 clears OC1REF through the OCREF clear
+  input (OCRSEL = COMP3 *(RM0440)*): B_L turns on while the DC link is above the
+  threshold and is released at the next PWM period after COMP3 drops. The
+  chopper is hysteretic with one PWM period (31 µs at 32 kHz) as the time step.
 
 ### 3.5 Computation
 
@@ -99,7 +111,7 @@ CORDIC for sin/cos/atan2 in the control cycle and the observer. Hot code and
 data in CCM SRAM (no flash wait states, no stall while a settings write is
 running).
 
-## 4. Pin assignment (STM32G474RET6, LQFP64)
+## 4. Pin assignment (STM32G473RET6, LQFP64)
 
 | Pin | Port | Function | Peripheral |
 |---|---|---|---|
@@ -107,7 +119,7 @@ running).
 | 3 | PC14 | Hall B | GPIO/EXTI14 |
 | 4 | PC15 | Hall C | GPIO/EXTI15 |
 | 5 | PF0 | HSE input (20 MHz oscillator X601) | RCC_OSC_IN |
-| 6 | PF1 | spare | GPIO |
+| 6 | PF1 | USB VBUS sense | GPIO |
 | 7 | PG10 | NRST | |
 | 8 | PC0 | +12V monitor | ADC1/2_IN6 |
 | 9 | PC1 | Vdc | ADC2_IN7, COMP3_INP |
@@ -124,7 +136,7 @@ running).
 | 22 | PC4 | LED_PWM | GPIO |
 | 23 | PC5 | spare analog | ADC2_IN11 |
 | 24 | PB0 | Ic | ADC3_IN12, COMP4_INP |
-| 25 | PB1 | LED_ERROR | GPIO |
+| 25 | PB1 | aux leg A low | TIM8_CH3N |
 | 26 | PB2 | bridge temperature (NTC TH101) | ADC2_IN12 |
 | 28 | VREF+ | = VDDA (+3.3VA) | |
 | 30 | PB10 | aux shunt Kelvin return (ISenseBN) | OPAMP4_VINM0 |
@@ -133,10 +145,10 @@ running).
 | 35 | PB13 | PWM AL | TIM1_CH1N |
 | 36 | PB14 | PWM BL | TIM1_CH2N |
 | 37 | PB15 | PWM CL | TIM1_CH3N |
-| 38 | PC6 | aux leg B high | HRTIM1_CHF1 |
-| 39 | PC7 | aux leg B low | HRTIM1_CHF2 |
-| 40 | PC8 | aux leg A high | HRTIM1_CHE1 |
-| 41 | PC9 | aux leg A low | HRTIM1_CHE2 |
+| 38 | PC6 | aux leg B high | TIM8_CH1 |
+| 39 | PC7 | spare | GPIO |
+| 40 | PC8 | aux leg A high | TIM8_CH3 |
+| 41 | PC9 | spare | GPIO |
 | 42 | PA8 | PWM AH | TIM1_CH1 |
 | 43 | PA9 | PWM BH | TIM1_CH2 |
 | 44 | PA10 | PWM CH | TIM1_CH3 |
@@ -144,12 +156,12 @@ running).
 | 46 | PA12 | USB DP | USB |
 | 49 | PA13 | SWDIO | SWD |
 | 50 | PA14 | SWCLK | SWD |
-| 51 | PA15 | E-stop (same net as PA6) | HRTIM1_FLT2 |
+| 51 | PA15 | LED_ERROR | GPIO |
 | 52 | PC10 | angle sensor SCK | SPI3_SCK |
 | 53 | PC11 | angle sensor MISO | SPI3_MISO |
 | 54 | PC12 | angle sensor MOSI | SPI3_MOSI |
-| 55 | PD2 | USB VBUS sense | GPIO |
-| 56 | PB3 | SWO | SYS_JTDO-SWO |
+| 55 | PD2 | E-stop (same net as PA6) | TIM8_BKIN |
+| 56 | PB3 | aux leg B low | TIM8_CH1N (no SWO: the log is on RTT) |
 | 57 | PB4 | PWM_EN (driver enable to the power board) | GPIO |
 | 58 | PB5 | CAN RX | FDCAN2_RX |
 | 59 | PB6 | CAN TX | FDCAN2_TX |
@@ -157,12 +169,12 @@ running).
 | 61 | PB8 | BOOT0 (bootloader jumper) | BOOT0 |
 | 62 | PB9 | LED_MODE | GPIO |
 
-Free for later: PF1, PC2, PC3, PC5 (analog), and the ADC5 inputs are unused.
+Free for later: PC7, PC9, PC2, PC3, PC5 (analog), and the ADC5 inputs are unused.
 
 ## 5. Parts
 
 - **Keep:** TCAN334 (CAN FD) with split termination that can be populated, USB
-  for DFU, SWD/SWO, Hall and temperature inputs, the supply topology from 48 V,
+  for DFU, SWD (no SWO, the log runs over RTT), Hall and temperature inputs, the supply topology from 48 V,
   the 20 MHz oscillator.
 - **Drop:** 24LC04 EEPROM (settings in the G4 flash), the op-amp filter stages
   of the current channels.
@@ -174,9 +186,9 @@ Free for later: PF1, PC2, PC3, PC5 (analog), and the ADC5 inputs are unused.
 ## 6. Checks before the schematic
 
 1. CPU load of the hot path measured on the BCC (section 1).
-2. *(RM0440)* items: DAC → COMP inverting input, COMP → TIM1 break, COMP →
-   HRTIM event and fault, HRTIM sync with TIM1, ADC trigger from TIM1 for all
-   four ADCs.
+2. *(RM0440)* items: DAC → COMP inverting input, COMP → TIM1/TIM8 break,
+   COMP3 → TIM8 OCREF clear (OCRSEL), TIM8 as a slave of TIM1 (ITR0), ADC
+   trigger from TIM1 for all four ADCs.
 3. EESM data: field current, resistance and inductance → shunt value, PGA gain,
    de-excitation time (≈ L_f·I_f/V_dc).
 4. Brake resistor value and power → shunt power (the leg B shunt carries the
