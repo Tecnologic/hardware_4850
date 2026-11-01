@@ -28,8 +28,8 @@ resistor between DC+ = J113 and F2). J110 AUX carries their PWM signals and the
 Kelvin pairs of the shunts to the logic board. The footprints are not placed on
 the PCB yet (*Tools → Update PCB from Schematic*, then layout).
 
-The logic board is to be redesigned around an STM32G473RET6:
-[docs/g473_logic_board.md](docs/g473_logic_board.md).
+The logic board is to be redesigned around an STM32H743VIT6 (like the BCC):
+[docs/h743_logic_board.md](docs/h743_logic_board.md).
 
 ## Production data
 
@@ -41,7 +41,7 @@ data per board, the old KiCad 5 data is in `production/legacy_kicad5/`.
 | Folder | Content |
 |---|---|
 | `datasheets/` | Component datasheets |
-| `docs/` | Images (MCU pinning, board pictures), G473 logic board concept |
+| `docs/` | Images (MCU pinning, board pictures), H743 logic board concept |
 | `mechanical/` | DXF exports of the power board, cooler/enclosure drawings are in `footprints/` |
 | `pinning/` | STM32CubeMX pinning (`.ioc`) of the STM32F730R8 |
 | `sim/` | LTspice simulations of the current filters |
