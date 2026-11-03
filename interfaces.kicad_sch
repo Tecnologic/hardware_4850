@@ -30,7 +30,7 @@
 					)
 				)
 			)
-			(property "Value" "Connector_Generic_Conn_01x02"
+			(property "Value" "Conn_01x02"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -62,7 +62,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -90,7 +101,7 @@
 					(end 1.27 -3.81)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -101,7 +112,7 @@
 					(end 0 -0.127)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -112,7 +123,7 @@
 					(end 0 -2.667)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -177,7 +188,7 @@
 					)
 				)
 			)
-			(property "Value" "Connector_Generic_Conn_01x04"
+			(property "Value" "Conn_01x04"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -209,7 +220,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -237,7 +259,7 @@
 					(end 1.27 -6.35)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -248,7 +270,7 @@
 					(end 0 2.413)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -259,7 +281,7 @@
 					(end 0 -0.127)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -270,7 +292,7 @@
 					(end 0 -2.667)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -281,7 +303,7 @@
 					(end 0 -5.207)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -382,7 +404,7 @@
 					)
 				)
 			)
-			(property "Value" "Connector_Generic_Conn_01x05"
+			(property "Value" "Conn_01x05"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -414,7 +436,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -442,7 +475,7 @@
 					(end 1.27 -6.35)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -453,7 +486,7 @@
 					(end 0 4.953)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -464,7 +497,7 @@
 					(end 0 2.413)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -475,7 +508,7 @@
 					(end 0 -0.127)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -486,7 +519,7 @@
 					(end 0 -2.667)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -497,7 +530,7 @@
 					(end 0 -5.207)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -616,7 +649,7 @@
 					)
 				)
 			)
-			(property "Value" "Connector_Generic_Conn_02x05_Odd_Even"
+			(property "Value" "Conn_02x05_Odd_Even"
 				(at 1.27 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -648,7 +681,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -676,7 +720,7 @@
 					(end 3.81 -6.35)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -687,7 +731,7 @@
 					(end 0 4.953)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -698,7 +742,7 @@
 					(end 0 2.413)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -709,7 +753,7 @@
 					(end 0 -0.127)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -720,7 +764,7 @@
 					(end 0 -2.667)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -731,7 +775,7 @@
 					(end 0 -5.207)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -742,7 +786,7 @@
 					(end 2.54 4.953)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -753,7 +797,7 @@
 					(end 2.54 2.413)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -764,7 +808,7 @@
 					(end 2.54 -0.127)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -775,7 +819,7 @@
 					(end 2.54 -2.667)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -786,7 +830,7 @@
 					(end 2.54 -5.207)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -998,7 +1042,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Device_C"
+			(property "Value" "C"
 				(at 0.635 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1031,7 +1075,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1060,7 +1115,7 @@
 					)
 					(stroke
 						(width 0.508)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1072,7 +1127,7 @@
 					)
 					(stroke
 						(width 0.508)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1083,7 +1138,7 @@
 				(pin passive line
 					(at 0 3.81 270)
 					(length 2.794)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1101,7 +1156,7 @@
 				(pin passive line
 					(at 0 -3.81 90)
 					(length 2.794)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1142,7 +1197,7 @@
 					)
 				)
 			)
-			(property "Value" "Device_LED"
+			(property "Value" "LED"
 				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1174,7 +1229,29 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LED diode"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1203,7 +1280,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1215,7 +1292,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1227,7 +1304,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1239,7 +1316,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1251,7 +1328,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1320,7 +1397,7 @@
 					)
 				)
 			)
-			(property "Value" "Device_R"
+			(property "Value" "R"
 				(at 0 0 90)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1352,7 +1429,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1380,7 +1468,7 @@
 					(end 1.016 2.54)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1391,7 +1479,7 @@
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1409,7 +1497,7 @@
 				(pin passive line
 					(at 0 -3.81 90)
 					(length 1.27)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1444,7 +1532,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Interface_CAN_LIN_TCAN334"
+			(property "Value" "TCAN334"
 				(at 2.54 8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1467,7 +1555,7 @@
 					)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tcan337.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1478,7 +1566,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "High-Speed CAN Transceiver, 1Mbps, 3.3V supply, low power standby mode, shutdown mode, SOT-23-8/SOIC-8"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "High-Speed CAN Transceiver"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1506,7 +1605,7 @@
 					(end 10.16 -7.62)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -1661,424 +1760,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Jumper:SolderJumper_2_Open"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "JP"
-				(at 0 2.032 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Jumper_SolderJumper_2_Open"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Open*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Open_0_1"
-				(polyline
-					(pts
-						(xy -0.254 1.016) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.27 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.254 -1.016)
-					(mid -1.27 0)
-					(end -0.254 1.016)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 1.016) (xy 0.254 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.27 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.254 1.016)
-					(mid 1.27 0)
-					(end 0.254 -1.016)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "SolderJumper_2_Open_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Memory_EEPROM:24LC04"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at -6.35 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Memory_EEPROM_24LC04"
-				(at 1.27 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "DIP*W7.62mm* SOIC*3.9x4.9mm* TSSOP*4.4x3mm*P0.65mm* DFN*3x2mm*P0.5mm*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "24LC04_1_1"
-				(rectangle
-					(start -7.62 5.08)
-					(end 7.62 -5.08)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -10.16 2.54 0)
-					(length 2.54)
-					(name "A0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -10.16 0 0)
-					(length 2.54)
-					(name "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -10.16 -2.54 0)
-					(length 2.54)
-					(name "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 10.16 2.54 180)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 10.16 -2.54 180)
-					(length 2.54)
-					(name "WP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Regulator_Linear:AP2204K-5.0"
 			(pin_names
 				(offset 0.254)
@@ -2099,7 +1780,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Regulator_Linear_AP2204K-5.0"
+			(property "Value" "AP2204K-5.0"
 				(at 0 5.715 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2121,7 +1802,7 @@
 					)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2204.pdf"
 				(at 0 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2132,7 +1813,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "150mA low dropout linear regulator, wide input voltage range, 5.0V fixed positive output, SOT-23-5"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "linear regulator ldo fixed positive"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2160,7 +1852,7 @@
 					(end 5.08 -5.08)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -2264,8 +1956,12 @@
 		)
 		(symbol "power:+12V"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2283,7 +1979,7 @@
 					)
 				)
 			)
-			(property "Value" "power_+12V"
+			(property "Value" "+12V"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2315,7 +2011,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"+12V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2333,7 +2040,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2345,7 +2052,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2357,7 +2064,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2368,8 +2075,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+12V"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2389,8 +2095,12 @@
 		)
 		(symbol "power:+3V3"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2408,7 +2118,7 @@
 					)
 				)
 			)
-			(property "Value" "power_+3V3"
+			(property "Value" "+3V3"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2440,7 +2150,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2458,7 +2179,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2470,7 +2191,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2482,7 +2203,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2493,8 +2214,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+3V3"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2514,8 +2234,12 @@
 		)
 		(symbol "power:GNDD"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2533,7 +2257,7 @@
 					)
 				)
 			)
-			(property "Value" "power_GNDD"
+			(property "Value" "GNDD"
 				(at 0 -3.175 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2565,7 +2289,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2582,7 +2317,7 @@
 					(end 1.27 -2.032)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type outline)
@@ -2594,7 +2329,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2605,8 +2340,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GNDD"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)

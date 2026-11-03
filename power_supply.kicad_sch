@@ -31,7 +31,7 @@
 					)
 				)
 			)
-			(property "Value" "Connector_Generic_Conn_01x03"
+			(property "Value" "Conn_01x03"
 				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -63,7 +63,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -91,7 +102,7 @@
 					(end 1.27 -3.81)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -102,7 +113,7 @@
 					(end 0 2.413)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -113,7 +124,7 @@
 					(end 0 -0.127)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -124,7 +135,7 @@
 					(end 0 -2.667)
 					(stroke
 						(width 0.1524)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -210,7 +221,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Device_C"
+			(property "Value" "C"
 				(at 0.635 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -243,7 +254,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -272,7 +294,7 @@
 					)
 					(stroke
 						(width 0.508)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -284,7 +306,7 @@
 					)
 					(stroke
 						(width 0.508)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -295,7 +317,7 @@
 				(pin passive line
 					(at 0 3.81 270)
 					(length 2.794)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -313,7 +335,7 @@
 				(pin passive line
 					(at 0 -3.81 90)
 					(length 2.794)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -354,7 +376,7 @@
 					)
 				)
 			)
-			(property "Value" "Device_D_Schottky"
+			(property "Value" "D_Schottky"
 				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -386,7 +408,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Schottky diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "diode Schottky"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -415,7 +448,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -427,7 +460,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -439,7 +472,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -509,7 +542,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Device_Ferrite_Bead_Small"
+			(property "Value" "FerriteBead_Small"
 				(at 1.905 -1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -542,7 +575,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Ferrite bead, small symbol"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -571,7 +615,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -583,7 +627,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -595,7 +639,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -606,7 +650,7 @@
 				(pin passive line
 					(at 0 2.54 270)
 					(length 1.27)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -624,7 +668,7 @@
 				(pin passive line
 					(at 0 -2.54 90)
 					(length 1.27)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -665,7 +709,7 @@
 					)
 				)
 			)
-			(property "Value" "Device_L"
+			(property "Value" "L"
 				(at 1.905 0 90)
 				(show_name no)
 				(do_not_autoplace no)
@@ -697,7 +741,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Inductor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "inductor choke coil reactor magnetic"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -722,11 +777,11 @@
 			(symbol "L_0_1"
 				(arc
 					(start 0 2.54)
-					(mid 0.635 1.905)
+					(mid 0.6323 1.905)
 					(end 0 1.27)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -734,11 +789,11 @@
 				)
 				(arc
 					(start 0 1.27)
-					(mid 0.635 0.635)
+					(mid 0.6323 0.635)
 					(end 0 0)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -746,11 +801,11 @@
 				)
 				(arc
 					(start 0 0)
-					(mid 0.635 -0.635)
+					(mid 0.6323 -0.635)
 					(end 0 -1.27)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -758,11 +813,11 @@
 				)
 				(arc
 					(start 0 -1.27)
-					(mid 0.635 -1.905)
+					(mid 0.6323 -1.905)
 					(end 0 -2.54)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -832,7 +887,7 @@
 					)
 				)
 			)
-			(property "Value" "Device_LED"
+			(property "Value" "LED"
 				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -864,7 +919,29 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LED diode"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -893,7 +970,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -905,7 +982,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -917,7 +994,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -929,7 +1006,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -941,7 +1018,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1010,7 +1087,7 @@
 					)
 				)
 			)
-			(property "Value" "Device_R"
+			(property "Value" "R"
 				(at 0 0 90)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1042,7 +1119,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1070,7 +1158,7 @@
 					(end 1.016 2.54)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1081,7 +1169,7 @@
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1099,7 +1187,7 @@
 				(pin passive line
 					(at 0 -3.81 90)
 					(length 1.27)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1134,7 +1222,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Regulator_Switching_LM5008MM"
+			(property "Value" "LM5008MM"
 				(at 0 8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1158,7 +1246,7 @@
 					(justify left)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm5008.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1169,7 +1257,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "500mA, High Voltage (100V) Step-Down Switching Regulator, Adjustable Output Voltage, MSOP-8"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Step-Down Switching Regulator"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1197,7 +1296,7 @@
 					(end 7.62 -10.16)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -1372,7 +1471,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Regulator_Switching_LMR14206"
+			(property "Value" "LMR14206"
 				(at -10.16 8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1395,7 +1494,7 @@
 					)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lmr14206.pdf"
 				(at -10.16 11.43 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1406,7 +1505,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Simple Switcher Buck Regulator, Vin=4.5-42V, Iout=600mA, Adjustable output voltage, SOT-23-6 package"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "simple-switcher buck step-down voltage-regulator"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1434,7 +1544,7 @@
 					(end 10.16 -7.62)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type background)
@@ -1555,8 +1665,12 @@
 		)
 		(symbol "power:+12V"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1574,7 +1688,7 @@
 					)
 				)
 			)
-			(property "Value" "power_+12V"
+			(property "Value" "+12V"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1606,7 +1720,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"+12V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1624,7 +1749,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1636,7 +1761,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1648,7 +1773,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1659,8 +1784,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+12V"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1680,8 +1804,12 @@
 		)
 		(symbol "power:+3.3V"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1699,7 +1827,7 @@
 					)
 				)
 			)
-			(property "Value" "power_+3.3V"
+			(property "Value" "+3.3V"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1731,7 +1859,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1749,7 +1888,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1761,7 +1900,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1773,7 +1912,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1784,8 +1923,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+3V3"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1805,8 +1943,12 @@
 		)
 		(symbol "power:+3.3VADC"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1824,8 +1966,8 @@
 					)
 				)
 			)
-			(property "Value" "power_+3.3VADC"
-				(at 0 2.54 0)
+			(property "Value" "+3.3VADC"
+				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1856,7 +1998,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"+3.3VADC\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1871,8 +2024,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+3.3VADC"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1895,7 +2047,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1907,7 +2059,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1919,7 +2071,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1930,8 +2082,12 @@
 		)
 		(symbol "power:+48V"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1949,7 +2105,7 @@
 					)
 				)
 			)
-			(property "Value" "power_+48V"
+			(property "Value" "+48V"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1981,7 +2137,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"+48V\""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1999,7 +2166,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2011,7 +2178,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2023,7 +2190,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2034,8 +2201,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+48V"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2055,8 +2221,12 @@
 		)
 		(symbol "power:GNDA"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2074,7 +2244,7 @@
 					)
 				)
 			)
-			(property "Value" "power_GNDA"
+			(property "Value" "GNDA"
 				(at 0 -3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2106,7 +2276,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2124,7 +2305,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2135,8 +2316,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GNDA"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2156,8 +2336,12 @@
 		)
 		(symbol "power:GNDD"
 			(power global)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2175,7 +2359,7 @@
 					)
 				)
 			)
-			(property "Value" "power_GNDD"
+			(property "Value" "GNDD"
 				(at 0 -3.175 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2207,7 +2391,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "global power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2224,7 +2419,7 @@
 					(end 1.27 -2.032)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type outline)
@@ -2236,7 +2431,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -2247,8 +2442,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GNDD"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2291,7 +2485,7 @@
 					)
 				)
 			)
-			(property "Value" "power_PWR_FLAG"
+			(property "Value" "PWR_FLAG"
 				(at 0 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2323,7 +2517,18 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2338,7 +2543,7 @@
 				(pin power_out line
 					(at 0 0 90)
 					(length 0)
-					(name "pwr"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2361,7 +2566,7 @@
 					)
 					(stroke
 						(width 0)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
