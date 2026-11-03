@@ -8,8 +8,8 @@
 	)
 	(paper "A3")
 	(title_block
-		(title "hardware_4850")
-		(comment 1 "logic board (left) + power board (right)")
+		(title "Jacobi")
+		(comment 1 "unimoc Jacobi: logic board (left) + power board (right)")
 	)
 	(layers
 		(0 "F.Cu" mixed "Top")
@@ -35748,7 +35748,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:C_2220_5650Metric"
+	(footprint "jacobi:C_2220_5650Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00005dd1e33c")
@@ -37965,7 +37965,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "0a33ac98-87d1-4c9e-a6fe-80b19695a5a8")
@@ -39223,7 +39223,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "17505f1a-c2ee-4b2c-90c1-6d0d4f96f07d")
@@ -45195,7 +45195,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "54a15ac0-76ff-47dd-a298-4608022cdb52")
@@ -46257,7 +46257,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "5768ffa3-14ce-432c-95b3-93a6ebce824d")
@@ -47503,7 +47503,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "hardware_4850:RND-455-00370"
+	(footprint "jacobi:RND-455-00370"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "619965f7-0e21-4809-86ce-bfded0d6bd29")
@@ -49874,7 +49874,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "hardware_4850:C_2220_5650Metric"
+	(footprint "jacobi:C_2220_5650Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "673e02b1-69c0-4ba5-9c54-6148579a405e")
@@ -52815,7 +52815,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "7a9f567a-f874-49a4-91da-a5fa3b2f340e")
@@ -53681,7 +53681,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "7beb6ce5-926f-4722-a466-39f0654e966f")
@@ -54743,7 +54743,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "7e43c185-d11d-4388-a1a6-694260339857")
@@ -56933,7 +56933,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "908aa4ea-1f86-45da-a028-69f87a1d941e")
@@ -59548,7 +59548,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "a567ff06-bd71-4496-816a-5be5c10d5f5c")
@@ -62703,7 +62703,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:C_2220_5650Metric"
+	(footprint "jacobi:C_2220_5650Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "db25fef1-a7fa-4a24-8aa1-8c35cf91f885")
@@ -63391,7 +63391,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "eee69b5c-d5a7-4cbf-8e42-94c99e1e10d6")
@@ -64649,7 +64649,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "f5d1c9c0-b88b-4766-ac55-756b3642a27f")
@@ -65515,7 +65515,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:LFPAK56_ThermalVias-1"
+	(footprint "jacobi:LFPAK56_ThermalVias-1"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "f8296512-9641-4c1b-a9e4-76d10d3d2962")
@@ -66577,7 +66577,7 @@
 			)
 		)
 	)
-	(footprint "hardware_4850:C_2220_5650Metric"
+	(footprint "jacobi:C_2220_5650Metric"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "fedb5c58-58ad-4cad-9389-30908b6bcb74")

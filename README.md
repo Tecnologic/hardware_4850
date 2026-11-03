@@ -1,18 +1,55 @@
-# hardware_4850
-48 V at 50 A with optimised cooling
+# Jacobi
+48 V / 50 A drive hardware of the [unimoc](https://github.com/Tecnologic/unimoc)
+project, with optimised cooling. Jacobi is the motor controller (logic board and
+power board); the firmware lives in the unimoc repository.
+
+| | |
+|---|---|
+| Board directory (firmware) | `boards/unimoc/jacobi/` |
+| Board name | `unimoc_jacobi` |
+| Cyphal node name | `org.unimoc.jacobi` |
+| EESM variant | Jacobi E |
+
+Formerly `hardware_4850`.
+
+### Naming
+
+The unimoc nodes are named after inventors. Moritz Hermann Jacobi built the
+first practical electric motor (1834, Königsberg) and drove a boat on the Neva
+with it (1838): the first electric motor put to practical use as a drive, which
+is what this board is for.
+
+**Drives**
+
+| Name | Class | Who |
+|---|---|---|
+| Barlow | small drive | Peter Barlow, whose "Barlow's wheel" (1822) was one of the first electric motors: tiny but turning |
+| **Jacobi** | **48 V / 50 A drive (this board, H7)** | Moritz Hermann Jacobi, first practical electric motor (1834) and electric boat on the Neva (1838) |
+| Dolivo | big drive | Michail Dolivo-Dobrowolsky invented the three-phase motor and the three-phase system (AEG, 1889), the basis of every FOC drive |
+
+**Other nodes**
+
+| Name | Role | Who |
+|---|---|---|
+| Zuse | VDC | Konrad Zuse built the first working programmable computer, so he's the brain |
+| Drais | Pedal generator | Karl Drais invented the Laufmaschine (1817), the ancestor of the bicycle, powered by your own feet |
+| Mercator | Steering | the map maker everyone navigates by |
+| Gutenberg | Display | made information visible to everyone |
+| Volta | BMS / battery | invented the battery (the voltaic pile, 1800) |
+| Otto | Throttle | Nikolaus Otto, of the Otto engine: the classic gas pedal |
 
 ## KiCad project
 
 The logic board and the power board are combined in a single **KiCad 10** project:
-[`hardware_4850.kicad_pro`](hardware_4850.kicad_pro).
+[`jacobi.kicad_pro`](jacobi.kicad_pro).
 
 | File | Content |
 |---|---|
-| [`hardware_4850.kicad_sch`](hardware_4850.kicad_sch) | Root sheet with the two board sheets |
+| [`jacobi.kicad_sch`](jacobi.kicad_sch) | Root sheet with the two board sheets |
 | [`logic.kicad_sch`](logic.kicad_sch) | Logic board: sub-sheets [`power_supply`](power_supply.kicad_sch) and [`controller`](controller.kicad_sch); `controller` has the sub-sheets [`interfaces`](interfaces.kicad_sch) and [`analog`](analog.kicad_sch) |
 | [`power.kicad_sch`](power.kicad_sch) | Power board: sub-sheet [`phase`](phase.kicad_sch), used three times for phase A/B/C |
-| [`hardware_4850.kicad_pcb`](hardware_4850.kicad_pcb) | Both boards side by side: logic board on the left, power board on the right |
-| [`footprints/hardware_4850.pretty`](footprints/hardware_4850.pretty) | Project footprint library: enclosure RND 455-00370, and `LFPAK56_ThermalVias-1` and `C_2220_5650Metric`, which KiCad 10 no longer ships |
+| [`jacobi.kicad_pcb`](jacobi.kicad_pcb) | Both boards side by side: logic board on the left, power board on the right |
+| [`footprints/jacobi.pretty`](footprints/jacobi.pretty) | Project footprint library: enclosure RND 455-00370, and `LFPAK56_ThermalVias-1` and `C_2220_5650Metric`, which KiCad 10 no longer ships |
 
 Since both boards are in one PCB file, the net names are kept apart by the
 schematic hierarchy (`/logic/...`, `/power/...`). The board-to-board connectors

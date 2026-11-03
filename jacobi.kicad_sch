@@ -5,8 +5,8 @@
 	(uuid "7dfd9a06-4533-4a16-8d73-d523a3cbd82d")
 	(paper "A4")
 	(title_block
-		(title "hardware_4850")
-		(comment 1 "48V / 50A motor controller: logic board + power board")
+		(title "Jacobi")
+		(comment 1 "unimoc Jacobi: 48V / 50A drive, logic board + power board")
 	)
 	(lib_symbols)
 	(sheet
@@ -48,7 +48,7 @@
 			)
 		)
 		(instances
-			(project "hardware_4850"
+			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d"
 					(page "2")
 				)
@@ -94,7 +94,7 @@
 			)
 		)
 		(instances
-			(project "hardware_4850"
+			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d"
 					(page "10")
 				)
