@@ -392,7 +392,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:CP"
+		(symbol "Device:C_Polarized"
 			(pin_numbers
 				(hide yes)
 			)
@@ -470,7 +470,7 @@
 					)
 				)
 			)
-			(symbol "CP_0_1"
+			(symbol "C_Polarized_0_1"
 				(rectangle
 					(start -2.286 0.508)
 					(end 2.286 1.016)
@@ -518,7 +518,7 @@
 					)
 				)
 			)
-			(symbol "CP_1_1"
+			(symbol "C_Polarized_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 2.794)
@@ -3651,7 +3651,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5650Metric"
+		(property "Footprint" "hardware_4850:C_2220_5650Metric"
 			(at 232.1052 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -3717,7 +3717,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:CP")
+		(lib_id "Device:C_Polarized")
 		(at 240.03 36.83 0)
 		(unit 1)
 		(body_style 1)
@@ -4352,7 +4352,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:LFPAK56_ThermalVias-1"
+		(property "Footprint" "hardware_4850:LFPAK56_ThermalVias-1"
 			(at 148.59 50.165 0)
 			(hide yes)
 			(show_name no)
@@ -4463,7 +4463,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:LFPAK56_ThermalVias-1"
+		(property "Footprint" "hardware_4850:LFPAK56_ThermalVias-1"
 			(at 196.85 50.165 0)
 			(hide yes)
 			(show_name no)
@@ -4574,7 +4574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:LFPAK56_ThermalVias-1"
+		(property "Footprint" "hardware_4850:LFPAK56_ThermalVias-1"
 			(at 148.59 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -4685,7 +4685,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:LFPAK56_ThermalVias-1"
+		(property "Footprint" "hardware_4850:LFPAK56_ThermalVias-1"
 			(at 196.85 76.835 0)
 			(hide yes)
 			(show_name no)
@@ -6239,7 +6239,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:CP")
+		(lib_id "Device:C_Polarized")
 		(at 247.65 36.83 0)
 		(unit 1)
 		(body_style 1)

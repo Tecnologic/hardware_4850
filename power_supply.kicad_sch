@@ -486,7 +486,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:Ferrite_Bead_Small"
+		(symbol "Device:FerriteBead_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -564,7 +564,7 @@
 					)
 				)
 			)
-			(symbol "Ferrite_Bead_Small_0_1"
+			(symbol "FerriteBead_Small_0_1"
 				(polyline
 					(pts
 						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
@@ -602,7 +602,7 @@
 					)
 				)
 			)
-			(symbol "Ferrite_Bead_Small_1_1"
+			(symbol "FerriteBead_Small_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 1.27)
@@ -5748,7 +5748,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Ferrite_Bead_Small")
+		(lib_id "Device:FerriteBead_Small")
 		(at 233.68 121.92 270)
 		(unit 1)
 		(body_style 1)
@@ -5837,7 +5837,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Ferrite_Bead_Small")
+		(lib_id "Device:FerriteBead_Small")
 		(at 233.68 154.94 270)
 		(unit 1)
 		(body_style 1)
@@ -7253,7 +7253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_2220_5650Metric"
+		(property "Footprint" "hardware_4850:C_2220_5650Metric"
 			(at 80.9752 50.8 0)
 			(hide yes)
 			(show_name no)
