@@ -1,5 +1,5 @@
 # Jacobi
-48 V / 50 A (battery side, 80 A peak phase current) drive hardware of the [unimoc](https://github.com/Tecnologic/unimoc)
+36 V / 45 A (battery side, 100 A peak phase current) drive hardware of the [unimoc](https://github.com/Tecnologic/unimoc)
 project, with optimised cooling. Jacobi is the motor controller (logic board and
 power board); the firmware lives in the unimoc repository.
 
@@ -24,7 +24,7 @@ is what this board is for.
 | Name | Class | Who |
 |---|---|---|
 | Barlow | small drive | Peter Barlow, whose "Barlow's wheel" (1822) was one of the first electric motors: tiny but turning |
-| **Jacobi** | **48 V / 50 A drive (this board, H7)** | Moritz Hermann Jacobi, first practical electric motor (1834) and electric boat on the Neva (1838) |
+| **Jacobi** | **36 V / 45 A drive (this board, H7)** | Moritz Hermann Jacobi, first practical electric motor (1834) and electric boat on the Neva (1838) |
 | Dolivo | big drive | Michail Dolivo-Dobrowolsky invented the three-phase motor and the three-phase system (AEG, 1889), the basis of every FOC drive |
 
 **Other nodes**
@@ -37,6 +37,150 @@ is what this board is for.
 | Gutenberg | Display | made information visible to everyone |
 | Volta | BMS / battery | invented the battery (the voltaic pile, 1800) |
 | Otto | Throttle | Nikolaus Otto, of the Otto engine: the classic gas pedal |
+
+## Ratings and limits
+
+What the hardware can do and where it stops. The numbers come from the
+datasheets and rough loss and thermal estimates (calculations below), not from
+measurements on a test bench. The reference load is the kids' quad: an MY1020
+1600 W BLDC on 3 × 12 V lead-acid, which the controller already drives with
+80 A peak phase current.
+
+| | Rating | Limited by |
+|---|---|---|
+| Battery | **3 × 12 V lead-acid (36 V)**, up to 44 V while charging; Li-ion up to 10S (42 V) | 60 V FETs (NCEP6080AG), see below |
+| Battery current | **~45 A** (1600 W at 36 V) for minutes in still air; continuous only with better cooling | housing to air: 1600 W needs about 58 A peak phase current |
+| Phase current, peak | **100 A** for seconds | motor saturation, FET losses |
+| Phase current, continuous | **~50 A peak** in still air; with the housing bolted to a frame or in airflow, the 100 A motor limit comes first | housing to air (about 2.5 K/W) |
+| Overcurrent trip | **120–130 A** | current sensing range ±160 A |
+| Not suitable for | 48 V systems (13S/14S Li-ion, 4 × 12 V lead-acid) | 60 V FET rating |
+
+### Target motors
+
+| Motor | Saturation (peak phase current) | Fit |
+|---|---|---|
+| 60 mm stator motors | ~100 A | up to the rating |
+| Hoverboard hub motors | ~55 A | about a third of the current range, fine resolution |
+| MY1020 1600 W, 36 V (kids' quad) | not published, estimated 80–100 A | runs today at 80 A peak |
+
+The MY1020 has no published saturation data. It can be measured with the
+controller: lock the rotor, run a DC current on the d or q axis in steps
+(0, 20, 40 … 120 A) and measure L = V / (di/dt) with a small voltage pulse.
+Saturation starts where L falls by 20–30 %. Above that current the motor gives
+little extra torque and mostly heat, so it is the useful current limit.
+
+### Bridge voltage: why 36 V
+
+The bridge uses **NCEP6080AG** (NCE, LCSC `C182469`, DFN5×6-8L), two in
+parallel per switch, 12 per board. They are in stock and cost much less than
+an 80 V part. From the LCSC product page (the datasheet PDF was not
+reachable): 60 V, 80 A, R_DS(on) < 4.0 mΩ at 10 V (3.5 mΩ typ),
+< 5.0 mΩ at 4.5 V, Qg 67 nC, Coss 680 pF, 85 W, Tj up to 150 °C.
+
+| Battery | Max voltage | Margin to 60 V |
+|---|---|---|
+| 3 × 12 V lead-acid | ~44 V (charging) | 16 V: **fine** |
+| 10S Li-ion | 42 V | 18 V: **fine** |
+| 13S Li-ion | 54.6 V | 5 V: switching overshoot alone can use that, **no** |
+| 14S Li-ion / 4 × 12 V | 58.8 V / ~58 V | **no** |
+
+For 48 V the bridge needs 80 V FETs in the same footprint, e.g. the Infineon
+**BSC040N08NS5** (80 V, 4.0 mΩ max, 121 A, marking `040N08NS`), which sits on
+one of the existing prototype boards. Its R_DS(on) is the same as the NCE part;
+its lower gate charge (43 nC) only shortens the switching edges a little. The
+rest of the board already handles 48 V: the LM5008 supply runs from the battery
+up to 95 V, and the voltage dividers reach 73.8 V full scale.
+
+### Bridge losses
+
+Two FETs in parallel per switch, sine current, 36 V, 20 kHz PWM, about 45 ns
+switching edges (LM5109B at about 1 A into 2 × 67 nC, 1R1 gate resistors).
+R_DS(on) is 4.0 mΩ max × 1.6 for Tj = 125 °C ≈ 6.4 mΩ. The factor 1.6 is
+taken from the BSC040N08NS5 curve because the NCE datasheet was not
+available; check it once the datasheet is in `datasheets/`.
+
+| Phase current (peak) | Loss per FET | Loss per phase | Whole bridge |
+|---|---|---|---|
+| 50 A | ~1.3 W | ~5 W | ~16 W |
+| 80 A | ~3 W | ~12 W | ~36 W |
+| 100 A | ~4.5 W | ~18 W | ~54 W |
+
+Conduction per FET is I_rms² × R_DS(on) / 8 (the phase current splits over two
+FETs, and high and low side each conduct about half the time). Switching per
+phase is ½ × V × I_avg × (t_on + t_off) × f_PWM with I_avg = 2/π × I_peak.
+
+Using one FET per switch instead of two would save 6 FETs and about 180 mm²,
+but it doubles the conduction loss at the same current (about 16 W per FET at
+100 A peak). In the closed housing that comes straight off the continuous
+current, so the board keeps two per switch.
+
+### Cooling
+
+The power board sits on an aluminium block the size of the board, which is
+mounted to the floor of the G113T housing (115 × 90 mm). Today the bottom
+copper is covered by solder mask, with thermal paste to the block and a
+thermal pad to the housing.
+
+| Step (per FET unless noted) | Rth | Note |
+|---|---|---|
+| Junction → case | ~1 K/W | datasheet class value |
+| **Thermal vias** | **~3.3 K/W** | 38 × 0.4 mm, 25 µm plating: the largest step from FET to block |
+| Solder mask + paste | ~1 K/W | 20 µm mask, 50 µm paste over about 100 mm² |
+| Junction → block | **~5.5 K/W** | about 17 K at 80 A peak, about 25 K at 100 A peak |
+| Block → housing (pad, whole board) | 0.05–0.1 K/W | 3–5 K at 54 W |
+| **Housing → air (whole board)** | **~2–3 K/W** | 0.043 m² of housing in still air: **sets the continuous current** |
+
+At 80 A peak the bridge loses about 36 W. In still air the housing would end up
+far above any sensible temperature; it works because the peaks are short. The
+block and housing hold about 600 J/K (10 mm block assumed), a time constant of
+about 25 minutes, so 54 W (100 A peak) heats them by about 5 K per minute.
+
+Continuous current for a block at ≤ 80 °C at 40 °C ambient (40 K):
+
+| Housing to air | Allowed loss | Continuous phase current |
+|---|---|---|
+| Still air, ~2.5 K/W | ~16 W | ~50 A peak |
+| Bolted to the frame or in airflow, ~0.5 K/W | ~80 W | ~120 A peak, so the 100 A motor limit comes first |
+
+Improvements, biggest first:
+
+1. **Housing to air.** Bolt the housing to the vehicle frame or a metal plate
+   with paste, or add fins or airflow. This is worth more than all other steps
+   together.
+2. **Thermal vias.** Filled and capped vias (VIPPO) under the drain pad, as many
+   as fit, 2 oz outer copper: about half the 3.3 K/W.
+3. **Block to housing.** Thin paste on flat surfaces instead of the thermal pad,
+   screws near the FET rows.
+4. **Copper spreading.** Large drain pours under each FET on the bottom and
+   inner layers.
+
+**Keep the isolation.** The bottom copper under the high-side FETs is at
++BATT, under the low-side FETs it is the phase node, and the block conducts.
+The solder mask is the only insulation today. Opening the mask needs a defined
+insulator instead (25 µm polyimide film or a 0.15–0.2 mm ceramic-filled pad);
+thermally that is about the same as mask and paste, but the isolation is
+reliable. Avoid metal-filled pastes there.
+
+### Current sensing
+
+One 0.5 mΩ 3920 shunt per phase (Yezhan DSLR-M-5-0.5F) in the phase output,
+with an INA240A1 (gain 20):
+
+| | |
+|---|---|
+| Range | 1.6 V / (20 × 0.5 mΩ) = **±160 A**, 10 mV/A |
+| Overcurrent trip | 120–130 A, above the 100 A motor saturation |
+| Offset | 25 µV max at the input = 0.05 A; calibrated at start, drift 0.25 µV/K |
+| Resolution | about 0.08 A at 12 effective bits |
+| Shunt loss | 1.6 W at 80 A peak, 2.5 W at 100 A peak (9 W part) |
+
+Other combinations that were considered:
+
+| Shunt + INA240 | Range | Why not |
+|---|---|---|
+| 0.4 mΩ + A1 | ±200 A | only needed for currents above 130 A, which the motors cannot use |
+| 0.2 mΩ + A2 | ±160 A | same scaling, but 2.5× the offset in amps, and the A2 costs 1.60 € vs 0.25 € for a shunt |
+| 0.2 mΩ + A1 | ±400 A | coarse at light load (about 0.2 A noise) |
 
 ## KiCad project
 

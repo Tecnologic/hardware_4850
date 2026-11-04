@@ -97,9 +97,10 @@ sits at 1.65 V and can swing about ±1.6 V.
 The earlier three 2 mΩ 2512 in parallel are gone: their copper between the
 resistors became part of the shunt and drifted with temperature. With gain 50
 the old 0.667 mΩ would have clipped at ±48 A, far below the 80 A peak phase
-current the old power stage runs. The 50 A rating of the drive is the battery
-current; the phase current peaks at 80 A, so the overcurrent trip can sit
-around 100–120 A with the ±160 A range.
+current the old power stage runs. The drive is rated 36 V / 45 A on the
+battery side and 100 A peak phase current (where the target motors saturate),
+so the overcurrent trip sits at 120–130 A within the ±160 A range. Ratings,
+losses and cooling: [README, Ratings and limits](../README.md#ratings-and-limits).
 
 ## 4. Peripherals
 
@@ -204,7 +205,7 @@ PC13–PC15, PD3–PD11, PD15, PE6–PE14, PH1.
   C622 (100 nF, VDDA). C608–C612 are the five VDD decoupling caps. C603 changed from 10 µF to 2.2 µF
   (VCAP). Order numbers of the 2.2 µF parts still to fill in.
 - **Keep:** TCAN334 (CAN FD), USB for DFU, SWD/SWO, Hall and temperature
-  inputs, the supply topology from 48 V.
+  inputs, the supply topology from the battery (LM5008, up to 95 V).
 - **Removed:** the 24LC04 EEPROM with its pull-ups and WP jumper (U1102,
   R1112, R1113, R1115, C1105, JP1101). The settings live in flash.
 - **New, still to draw:** quad comparator for the phase overcurrent, connector for an SPI angle sensor (SPI3), CAN STB.
