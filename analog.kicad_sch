@@ -714,6 +714,18 @@
 		)
 	)
 	(junction
+		(at 151.13 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1a81aa92-e3ee-4ca3-84c6-923c6067e2f6")
+	)
+	(junction
+		(at 151.13 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "38953b3e-c455-4567-96e4-5641c2139e68")
+	)
+	(junction
 		(at 223.52 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -726,16 +738,46 @@
 		(uuid "43f01836-2e6b-4280-802c-08f7dc39c791")
 	)
 	(junction
+		(at 49.53 24.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8135c72c-a63d-4cfd-ac39-3d0a6b180399")
+	)
+	(junction
 		(at 26.67 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "844d63c8-50b9-471b-b6d7-8c17d59cd766")
 	)
 	(junction
+		(at 151.13 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d28f1ae-58b5-47ae-a1e2-25b1139eae50")
+	)
+	(junction
+		(at 49.53 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abece309-4122-4c2d-8445-5dd246997396")
+	)
+	(junction
 		(at 62.23 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2ae0daa-b040-4295-a6b1-3b0b6163f005")
+	)
+	(junction
+		(at 151.13 24.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d6686fe6-e82e-4aea-b61e-322e5e69d12e")
+	)
+	(junction
+		(at 49.53 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4bb2800-1611-4d88-816e-9e727c676b39")
 	)
 	(junction
 		(at 223.52 121.92)
@@ -781,13 +823,23 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 186.69) (xy 39.37 186.69)
+			(xy 20.32 186.69) (xy 62.23 186.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0435b02c-ac75-4c18-af0c-489766ec96a6")
+	)
+	(wire
+		(pts
+			(xy 130.81 69.85) (xy 137.16 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0560fc49-5e95-4a70-8744-14ce4997c49d")
 	)
 	(wire
 		(pts
@@ -841,6 +893,26 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 39.37) (xy 151.13 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ec4f82a-680c-4aa2-9dd8-80ed20097f0c")
+	)
+	(wire
+		(pts
+			(xy 43.18 24.13) (xy 49.53 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12692460-fcb6-4e27-867c-8dacf8386b4f")
+	)
+	(wire
+		(pts
 			(xy 62.23 162.56) (xy 67.31 162.56)
 		)
 		(stroke
@@ -848,6 +920,16 @@
 			(type default)
 		)
 		(uuid "22204449-4b8a-4147-b263-76d1a34ed613")
+	)
+	(wire
+		(pts
+			(xy 151.13 24.13) (xy 176.53 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3594c919-f942-42b8-ae5b-b41d3a41cdd3")
 	)
 	(wire
 		(pts
@@ -861,6 +943,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 54.61) (xy 137.16 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3be4a89c-2399-4a97-96ab-fdc8a1bc8352")
+	)
+	(wire
+		(pts
 			(xy 219.71 133.35) (xy 219.71 146.05)
 		)
 		(stroke
@@ -868,6 +960,26 @@
 			(type default)
 		)
 		(uuid "3cfc57a2-42e8-4b9e-927f-fcf08de8fa10")
+	)
+	(wire
+		(pts
+			(xy 144.78 24.13) (xy 151.13 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e4abc91-2cac-4391-884c-14fdd4802270")
+	)
+	(wire
+		(pts
+			(xy 130.81 39.37) (xy 137.16 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41d665da-48ea-423c-9260-82d660b9b325")
 	)
 	(wire
 		(pts
@@ -881,6 +993,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 54.61) (xy 74.93 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c579f85-4cd7-4a7f-9d33-6a150e26819c")
+	)
+	(wire
+		(pts
 			(xy 26.67 95.25) (xy 26.67 101.6)
 		)
 		(stroke
@@ -888,6 +1010,16 @@
 			(type default)
 		)
 		(uuid "5046ec10-e911-4ac0-8114-997ecf4e7e75")
+	)
+	(wire
+		(pts
+			(xy 144.78 69.85) (xy 151.13 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61cc31b2-bcb7-45ec-8015-b03aa6a5af2b")
 	)
 	(wire
 		(pts
@@ -931,6 +1063,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 54.61) (xy 151.13 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "806b0d94-d8d6-4a29-acb2-3c12e18b7b71")
+	)
+	(wire
+		(pts
 			(xy 26.67 86.36) (xy 26.67 87.63)
 		)
 		(stroke
@@ -971,6 +1113,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 39.37) (xy 74.93 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "907808a3-3343-4620-9b28-338f099a3338")
+	)
+	(wire
+		(pts
 			(xy 217.17 133.35) (xy 219.71 133.35)
 		)
 		(stroke
@@ -981,13 +1133,23 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 186.69) (xy 62.23 186.69)
+			(xy 49.53 24.13) (xy 74.93 24.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a9467ef2-cad1-4921-a0fc-5cc81138c9ed")
+		(uuid "a3b511e8-be70-4a4d-8f8a-fa8f273ec7c0")
+	)
+	(wire
+		(pts
+			(xy 151.13 69.85) (xy 176.53 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac4fdb89-bb93-4c8f-a820-428125fb6559")
 	)
 	(wire
 		(pts
@@ -1021,6 +1183,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 54.61) (xy 49.53 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3f85d0f-f5f8-4485-aea0-5e2ac219a5e9")
+	)
+	(wire
+		(pts
 			(xy 20.32 189.23) (xy 20.32 186.69)
 		)
 		(stroke
@@ -1031,6 +1203,56 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 39.37) (xy 35.56 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb2deaac-f187-4c74-8eff-a18f39ef2177")
+	)
+	(wire
+		(pts
+			(xy 151.13 39.37) (xy 176.53 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27e7024-8acf-4151-a733-2c5dc8c6e047")
+	)
+	(wire
+		(pts
+			(xy 29.21 24.13) (xy 35.56 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4e84cfe-1943-4b6f-a1d9-6e95ede86cc9")
+	)
+	(wire
+		(pts
+			(xy 43.18 39.37) (xy 49.53 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c566d5b7-cb40-4a6b-a547-bc6c620f05b7")
+	)
+	(wire
+		(pts
+			(xy 151.13 54.61) (xy 176.53 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c99fc535-22b1-4bf3-baa3-e862e9d29124")
+	)
+	(wire
+		(pts
 			(xy 22.86 101.6) (xy 26.67 101.6)
 		)
 		(stroke
@@ -1038,6 +1260,16 @@
 			(type default)
 		)
 		(uuid "d52f8736-e56f-488e-8933-02393278e992")
+	)
+	(wire
+		(pts
+			(xy 130.81 24.13) (xy 137.16 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d98923f9-ad3c-416f-bba9-2d80d54f1b6b")
 	)
 	(wire
 		(pts
@@ -1069,6 +1301,16 @@
 		)
 		(uuid "e7f9a6f0-243f-492e-8c2f-e834d2a7f587")
 	)
+	(wire
+		(pts
+			(xy 29.21 54.61) (xy 35.56 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9eacf8f-714b-4377-8bbf-05064f127266")
+	)
 	(hierarchical_label "Temp+"
 		(shape input)
 		(at 22.86 101.6 180)
@@ -1079,6 +1321,28 @@
 			(justify right)
 		)
 		(uuid "09d0a18f-9e56-41be-877e-ab0bc8ad74d7")
+	)
+	(hierarchical_label "V12P"
+		(shape input)
+		(at 130.81 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0ae50851-e84d-4ffd-b83c-03654d804ca2")
+	)
+	(hierarchical_label "IbDC"
+		(shape output)
+		(at 74.93 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "185dccb4-89bb-4daa-86e2-6ed0e620a55a")
 	)
 	(hierarchical_label "Ic"
 		(shape input)
@@ -1091,6 +1355,72 @@
 		)
 		(uuid "255f634b-cd8b-4328-8819-1875208f2b7b")
 	)
+	(hierarchical_label "VcDC"
+		(shape output)
+		(at 176.53 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "39b68185-ef30-4469-8a07-0ff1b0486b84")
+	)
+	(hierarchical_label "IcDC"
+		(shape output)
+		(at 74.93 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3fd449c5-012d-4409-9b32-8dc12a610bea")
+	)
+	(hierarchical_label "Vdc"
+		(shape output)
+		(at 67.31 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c70cbcd-7db3-44cf-9fa9-a318af84833d")
+	)
+	(hierarchical_label "Va"
+		(shape input)
+		(at 130.81 24.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "805f1650-de1e-4977-bef2-963721069fc9")
+	)
+	(hierarchical_label "VbDC"
+		(shape output)
+		(at 176.53 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92039cfb-394a-4832-8386-c1c4c85bf2e0")
+	)
+	(hierarchical_label "IaDC"
+		(shape output)
+		(at 74.93 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a933b27d-4066-42d4-87d4-4dde8f61c09d")
+	)
 	(hierarchical_label "Ia"
 		(shape input)
 		(at 29.21 24.13 180)
@@ -1102,6 +1432,39 @@
 		)
 		(uuid "adbd93bc-ca10-44b3-94bc-b033a2705634")
 	)
+	(hierarchical_label "V12PDC"
+		(shape output)
+		(at 176.53 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b08c965a-7f3e-455c-b063-1cd5acd3d505")
+	)
+	(hierarchical_label "Vc"
+		(shape input)
+		(at 130.81 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b3807dab-72e8-4758-b426-88be4fb269fc")
+	)
+	(hierarchical_label "Vb"
+		(shape input)
+		(at 130.81 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bfc2dd2a-cce7-46e5-ae08-c32e54c1ef6d")
+	)
 	(hierarchical_label "Ib"
 		(shape input)
 		(at 29.21 39.37 180)
@@ -1112,6 +1475,39 @@
 			(justify right)
 		)
 		(uuid "c28fdd10-2a51-4a2e-a23c-fb538a0df08a")
+	)
+	(hierarchical_label "VdcIn"
+		(shape input)
+		(at 39.37 162.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c8c9c373-5363-4303-91d3-96f12a1ffa6a")
+	)
+	(hierarchical_label "BrdgTemp"
+		(shape output)
+		(at 53.34 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eed2a7f0-681b-4837-aca0-77fa63d53cfa")
+	)
+	(hierarchical_label "VaDC"
+		(shape output)
+		(at 176.53 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f7c34962-4ea1-4518-a35f-c9a484b5ddc4")
 	)
 	(hierarchical_label "MotTemp"
 		(shape output)
@@ -2309,31 +2705,9 @@
 			)
 		)
 	)
-	(hierarchical_label "Vdc"
-		(shape output)
-		(at 67.31 162.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4c70cbcd-7db3-44cf-9fa9-a318af84833d")
-	)
-	(hierarchical_label "BrdgTemp"
-		(shape output)
-		(at 53.34 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "eed2a7f0-681b-4837-aca0-77fa63d53cfa")
-	)
 	(symbol
-		(lib_id "Device:R")
-		(at 39.37 24.13 270)
+		(lib_id "power:GNDA")
+		(at 49.53 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2341,9 +2715,85 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "b936cb22-57b5-4c3e-b5a9-f17aacb7820a")
-		(property "Reference" "R717"
-			(at 39.37 24.13 90)
+		(uuid "002de5fc-06ff-4e7a-b41d-afba962c7449")
+		(property "Reference" "#PWR0713"
+			(at 49.53 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 49.657 66.6242 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c39f6b52-4d61-4b3f-82aa-eab728734bd8")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "#PWR0713")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 39.37 54.61 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "01ffbfa4-8672-4088-9c45-518060b37bfb")
+		(property "Reference" "R719"
+			(at 39.37 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2353,7 +2803,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 39.37 21.1836 90)
+			(at 39.37 51.6636 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2363,7 +2813,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.37 22.352 90)
+			(at 39.37 52.832 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2374,7 +2824,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 24.13 0)
+			(at 39.37 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2385,7 +2835,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 24.13 0)
+			(at 39.37 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2395,7 +2845,7 @@
 			)
 		)
 		(property "Part#" ""
-			(at 39.37 19.05 90)
+			(at 39.37 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2405,105 +2855,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "7f5ad51f-16cb-4d77-a64d-87c5c26ff38b")
+			(uuid "9c429751-c94d-400a-81d4-a6c97f60716e")
 		)
 		(pin "2"
-			(uuid "967c6601-3282-47fb-848f-f120ba10049e")
+			(uuid "f1144a70-b831-4ab5-86ef-daf28afa39d7")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "R717")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 49.53 27.94 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a5252729-e6c4-455c-a41f-7687de17aa5e")
-		(property "Reference" "C713"
-			(at 50.8 29.21 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2n2"
-			(at 48.26 29.21 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 48.5648 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 49.53 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 49.53 27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" ""
-			(at 45.72 27.94 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ecd6cab1-3fdf-4e2b-8421-efcbfc303699")
-		)
-		(pin "2"
-			(uuid "45ed260c-aedf-4141-bcf3-21c7990c1848")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "C713")
+					(reference "R719")
 					(unit 1)
 				)
 			)
@@ -2585,56 +2945,9 @@
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 29.21 24.13) (xy 35.56 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4e84cfe-1943-4b6f-a1d9-6e95ede86cc9")
-	)
-	(wire
-		(pts
-			(xy 43.18 24.13) (xy 49.53 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12692460-fcb6-4e27-867c-8dacf8386b4f")
-	)
-	(wire
-		(pts
-			(xy 49.53 24.13) (xy 74.93 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3b511e8-be70-4a4d-8f8a-fa8f273ec7c0")
-	)
-	(junction
-		(at 49.53 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8135c72c-a63d-4cfd-ac39-3d0a6b180399")
-	)
-	(hierarchical_label "IaDC"
-		(shape output)
-		(at 74.93 24.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a933b27d-4066-42d4-87d4-4dde8f61c09d")
-	)
 	(symbol
-		(lib_id "Device:R")
-		(at 39.37 39.37 270)
+		(lib_id "Device:C")
+		(at 151.13 73.66 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2642,29 +2955,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "638409e8-1b5b-46d3-a4fd-e1036fc911e2")
-		(property "Reference" "R718"
-			(at 39.37 39.37 90)
+		(uuid "23ad7a6e-a4c1-4712-943c-7918350ab10c")
+		(property "Reference" "C719"
+			(at 152.4 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "220R"
-			(at 39.37 36.4236 90)
+		(property "Value" "10n"
+			(at 149.86 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.37 37.592 90)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 150.165 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2675,7 +2990,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 39.37 0)
+			(at 151.13 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2686,7 +3001,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 39.37 0)
+			(at 151.13 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2696,7 +3011,7 @@
 			)
 		)
 		(property "Part#" ""
-			(at 39.37 34.29 90)
+			(at 147.32 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2706,15 +3021,181 @@
 			)
 		)
 		(pin "1"
-			(uuid "f6d5de3d-478d-4cb5-8ae5-c0e212135554")
+			(uuid "b5c7c70a-53d1-45e4-9d37-bc206d339785")
 		)
 		(pin "2"
-			(uuid "4fbb188f-a3ca-4015-8a90-4870f2401f38")
+			(uuid "cc89cb9e-0302-4f34-a88a-fa564d6c4bc3")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "R718")
+					(reference "C719")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 151.13 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "23f27307-c537-415b-b53e-28d6f1ecfc23")
+		(property "Reference" "#PWR0720"
+			(at 151.13 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 151.257 36.1442 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 31.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9dfd1cbd-da64-4e03-8f2f-25c3a0765d5c")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "#PWR0720")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 151.13 58.42 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3359370f-8dee-4da3-abe2-77bf9aaea3e7")
+		(property "Reference" "C718"
+			(at 152.4 59.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2n2"
+			(at 149.86 59.69 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 150.165 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" ""
+			(at 147.32 58.42 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "124afdce-20a6-4fb5-814f-682a7b9eb5dd")
+		)
+		(pin "2"
+			(uuid "ebb7b6d2-7e15-406f-9fb3-10c4874fe6e5")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "C718")
 					(unit 1)
 				)
 			)
@@ -2886,56 +3367,9 @@
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 29.21 39.37) (xy 35.56 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb2deaac-f187-4c74-8eff-a18f39ef2177")
-	)
-	(wire
-		(pts
-			(xy 43.18 39.37) (xy 49.53 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c566d5b7-cb40-4a6b-a547-bc6c620f05b7")
-	)
-	(wire
-		(pts
-			(xy 49.53 39.37) (xy 74.93 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "907808a3-3343-4620-9b28-338f099a3338")
-	)
-	(junction
-		(at 49.53 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "abece309-4122-4c2d-8445-5dd246997396")
-	)
-	(hierarchical_label "IbDC"
-		(shape output)
-		(at 74.93 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "185dccb4-89bb-4daa-86e2-6ed0e620a55a")
-	)
 	(symbol
-		(lib_id "Device:R")
-		(at 39.37 54.61 270)
+		(lib_id "Device:C")
+		(at 151.13 43.18 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2943,29 +3377,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "01ffbfa4-8672-4088-9c45-518060b37bfb")
-		(property "Reference" "R719"
-			(at 39.37 54.61 90)
+		(uuid "5b4bb1d3-bcd8-4054-946a-ad4e713fdb34")
+		(property "Reference" "C717"
+			(at 152.4 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "220R"
-			(at 39.37 51.6636 90)
+		(property "Value" "2n2"
+			(at 149.86 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.37 52.832 90)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 150.165 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2976,7 +3412,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 54.61 0)
+			(at 151.13 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2987,7 +3423,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 39.37 54.61 0)
+			(at 151.13 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2997,7 +3433,7 @@
 			)
 		)
 		(property "Part#" ""
-			(at 39.37 49.53 90)
+			(at 147.32 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3007,15 +3443,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9c429751-c94d-400a-81d4-a6c97f60716e")
+			(uuid "c3efb6fa-256d-42bf-9890-fb7e5e8c194a")
 		)
 		(pin "2"
-			(uuid "f1144a70-b831-4ab5-86ef-daf28afa39d7")
+			(uuid "d0b24250-50ce-4c22-af17-802a8298b013")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "R719")
+					(reference "C717")
 					(unit 1)
 				)
 			)
@@ -3112,8 +3548,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDA")
-		(at 49.53 62.23 0)
+		(lib_id "Device:R")
+		(at 39.37 39.37 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3121,9 +3557,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "002de5fc-06ff-4e7a-b41d-afba962c7449")
-		(property "Reference" "#PWR0713"
-			(at 49.53 68.58 0)
+		(uuid "638409e8-1b5b-46d3-a4fd-e1036fc911e2")
+		(property "Reference" "R718"
+			(at 39.37 39.37 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 39.37 36.4236 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 39.37 37.592 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3133,29 +3589,8 @@
 				)
 			)
 		)
-		(property "Value" "GNDA"
-			(at 49.657 66.6242 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 62.23 0)
+		(property "Datasheet" "~"
+			(at 39.37 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3166,7 +3601,17 @@
 			)
 		)
 		(property "Description" ""
-			(at 49.53 62.23 0)
+			(at 39.37 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" ""
+			(at 39.37 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3176,74 +3621,95 @@
 			)
 		)
 		(pin "1"
-			(uuid "c39f6b52-4d61-4b3f-82aa-eab728734bd8")
+			(uuid "f6d5de3d-478d-4cb5-8ae5-c0e212135554")
+		)
+		(pin "2"
+			(uuid "4fbb188f-a3ca-4015-8a90-4870f2401f38")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "#PWR0713")
+					(reference "R718")
 					(unit 1)
 				)
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 29.21 54.61) (xy 35.56 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9eacf8f-714b-4377-8bbf-05064f127266")
-	)
-	(wire
-		(pts
-			(xy 43.18 54.61) (xy 49.53 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3f85d0f-f5f8-4485-aea0-5e2ac219a5e9")
-	)
-	(wire
-		(pts
-			(xy 49.53 54.61) (xy 74.93 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c579f85-4cd7-4a7f-9d33-6a150e26819c")
-	)
-	(junction
-		(at 49.53 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4bb2800-1611-4d88-816e-9e727c676b39")
-	)
-	(hierarchical_label "IcDC"
-		(shape output)
-		(at 74.93 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 151.13 77.47 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6765beeb-4400-4e67-934d-b98ba64dda21")
+		(property "Reference" "#PWR0723"
+			(at 151.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
-			(justify left)
 		)
-		(uuid "3fd449c5-012d-4409-9b32-8dc12a610bea")
-	)
-	(hierarchical_label "VdcIn"
-		(shape input)
-		(at 39.37 162.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(property "Value" "GNDA"
+			(at 151.257 81.8642 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
-			(justify right)
 		)
-		(uuid "c8c9c373-5363-4303-91d3-96f12a1ffa6a")
+		(property "Footprint" ""
+			(at 151.13 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "af48ed8b-34f9-4be5-b8f0-4ccaec54992b")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "#PWR0723")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -3334,8 +3800,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 140.97 39.37 270)
+		(lib_id "power:GNDA")
+		(at 151.13 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3343,29 +3809,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "f0b56ba4-80ad-4906-a76c-fdb88e195617")
-		(property "Reference" "R721"
-			(at 140.97 39.37 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "220R"
-			(at 140.97 36.4236 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 140.97 37.592 90)
+		(uuid "737a0006-b851-44e3-9c54-0fa532ab1f5e")
+		(property "Reference" "#PWR0722"
+			(at 151.13 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3375,8 +3821,29 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 140.97 39.37 0)
+		(property "Value" "GNDA"
+			(at 151.257 66.6242 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3387,17 +3854,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" ""
-			(at 140.97 34.29 90)
+			(at 151.13 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3407,15 +3864,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "8b24ba0f-4818-45b6-b7ce-3ae0c4c6d4f5")
-		)
-		(pin "2"
-			(uuid "d1823fcd-67b8-41bf-8ffe-2a9e64a8d25c")
+			(uuid "71a290df-2a85-401e-8b89-640a24d5d73a")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "R721")
+					(reference "#PWR0722")
 					(unit 1)
 				)
 			)
@@ -3601,7 +4055,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 151.13 43.18 180)
+		(at 49.53 27.94 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3609,9 +4063,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "5b4bb1d3-bcd8-4054-946a-ad4e713fdb34")
-		(property "Reference" "C717"
-			(at 152.4 44.45 90)
+		(uuid "a5252729-e6c4-455c-a41f-7687de17aa5e")
+		(property "Reference" "C713"
+			(at 50.8 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3622,7 +4076,7 @@
 			)
 		)
 		(property "Value" "2n2"
-			(at 149.86 44.45 90)
+			(at 48.26 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3633,7 +4087,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 150.165 39.37 0)
+			(at 48.5648 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3644,7 +4098,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 43.18 0)
+			(at 49.53 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3655,7 +4109,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 43.18 0)
+			(at 49.53 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3665,7 +4119,7 @@
 			)
 		)
 		(property "Part#" ""
-			(at 147.32 43.18 90)
+			(at 45.72 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3675,181 +4129,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "c3efb6fa-256d-42bf-9890-fb7e5e8c194a")
+			(uuid "ecd6cab1-3fdf-4e2b-8421-efcbfc303699")
 		)
 		(pin "2"
-			(uuid "d0b24250-50ce-4c22-af17-802a8298b013")
+			(uuid "45ed260c-aedf-4141-bcf3-21c7990c1848")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "C717")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 151.13 58.42 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3359370f-8dee-4da3-abe2-77bf9aaea3e7")
-		(property "Reference" "C718"
-			(at 152.4 59.69 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2n2"
-			(at 149.86 59.69 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 150.165 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 151.13 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" ""
-			(at 147.32 58.42 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "124afdce-20a6-4fb5-814f-682a7b9eb5dd")
-		)
-		(pin "2"
-			(uuid "ebb7b6d2-7e15-406f-9fb3-10c4874fe6e5")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "C718")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDA")
-		(at 151.13 31.75 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "23f27307-c537-415b-b53e-28d6f1ecfc23")
-		(property "Reference" "#PWR0720"
-			(at 151.13 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDA"
-			(at 151.257 36.1442 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 151.13 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.13 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 151.13 31.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9dfd1cbd-da64-4e03-8f2f-25c3a0765d5c")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "#PWR0720")
+					(reference "C713")
 					(unit 1)
 				)
 			)
@@ -3932,8 +4220,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDA")
-		(at 151.13 62.23 0)
+		(lib_id "Device:R")
+		(at 39.37 24.13 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3941,9 +4229,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "737a0006-b851-44e3-9c54-0fa532ab1f5e")
-		(property "Reference" "#PWR0722"
-			(at 151.13 68.58 0)
+		(uuid "b936cb22-57b5-4c3e-b5a9-f17aacb7820a")
+		(property "Reference" "R717"
+			(at 39.37 24.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R"
+			(at 39.37 21.1836 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 39.37 22.352 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3953,29 +4261,8 @@
 				)
 			)
 		)
-		(property "Value" "GNDA"
-			(at 151.257 66.6242 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 151.13 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.13 62.23 0)
+		(property "Datasheet" "~"
+			(at 39.37 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3986,7 +4273,17 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 62.23 0)
+			(at 39.37 24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" ""
+			(at 39.37 19.05 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3996,190 +4293,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "71a290df-2a85-401e-8b89-640a24d5d73a")
+			(uuid "7f5ad51f-16cb-4d77-a64d-87c5c26ff38b")
+		)
+		(pin "2"
+			(uuid "967c6601-3282-47fb-848f-f120ba10049e")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "#PWR0722")
+					(reference "R717")
 					(unit 1)
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 130.81 24.13) (xy 137.16 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d98923f9-ad3c-416f-bba9-2d80d54f1b6b")
-	)
-	(wire
-		(pts
-			(xy 144.78 24.13) (xy 151.13 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e4abc91-2cac-4391-884c-14fdd4802270")
-	)
-	(wire
-		(pts
-			(xy 151.13 24.13) (xy 176.53 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3594c919-f942-42b8-ae5b-b41d3a41cdd3")
-	)
-	(wire
-		(pts
-			(xy 130.81 39.37) (xy 137.16 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41d665da-48ea-423c-9260-82d660b9b325")
-	)
-	(wire
-		(pts
-			(xy 144.78 39.37) (xy 151.13 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ec4f82a-680c-4aa2-9dd8-80ed20097f0c")
-	)
-	(wire
-		(pts
-			(xy 151.13 39.37) (xy 176.53 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c27e7024-8acf-4151-a733-2c5dc8c6e047")
-	)
-	(wire
-		(pts
-			(xy 130.81 54.61) (xy 137.16 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3be4a89c-2399-4a97-96ab-fdc8a1bc8352")
-	)
-	(wire
-		(pts
-			(xy 144.78 54.61) (xy 151.13 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "806b0d94-d8d6-4a29-acb2-3c12e18b7b71")
-	)
-	(wire
-		(pts
-			(xy 151.13 54.61) (xy 176.53 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c99fc535-22b1-4bf3-baa3-e862e9d29124")
-	)
-	(junction
-		(at 151.13 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d6686fe6-e82e-4aea-b61e-322e5e69d12e")
-	)
-	(junction
-		(at 151.13 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d28f1ae-58b5-47ae-a1e2-25b1139eae50")
-	)
-	(junction
-		(at 151.13 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "38953b3e-c455-4567-96e4-5641c2139e68")
-	)
-	(hierarchical_label "Vc"
-		(shape input)
-		(at 130.81 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b3807dab-72e8-4758-b426-88be4fb269fc")
-	)
-	(hierarchical_label "Va"
-		(shape input)
-		(at 130.81 24.13 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "805f1650-de1e-4977-bef2-963721069fc9")
-	)
-	(hierarchical_label "Vb"
-		(shape input)
-		(at 130.81 39.37 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bfc2dd2a-cce7-46e5-ae08-c32e54c1ef6d")
-	)
-	(hierarchical_label "VaDC"
-		(shape output)
-		(at 176.53 24.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f7c34962-4ea1-4518-a35f-c9a484b5ddc4")
-	)
-	(hierarchical_label "VbDC"
-		(shape output)
-		(at 176.53 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "92039cfb-394a-4832-8386-c1c4c85bf2e0")
-	)
-	(hierarchical_label "VcDC"
-		(shape output)
-		(at 176.53 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "39b68185-ef30-4469-8a07-0ff1b0486b84")
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -4270,8 +4396,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 151.13 73.66 180)
+		(lib_id "Device:R")
+		(at 140.97 39.37 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4279,31 +4405,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "23ad7a6e-a4c1-4712-943c-7918350ab10c")
-		(property "Reference" "C719"
-			(at 152.4 74.93 90)
+		(uuid "f0b56ba4-80ad-4906-a76c-fdb88e195617")
+		(property "Reference" "R721"
+			(at 140.97 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "10n"
-			(at 149.86 74.93 90)
+		(property "Value" "220R"
+			(at 140.97 36.4236 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 150.165 69.85 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 140.97 37.592 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4314,7 +4438,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 73.66 0)
+			(at 140.97 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4325,7 +4449,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.13 73.66 0)
+			(at 140.97 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4335,7 +4459,7 @@
 			)
 		)
 		(property "Part#" ""
-			(at 147.32 73.66 90)
+			(at 140.97 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4345,152 +4469,18 @@
 			)
 		)
 		(pin "1"
-			(uuid "b5c7c70a-53d1-45e4-9d37-bc206d339785")
+			(uuid "8b24ba0f-4818-45b6-b7ce-3ae0c4c6d4f5")
 		)
 		(pin "2"
-			(uuid "cc89cb9e-0302-4f34-a88a-fa564d6c4bc3")
+			(uuid "d1823fcd-67b8-41bf-8ffe-2a9e64a8d25c")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "C719")
+					(reference "R721")
 					(unit 1)
 				)
 			)
 		)
-	)
-	(symbol
-		(lib_id "power:GNDA")
-		(at 151.13 77.47 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6765beeb-4400-4e67-934d-b98ba64dda21")
-		(property "Reference" "#PWR0723"
-			(at 151.13 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDA"
-			(at 151.257 81.8642 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 151.13 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 151.13 77.47 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 151.13 77.47 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "af48ed8b-34f9-4be5-b8f0-4ccaec54992b")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "#PWR0723")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 130.81 69.85) (xy 137.16 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0560fc49-5e95-4a70-8744-14ce4997c49d")
-	)
-	(wire
-		(pts
-			(xy 144.78 69.85) (xy 151.13 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61cc31b2-bcb7-45ec-8015-b03aa6a5af2b")
-	)
-	(wire
-		(pts
-			(xy 151.13 69.85) (xy 176.53 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac4fdb89-bb93-4c8f-a820-428125fb6559")
-	)
-	(junction
-		(at 151.13 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1a81aa92-e3ee-4ca3-84c6-923c6067e2f6")
-	)
-	(hierarchical_label "V12P"
-		(shape input)
-		(at 130.81 69.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0ae50851-e84d-4ffd-b83c-03654d804ca2")
-	)
-	(hierarchical_label "V12PDC"
-		(shape output)
-		(at 176.53 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b08c965a-7f3e-455c-b063-1cd5acd3d505")
 	)
 )

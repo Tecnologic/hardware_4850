@@ -8,8 +8,7 @@
 		(title "Jacobi")
 		(comment 1 "unimoc Jacobi: 48V / 50A drive, logic board + power board")
 	)
-	(lib_symbols
-	)
+	(lib_symbols)
 	(sheet
 		(at 50.8 50.8)
 		(size 50.8 38.1)
