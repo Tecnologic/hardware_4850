@@ -1382,7 +1382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+		(property "Footprint" "jacobi:Terminal_M3_XFCN_TT34086077-0910"
 			(at 106.68 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -1393,7 +1393,18 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "LCSC" "C19724597"
+			(at 106.68 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "datasheets/screw_terminal_m3.pdf"
 			(at 106.68 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -1991,7 +2002,18 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+		(property "Footprint" "jacobi:Terminal_M3_XFCN_TT34086077-0910"
+			(at 106.68 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19724597"
 			(at 106.68 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2144,7 +2166,18 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+		(property "Footprint" "jacobi:Terminal_M3_XFCN_TT34086077-0910"
+			(at 106.68 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19724597"
 			(at 106.68 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -2693,7 +2726,18 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+		(property "Footprint" "jacobi:Terminal_M3_XFCN_TT34086077-0910"
+			(at 106.68 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19724597"
 			(at 106.68 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2770,7 +2814,18 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+		(property "Footprint" "jacobi:Terminal_M3_XFCN_TT34086077-0910"
+			(at 106.68 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19724597"
 			(at 106.68 81.28 0)
 			(hide yes)
 			(show_name no)
