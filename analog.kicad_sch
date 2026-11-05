@@ -169,6 +169,222 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x04"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -718,228 +934,85 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x04"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
+	)
+	(text "RC filters: phase currents Ia..Ic, phase voltages Va..Vc,"
+		(exclude_from_sim no)
+		(at 205 31.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
 			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x04"
-				(at 0 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x04_1_1"
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -6.35)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
+			(justify left bottom)
 		)
+		(uuid "04f0d749-cbb9-4b4b-a7cb-401a2591a339")
+	)
+	(text "DC link voltage and 12 V sense into the MCU ADC"
+		(exclude_from_sim no)
+		(at 205 35.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "291ce1f9-4c2e-4de2-82c0-bd9a28e74c40")
+	)
+	(text "Accelerator input J601 (AIN_ACC / AIN_DCC)"
+		(exclude_from_sim no)
+		(at 205 44.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "67afd7f2-f18e-4220-86e2-0614f41d81b8")
+	)
+	(text "All filters reference GNDA"
+		(exclude_from_sim no)
+		(at 205 49.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "80d7d8e4-d2fe-4fc0-88e3-919620674bda")
+	)
+	(text "Analog front end"
+		(exclude_from_sim no)
+		(at 205 25 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e9c22895-f3b9-4042-b6b7-e7b9f2a15d63")
+	)
+	(text "Bridge NTC (Temp+) and motor NTC (J701): 3.3VADC pull-ups"
+		(exclude_from_sim no)
+		(at 205 40.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1c242df-65eb-46ec-9c45-6ad78e2fb76f")
 	)
 	(junction
 		(at 151.13 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a81aa92-e3ee-4ca3-84c6-923c6067e2f6")
+	)
+	(junction
+		(at 138.43 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ef87b60-833c-4b3b-9d8d-a8fd3456415b")
 	)
 	(junction
 		(at 151.13 54.61)
@@ -960,6 +1033,12 @@
 		(uuid "43f01836-2e6b-4280-802c-08f7dc39c791")
 	)
 	(junction
+		(at 143.51 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "55a89cfb-2359-408e-bb8c-b0ce0c207098")
+	)
+	(junction
 		(at 49.53 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -976,6 +1055,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8d28f1ae-58b5-47ae-a1e2-25b1139eae50")
+	)
+	(junction
+		(at 143.51 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96417cbb-fb9f-4cd1-85b9-945e33e4e1c9")
+	)
+	(junction
+		(at 151.13 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab1011a4-cab3-4c5e-ba30-c93ad13aca46")
 	)
 	(junction
 		(at 49.53 39.37)
@@ -1065,6 +1156,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 123.19) (xy 143.51 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0921b14d-c8ca-436d-b1f7-570449a273b3")
+	)
+	(wire
+		(pts
 			(xy 26.67 125.73) (xy 26.67 128.27)
 		)
 		(stroke
@@ -1135,6 +1236,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 142.24) (xy 138.43 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18df6290-402f-46c7-903d-9058b9a99b7b")
+	)
+	(wire
+		(pts
 			(xy 62.23 162.56) (xy 67.31 162.56)
 		)
 		(stroke
@@ -1142,6 +1253,36 @@
 			(type default)
 		)
 		(uuid "22204449-4b8a-4147-b263-76d1a34ed613")
+	)
+	(wire
+		(pts
+			(xy 111.76 139.7) (xy 125.73 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25f8cc94-8370-433b-afe3-f8c0e0c27c81")
+	)
+	(wire
+		(pts
+			(xy 143.51 123.19) (xy 168.91 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a0f4bfb-b4f7-4776-86a2-f3772adad768")
+	)
+	(wire
+		(pts
+			(xy 139.7 139.7) (xy 139.7 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ce70137-797f-4c8e-8a35-ea3e0574171a")
 	)
 	(wire
 		(pts
@@ -1162,6 +1303,26 @@
 			(type default)
 		)
 		(uuid "389077cb-a6eb-4079-a05e-6a4ccbd468fb")
+	)
+	(wire
+		(pts
+			(xy 151.13 134.62) (xy 151.13 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a619e02-d593-4c0c-a33e-2d14d38921b2")
+	)
+	(wire
+		(pts
+			(xy 137.16 137.16) (xy 137.16 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ab5e175-392a-46cb-9953-63aeee2f90f8")
 	)
 	(wire
 		(pts
@@ -1195,6 +1356,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 134.62) (xy 134.62 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fb693f9-c170-4025-ae2b-df7b7db29726")
+	)
+	(wire
+		(pts
 			(xy 130.81 39.37) (xy 137.16 39.37)
 		)
 		(stroke
@@ -1225,6 +1396,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 134.62) (xy 143.51 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c76dc2d-9aae-4e26-92c9-6ba1ab54570d")
+	)
+	(wire
+		(pts
 			(xy 26.67 95.25) (xy 26.67 101.6)
 		)
 		(stroke
@@ -1232,6 +1413,26 @@
 			(type default)
 		)
 		(uuid "5046ec10-e911-4ac0-8114-997ecf4e7e75")
+	)
+	(wire
+		(pts
+			(xy 138.43 146.05) (xy 143.51 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59c47743-f115-47a2-8e61-5f186eb395b1")
+	)
+	(wire
+		(pts
+			(xy 151.13 125.73) (xy 168.91 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ce35f02-98ba-4bfc-90c4-1f6a0868d436")
 	)
 	(wire
 		(pts
@@ -1325,6 +1526,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 142.24) (xy 138.43 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b318c98-0e5b-4488-9e3e-e8ee51eef41e")
+	)
+	(wire
+		(pts
 			(xy 48.26 101.6) (xy 53.34 101.6)
 		)
 		(stroke
@@ -1335,6 +1546,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 139.7) (xy 139.7 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9007249d-f004-40af-a549-92bd2ab8fed8")
+	)
+	(wire
+		(pts
 			(xy 49.53 39.37) (xy 74.93 39.37)
 		)
 		(stroke
@@ -1342,6 +1563,16 @@
 			(type default)
 		)
 		(uuid "907808a3-3343-4620-9b28-338f099a3338")
+	)
+	(wire
+		(pts
+			(xy 111.76 137.16) (xy 125.73 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "934b340d-da5b-4850-8eed-86b81c5b9282")
 	)
 	(wire
 		(pts
@@ -1362,6 +1593,16 @@
 			(type default)
 		)
 		(uuid "a3b511e8-be70-4a4d-8f8a-fa8f273ec7c0")
+	)
+	(wire
+		(pts
+			(xy 138.43 146.05) (xy 138.43 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a56438cc-402f-4e82-a334-a30d8bf4a805")
 	)
 	(wire
 		(pts
@@ -1465,6 +1706,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 146.05) (xy 151.13 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c57eceae-7cf5-4798-991f-39741540c7c1")
+	)
+	(wire
+		(pts
 			(xy 151.13 54.61) (xy 176.53 54.61)
 		)
 		(stroke
@@ -1485,6 +1736,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 146.05) (xy 151.13 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d915cfbd-eea7-46a0-a91a-031e36090a6a")
+	)
+	(wire
+		(pts
 			(xy 130.81 24.13) (xy 137.16 24.13)
 		)
 		(stroke
@@ -1492,6 +1753,16 @@
 			(type default)
 		)
 		(uuid "d98923f9-ad3c-416f-bba9-2d80d54f1b6b")
+	)
+	(wire
+		(pts
+			(xy 133.35 137.16) (xy 137.16 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dad77d3e-31dd-4624-b0e1-5bba4d9ceb4f")
 	)
 	(wire
 		(pts
@@ -1515,6 +1786,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 125.73) (xy 151.13 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6eea5c2-59d8-4ebf-9782-a2d727d7be25")
+	)
+	(wire
+		(pts
 			(xy 62.23 179.07) (xy 62.23 186.69)
 		)
 		(stroke
@@ -1532,6 +1813,26 @@
 			(type default)
 		)
 		(uuid "e9eacf8f-714b-4377-8bbf-05064f127266")
+	)
+	(wire
+		(pts
+			(xy 134.62 134.62) (xy 134.62 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1ee3c96-7d13-4603-9d34-d73e6c0ffcb0")
+	)
+	(wire
+		(pts
+			(xy 143.51 146.05) (xy 143.51 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faf71598-e3ef-4f9d-a67d-3d5d5d1e1b73")
 	)
 	(hierarchical_label "Temp+"
 		(shape input)
@@ -1631,6 +1932,28 @@
 			(justify left)
 		)
 		(uuid "92039cfb-394a-4832-8386-c1c4c85bf2e0")
+	)
+	(hierarchical_label "AIN_ACC"
+		(shape output)
+		(at 168.91 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99c19c82-2a83-4de1-8e7a-8d05777af662")
+	)
+	(hierarchical_label "AIN_DCC"
+		(shape output)
+		(at 168.91 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9fca0c80-fa1a-4805-8af4-ffd86d34ee2f")
 	)
 	(hierarchical_label "IaDC"
 		(shape output)
@@ -2922,6 +3245,615 @@
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
 					(reference "C709")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 106.68 139.7 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd138f5")
+		(property "Reference" "J601"
+			(at 106.68 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AIN"
+			(at 102.87 138.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal"
+			(at 106.68 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 139.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" "C157926"
+			(at 106.68 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0e371e3e-13fe-42b8-aba0-a84be89f1459")
+		)
+		(pin "2"
+			(uuid "4453c282-9747-4ea1-8aeb-2b4b01940842")
+		)
+		(pin "3"
+			(uuid "7c4c4be4-4642-4abf-9c06-932065109865")
+		)
+		(pin "4"
+			(uuid "04b7a2ec-3f9f-4ceb-be6e-00e3603fb9ef")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "J601")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDA")
+		(at 138.43 147.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd14c6f")
+		(property "Reference" "#PWR0606"
+			(at 138.43 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 138.557 151.7142 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 147.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f4497a24-cdcb-4dee-80da-d40b14fe54f8")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "#PWR0606")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 143.51 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd15933")
+		(property "Reference" "C602"
+			(at 142.24 137.16 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 144.78 137.16 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 144.4752 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 143.51 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 138.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" "CL10B104KBNC"
+			(at 147.32 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e531402-acee-49b7-acf9-506d1b8b6a40")
+		)
+		(pin "2"
+			(uuid "a600f1de-aeaa-4493-9de7-1646b5569df2")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "C602")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 151.13 138.43 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd1668a")
+		(property "Reference" "C604"
+			(at 149.86 137.16 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 152.4 137.16 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 152.0952 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 138.43 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" "CL10B104KBNC"
+			(at 154.94 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8613fe28-40ea-4d50-b593-347006ec3548")
+		)
+		(pin "2"
+			(uuid "fec26b31-0b2c-460c-b04a-36872901d676")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "C604")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 129.54 137.16 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd1d9e2")
+		(property "Reference" "R602"
+			(at 132.08 137.16 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "11k"
+			(at 135.89 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 129.54 135.382 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" "MCR03ERTJ113"
+			(at 119.38 135.89 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a33b23bc-e775-4b19-8df0-f19e3b64f1bf")
+		)
+		(pin "2"
+			(uuid "3bd1a2e7-9b14-49f9-8049-b1b4fad5bf3a")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "R602")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 129.54 139.7 90)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd1eedf")
+		(property "Reference" "R603"
+			(at 132.08 139.7 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "11k"
+			(at 135.89 140.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 129.54 137.922 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 129.54 139.7 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" "MCR03ERTJ113"
+			(at 119.38 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8fce32ab-c9a0-40aa-9e3c-dbd605f4dbb6")
+		)
+		(pin "2"
+			(uuid "e962afb6-3cdf-430f-8dd3-43380162d341")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "R603")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VADC")
+		(at 134.62 123.19 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-00005dd78239")
+		(property "Reference" "#PWR0605"
+			(at 138.43 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VADC"
+			(at 135.128 119.5578 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 123.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a9f369ea-6ff6-4706-b7fc-097b03350f57")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
+					(reference "#PWR0605")
 					(unit 1)
 				)
 			)
@@ -4704,937 +5636,5 @@
 				)
 			)
 		)
-	)
-(junction
-		(at 138.43 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1ef87b60-833c-4b3b-9d8d-a8fd3456415b")
-	)
-(junction
-		(at 143.51 146.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55a89cfb-2359-408e-bb8c-b0ce0c207098")
-	)
-(junction
-		(at 143.51 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "96417cbb-fb9f-4cd1-85b9-945e33e4e1c9")
-	)
-(junction
-		(at 151.13 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab1011a4-cab3-4c5e-ba30-c93ad13aca46")
-	)
-(wire
-		(pts
-			(xy 137.16 123.19) (xy 143.51 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0921b14d-c8ca-436d-b1f7-570449a273b3")
-	)
-(wire
-		(pts
-			(xy 138.43 142.24) (xy 138.43 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18df6290-402f-46c7-903d-9058b9a99b7b")
-	)
-(wire
-		(pts
-			(xy 111.76 139.7) (xy 125.73 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25f8cc94-8370-433b-afe3-f8c0e0c27c81")
-	)
-(wire
-		(pts
-			(xy 143.51 123.19) (xy 168.91 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a0f4bfb-b4f7-4776-86a2-f3772adad768")
-	)
-(wire
-		(pts
-			(xy 139.7 139.7) (xy 139.7 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ce70137-797f-4c8e-8a35-ea3e0574171a")
-	)
-(wire
-		(pts
-			(xy 151.13 134.62) (xy 151.13 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a619e02-d593-4c0c-a33e-2d14d38921b2")
-	)
-(wire
-		(pts
-			(xy 137.16 137.16) (xy 137.16 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ab5e175-392a-46cb-9953-63aeee2f90f8")
-	)
-(wire
-		(pts
-			(xy 111.76 134.62) (xy 134.62 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fb693f9-c170-4025-ae2b-df7b7db29726")
-	)
-(wire
-		(pts
-			(xy 143.51 134.62) (xy 143.51 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c76dc2d-9aae-4e26-92c9-6ba1ab54570d")
-	)
-(wire
-		(pts
-			(xy 138.43 146.05) (xy 143.51 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59c47743-f115-47a2-8e61-5f186eb395b1")
-	)
-(wire
-		(pts
-			(xy 151.13 125.73) (xy 168.91 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ce35f02-98ba-4bfc-90c4-1f6a0868d436")
-	)
-(wire
-		(pts
-			(xy 111.76 142.24) (xy 138.43 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b318c98-0e5b-4488-9e3e-e8ee51eef41e")
-	)
-(wire
-		(pts
-			(xy 133.35 139.7) (xy 139.7 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9007249d-f004-40af-a549-92bd2ab8fed8")
-	)
-(wire
-		(pts
-			(xy 111.76 137.16) (xy 125.73 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "934b340d-da5b-4850-8eed-86b81c5b9282")
-	)
-(wire
-		(pts
-			(xy 138.43 146.05) (xy 138.43 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a56438cc-402f-4e82-a334-a30d8bf4a805")
-	)
-(wire
-		(pts
-			(xy 151.13 146.05) (xy 151.13 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c57eceae-7cf5-4798-991f-39741540c7c1")
-	)
-(wire
-		(pts
-			(xy 143.51 146.05) (xy 151.13 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d915cfbd-eea7-46a0-a91a-031e36090a6a")
-	)
-(wire
-		(pts
-			(xy 133.35 137.16) (xy 137.16 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dad77d3e-31dd-4624-b0e1-5bba4d9ceb4f")
-	)
-(wire
-		(pts
-			(xy 139.7 125.73) (xy 151.13 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6eea5c2-59d8-4ebf-9782-a2d727d7be25")
-	)
-(wire
-		(pts
-			(xy 134.62 134.62) (xy 134.62 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1ee3c96-7d13-4603-9d34-d73e6c0ffcb0")
-	)
-(wire
-		(pts
-			(xy 143.51 146.05) (xy 143.51 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "faf71598-e3ef-4f9d-a67d-3d5d5d1e1b73")
-	)
-	(hierarchical_label "AIN_ACC"
-		(shape output)
-		(at 168.91 123.19 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "99c19c82-2a83-4de1-8e7a-8d05777af662")
-	)
-	(hierarchical_label "AIN_DCC"
-		(shape output)
-		(at 168.91 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9fca0c80-fa1a-4805-8af4-ffd86d34ee2f")
-	)
-(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 106.68 139.7 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd138f5")
-		(property "Reference" "J601"
-			(at 106.68 132.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "AIN"
-			(at 102.87 138.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal"
-			(at 106.68 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 106.68 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 139.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" "C157926"
-			(at 106.68 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0e371e3e-13fe-42b8-aba0-a84be89f1459")
-		)
-		(pin "2"
-			(uuid "4453c282-9747-4ea1-8aeb-2b4b01940842")
-		)
-		(pin "3"
-			(uuid "7c4c4be4-4642-4abf-9c06-932065109865")
-		)
-		(pin "4"
-			(uuid "04b7a2ec-3f9f-4ceb-be6e-00e3603fb9ef")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "J601")
-					(unit 1)
-				)
-			)
-		)
-	)
-(symbol
-		(lib_id "power:GNDA")
-		(at 138.43 147.32 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd14c6f")
-		(property "Reference" "#PWR0606"
-			(at 138.43 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDA"
-			(at 138.557 151.7142 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 138.43 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 138.43 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 138.43 147.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f4497a24-cdcb-4dee-80da-d40b14fe54f8")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "#PWR0606")
-					(unit 1)
-				)
-			)
-		)
-	)
-(symbol
-		(lib_id "Device:C")
-		(at 143.51 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd15933")
-		(property "Reference" "C602"
-			(at 142.24 137.16 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 144.78 137.16 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 144.4752 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 143.51 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 143.51 138.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" "CL10B104KBNC"
-			(at 147.32 138.43 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5e531402-acee-49b7-acf9-506d1b8b6a40")
-		)
-		(pin "2"
-			(uuid "a600f1de-aeaa-4493-9de7-1646b5569df2")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "C602")
-					(unit 1)
-				)
-			)
-		)
-	)
-(symbol
-		(lib_id "Device:C")
-		(at 151.13 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd1668a")
-		(property "Reference" "C604"
-			(at 149.86 137.16 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 152.4 137.16 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 152.0952 142.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 151.13 138.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" "CL10B104KBNC"
-			(at 154.94 138.43 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8613fe28-40ea-4d50-b593-347006ec3548")
-		)
-		(pin "2"
-			(uuid "fec26b31-0b2c-460c-b04a-36872901d676")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "C604")
-					(unit 1)
-				)
-			)
-		)
-	)
-(symbol
-		(lib_id "Device:R")
-		(at 129.54 137.16 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd1d9e2")
-		(property "Reference" "R602"
-			(at 132.08 137.16 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "11k"
-			(at 135.89 138.43 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 129.54 135.382 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 129.54 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 129.54 137.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" "MCR03ERTJ113"
-			(at 119.38 135.89 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a33b23bc-e775-4b19-8df0-f19e3b64f1bf")
-		)
-		(pin "2"
-			(uuid "3bd1a2e7-9b14-49f9-8049-b1b4fad5bf3a")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "R602")
-					(unit 1)
-				)
-			)
-		)
-	)
-(symbol
-		(lib_id "Device:R")
-		(at 129.54 139.7 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd1eedf")
-		(property "Reference" "R603"
-			(at 132.08 139.7 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "11k"
-			(at 135.89 140.97 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 129.54 137.922 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 129.54 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 129.54 139.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part#" "MCR03ERTJ113"
-			(at 119.38 138.43 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8fce32ab-c9a0-40aa-9e3c-dbd605f4dbb6")
-		)
-		(pin "2"
-			(uuid "e962afb6-3cdf-430f-8dd3-43380162d341")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "R603")
-					(unit 1)
-				)
-			)
-		)
-	)
-(symbol
-		(lib_id "power:+3.3VADC")
-		(at 134.62 123.19 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005dd78239")
-		(property "Reference" "#PWR0605"
-			(at 138.43 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3VADC"
-			(at 135.128 119.5578 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 134.62 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 134.62 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 134.62 123.19 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a9f369ea-6ff6-4706-b7fc-097b03350f57")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b"
-					(reference "#PWR0605")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(text "Analog front end"
-		(exclude_from_sim no)
-		(at 205 25.00 0)
-		(effects
-			(font
-				(size 2.5 2.5)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "e9c22895-f3b9-4042-b6b7-e7b9f2a15d63")
-	)
-	(text "RC filters: phase currents Ia..Ic, phase voltages Va..Vc,"
-		(exclude_from_sim no)
-		(at 205 31.35 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "04f0d749-cbb9-4b4b-a7cb-401a2591a339")
-	)
-	(text "DC link voltage and 12 V sense into the MCU ADC"
-		(exclude_from_sim no)
-		(at 205 35.85 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "291ce1f9-4c2e-4de2-82c0-bd9a28e74c40")
-	)
-	(text "Bridge NTC (Temp+) and motor NTC (J701): 3.3VADC pull-ups"
-		(exclude_from_sim no)
-		(at 205 40.35 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "f1c242df-65eb-46ec-9c45-6ad78e2fb76f")
-	)
-	(text "Accelerator input J601 (AIN_ACC / AIN_DCC)"
-		(exclude_from_sim no)
-		(at 205 44.85 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "67afd7f2-f18e-4220-86e2-0614f41d81b8")
-	)
-	(text "All filters reference GNDA"
-		(exclude_from_sim no)
-		(at 205 49.35 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "80d7d8e4-d2fe-4fc0-88e3-919620674bda")
 	)
 )

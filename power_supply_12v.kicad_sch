@@ -1804,6 +1804,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 15.24 38.1)
+		(end 279.4 142.24)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "245e3936-430c-4618-9ef8-25ffbe55ccc5")
+	)
 	(text "Ripple injection (LM5008 needs >=25mV at FB):\nRr=R508 / Cr=C513 across L502, Cac=C509 into FB\n~45mV @ 36V in, ~50mV @ 60V in"
 		(exclude_from_sim no)
 		(at 190.5 68.58 0)
@@ -1814,6 +1826,18 @@
 			(justify left bottom)
 		)
 		(uuid "16e1d870-d2bf-4b5c-893c-83c70ae5b153")
+	)
+	(text "1   48 V -> 12 V   U502 LM5008 buck"
+		(exclude_from_sim no)
+		(at 17.78 43.18 0)
+		(effects
+			(font
+				(size 2 2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "90257c5c-58f0-4818-b673-9efa971c9430")
 	)
 	(junction
 		(at 73.66 72.39)
@@ -5040,29 +5064,4 @@
 			)
 		)
 	)
-	(rectangle
-		(start 15.24 38.1)
-		(end 279.4 142.24)
-		(stroke
-			(width 0)
-			(type dash)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "245e3936-430c-4618-9ef8-25ffbe55ccc5")
-	)
-	(text "1   48 V -> 12 V   U502 LM5008 buck"
-		(exclude_from_sim no)
-		(at 17.78 43.18 0)
-		(effects
-			(font
-				(size 2 2)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "90257c5c-58f0-4818-b673-9efa971c9430")
-	)
-	(embedded_fonts no)
 )

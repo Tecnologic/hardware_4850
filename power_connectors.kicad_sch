@@ -222,9 +222,7 @@
 			(symbol "Housing_Pad_0_1"
 				(polyline
 					(pts
-						(xy -5.08 0)
-						(xy 0 0)
-						(xy 3.81 3.81)
+						(xy -5.08 0) (xy 0 0) (xy 3.81 3.81)
 					)
 					(stroke
 						(width 0)
@@ -236,13 +234,7 @@
 				)
 				(polyline
 					(pts
-						(xy -5.08 0)
-						(xy -5.08 -4.445)
-						(xy 0 -4.445)
-						(xy 3.81 -0.635)
-						(xy 3.81 3.81)
-						(xy -1.27 3.81)
-						(xy -5.08 0)
+						(xy -5.08 0) (xy -5.08 -4.445) (xy 0 -4.445) (xy 3.81 -0.635) (xy 3.81 3.81) (xy -1.27 3.81) (xy -5.08 0)
 					)
 					(stroke
 						(width 0)
@@ -265,8 +257,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.8862 -1.5748)
-						(xy -3.8354 -1.3716)
+						(xy -3.8862 -1.5748) (xy -3.8354 -1.3716)
 					)
 					(stroke
 						(width 0)
@@ -289,8 +280,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.7846 -1.2192)
-						(xy -3.7338 -0.9652)
+						(xy -3.7846 -1.2192) (xy -3.7338 -0.9652)
 					)
 					(stroke
 						(width 0)
@@ -302,8 +292,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.7846 -1.6764)
-						(xy -3.429 -1.6764)
+						(xy -3.7846 -1.6764) (xy -3.429 -1.6764)
 					)
 					(stroke
 						(width 0)
@@ -315,8 +304,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.683 -1.3208)
-						(xy -3.3782 -1.3208)
+						(xy -3.683 -1.3208) (xy -3.3782 -1.3208)
 					)
 					(stroke
 						(width 0)
@@ -328,8 +316,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.5814 -0.9144)
-						(xy -3.2766 -0.9144)
+						(xy -3.5814 -0.9144) (xy -3.2766 -0.9144)
 					)
 					(stroke
 						(width 0)
@@ -341,8 +328,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.2766 -1.6256)
-						(xy -3.2258 -1.3716)
+						(xy -3.2766 -1.6256) (xy -3.2258 -1.3716)
 					)
 					(stroke
 						(width 0)
@@ -354,8 +340,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.175 -1.2192)
-						(xy -3.1242 -0.9652)
+						(xy -3.175 -1.2192) (xy -3.1242 -0.9652)
 					)
 					(stroke
 						(width 0)
@@ -367,8 +352,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.9718 -1.5748)
-						(xy -2.921 -1.3716)
+						(xy -2.9718 -1.5748) (xy -2.921 -1.3716)
 					)
 					(stroke
 						(width 0)
@@ -380,8 +364,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.8702 -1.2192)
-						(xy -2.8194 -0.9652)
+						(xy -2.8702 -1.2192) (xy -2.8194 -0.9652)
 					)
 					(stroke
 						(width 0)
@@ -393,8 +376,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.8702 -1.6764)
-						(xy -2.5146 -1.6764)
+						(xy -2.8702 -1.6764) (xy -2.5146 -1.6764)
 					)
 					(stroke
 						(width 0)
@@ -406,8 +388,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.7686 -1.3208)
-						(xy -2.4638 -1.3208)
+						(xy -2.7686 -1.3208) (xy -2.4638 -1.3208)
 					)
 					(stroke
 						(width 0)
@@ -419,8 +400,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.667 -0.9144)
-						(xy -2.3622 -0.9144)
+						(xy -2.667 -0.9144) (xy -2.3622 -0.9144)
 					)
 					(stroke
 						(width 0)
@@ -432,8 +412,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.3622 -1.6256)
-						(xy -2.3114 -1.3716)
+						(xy -2.3622 -1.6256) (xy -2.3114 -1.3716)
 					)
 					(stroke
 						(width 0)
@@ -445,8 +424,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.2606 -1.2192)
-						(xy -2.2098 -0.9652)
+						(xy -2.2606 -1.2192) (xy -2.2098 -0.9652)
 					)
 					(stroke
 						(width 0)
@@ -458,8 +436,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.0574 -1.5748)
-						(xy -2.0066 -1.3716)
+						(xy -2.0574 -1.5748) (xy -2.0066 -1.3716)
 					)
 					(stroke
 						(width 0)
@@ -471,8 +448,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.9558 -1.2192)
-						(xy -1.905 -0.9652)
+						(xy -1.9558 -1.2192) (xy -1.905 -0.9652)
 					)
 					(stroke
 						(width 0)
@@ -484,8 +460,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.9558 -1.6764)
-						(xy -1.6002 -1.6764)
+						(xy -1.9558 -1.6764) (xy -1.6002 -1.6764)
 					)
 					(stroke
 						(width 0)
@@ -497,8 +472,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.8542 -1.3208)
-						(xy -1.5494 -1.3208)
+						(xy -1.8542 -1.3208) (xy -1.5494 -1.3208)
 					)
 					(stroke
 						(width 0)
@@ -510,8 +484,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.7526 -0.9144)
-						(xy -1.4478 -0.9144)
+						(xy -1.7526 -0.9144) (xy -1.4478 -0.9144)
 					)
 					(stroke
 						(width 0)
@@ -523,8 +496,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.4478 -1.6256)
-						(xy -1.397 -1.3716)
+						(xy -1.4478 -1.6256) (xy -1.397 -1.3716)
 					)
 					(stroke
 						(width 0)
@@ -536,8 +508,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.3462 -1.2192)
-						(xy -1.2954 -0.9652)
+						(xy -1.3462 -1.2192) (xy -1.2954 -0.9652)
 					)
 					(stroke
 						(width 0)
@@ -560,8 +531,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0)
-						(xy 0 -4.445)
+						(xy 0 0) (xy 0 -4.445)
 					)
 					(stroke
 						(width 0)
@@ -799,8 +769,7 @@
 			(symbol "+BATT_0_1"
 				(polyline
 					(pts
-						(xy -0.762 1.27)
-						(xy 0 2.54)
+						(xy -0.762 1.27) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -812,8 +781,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54)
-						(xy 0.762 1.27)
+						(xy 0 2.54) (xy 0.762 1.27)
 					)
 					(stroke
 						(width 0)
@@ -825,8 +793,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0)
-						(xy 0 2.54)
+						(xy 0 0) (xy 0 2.54)
 					)
 					(stroke
 						(width 0)
@@ -941,9 +908,7 @@
 			(symbol "GNDPWR_0_1"
 				(polyline
 					(pts
-						(xy -1.016 -1.27)
-						(xy -1.27 -2.032)
-						(xy -1.27 -2.032)
+						(xy -1.016 -1.27) (xy -1.27 -2.032) (xy -1.27 -2.032)
 					)
 					(stroke
 						(width 0.2032)
@@ -955,9 +920,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.508 -1.27)
-						(xy -0.762 -2.032)
-						(xy -0.762 -2.032)
+						(xy -0.508 -1.27) (xy -0.762 -2.032) (xy -0.762 -2.032)
 					)
 					(stroke
 						(width 0.2032)
@@ -969,8 +932,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -1.27)
-						(xy 0 0)
+						(xy 0 -1.27) (xy 0 0)
 					)
 					(stroke
 						(width 0)
@@ -982,9 +944,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -1.27)
-						(xy -0.254 -2.032)
-						(xy -0.254 -2.032)
+						(xy 0 -1.27) (xy -0.254 -2.032) (xy -0.254 -2.032)
 					)
 					(stroke
 						(width 0.2032)
@@ -996,9 +956,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.508 -1.27)
-						(xy 0.254 -2.032)
-						(xy 0.254 -2.032)
+						(xy 0.508 -1.27) (xy 0.254 -2.032) (xy 0.254 -2.032)
 					)
 					(stroke
 						(width 0.2032)
@@ -1010,9 +968,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.016 -1.27)
-						(xy -1.016 -1.27)
-						(xy -1.016 -1.27)
+						(xy 1.016 -1.27) (xy -1.016 -1.27) (xy -1.016 -1.27)
 					)
 					(stroke
 						(width 0.2032)
@@ -1024,10 +980,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.016 -1.27)
-						(xy 0.762 -2.032)
-						(xy 0.762 -2.032)
-						(xy 0.762 -2.032)
+						(xy 1.016 -1.27) (xy 0.762 -2.032) (xy 0.762 -2.032) (xy 0.762 -2.032)
 					)
 					(stroke
 						(width 0.2032)
@@ -1162,12 +1115,7 @@
 			(symbol "PWR_FLAG_0_1"
 				(polyline
 					(pts
-						(xy 0 0)
-						(xy 0 1.27)
-						(xy -1.016 1.905)
-						(xy 0 2.54)
-						(xy 1.016 1.905)
-						(xy 0 1.27)
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
 					)
 					(stroke
 						(width 0)
@@ -1181,29 +1129,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Power board connectors and mounting"
-		(exclude_from_sim no)
-		(at 25.4 17.78 0)
-		(effects
-			(font
-				(size 2.5 2.5)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "6ad5aef1-d850-4450-88bc-f2945aa02553")
-	)
-	(text "J105  battery + (+BATT)            J109  battery - (GNDPWR)"
-		(exclude_from_sim no)
-		(at 25.4 24.13 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "41c4d4cf-be54-4d85-827c-0fc6f7fb6ae3")
-	)
 	(text "J106..J108  motor phases A, B, C   (nets PHASE_A / PHASE_B / PHASE_C)"
 		(exclude_from_sim no)
 		(at 25.4 28.63 0)
@@ -1214,17 +1139,6 @@
 			(justify left bottom)
 		)
 		(uuid "140760a4-7765-492b-b600-c3f23551221b")
-	)
-	(text "H104..H107, N101  mounting holes and enclosure pad tied to GNDPWR"
-		(exclude_from_sim no)
-		(at 25.4 33.13 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "a75d6cc3-4430-4d8c-a464-a54e8c4d7378")
 	)
 	(text "Phase terminals connect to the phase sheets through hierarchical labels."
 		(exclude_from_sim no)
@@ -1237,174 +1151,64 @@
 		)
 		(uuid "1defd862-1311-42ab-a3eb-52198a785c7e")
 	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 106.68 50.8 0)
-		(unit 1)
-		(body_style 1)
+	(text "J105  battery + (+BATT)            J109  battery - (GNDPWR)"
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "8a97317d-1c28-48fc-a841-f9f90fb69e2f")
-		(property "Reference" "J105"
-			(at 108.712 49.7332 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+		(at 25.4 24.13 0)
+		(effects
+			(font
+				(size 1.524 1.524)
 			)
+			(justify left bottom)
 		)
-		(property "Value" "+"
-			(at 108.712 52.0446 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+		(uuid "41c4d4cf-be54-4d85-827c-0fc6f7fb6ae3")
+	)
+	(text "Power board connectors and mounting"
+		(exclude_from_sim no)
+		(at 25.4 17.78 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(bold yes)
 			)
+			(justify left bottom)
 		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
-			(at 106.68 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+		(uuid "6ad5aef1-d850-4450-88bc-f2945aa02553")
+	)
+	(text "H104..H107, N101  mounting holes and enclosure pad tied to GNDPWR"
+		(exclude_from_sim no)
+		(at 25.4 33.13 0)
+		(effects
+			(font
+				(size 1.524 1.524)
 			)
+			(justify left bottom)
 		)
-		(property "Datasheet" "~"
-			(at 106.68 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+		(uuid "a75d6cc3-4430-4d8c-a464-a54e8c4d7378")
+	)
+	(text "Mounting holes / enclosure pad (all GNDPWR)"
+		(exclude_from_sim no)
+		(at 45 122 0)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify left bottom)
 		)
-		(property "Description" ""
-			(at 106.68 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4643413c-c31c-49c8-8085-f092d2c798fb")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "J105")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "cbb88c5e-a6e8-4929-9c14-72e0775c7dbd")
 	)
 	(wire
 		(pts
-			(xy 101.6 50.8)
-			(xy 93.98 50.8)
+			(xy 101.6 81.28) (xy 93.98 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "49678607-36ec-43a4-b8b2-db908cfda83a")
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 93.98 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6ec243d9-9ff4-4b6a-af1e-2a79e86c19d1")
-		(property "Reference" "#PWR0801"
-			(at 93.98 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 94.361 46.4058 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 93.98 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a4c499a6-1cda-40e2-a882-5bf0a4a23dc7")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "#PWR0801")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "09c2adbb-a4cf-490a-89de-2f092bf0b703")
 	)
 	(wire
 		(pts
-			(xy 93.98 50.8)
-			(xy 81.28 50.8)
+			(xy 93.98 50.8) (xy 81.28 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1412,163 +1216,19 @@
 		)
 		(uuid "214a9dd4-2beb-485c-9442-5204b68d7497")
 	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 81.28 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "386d1a35-dbbb-4c04-96d4-f30afdc44fd6")
-		(property "Reference" "#FLG0801"
-			(at 81.28 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+	(wire
+		(pts
+			(xy 101.6 96.52) (xy 93.98 96.52)
 		)
-		(property "Value" "PWR_FLAG"
-			(at 81.28 46.4058 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
+		(stroke
+			(width 0)
+			(type default)
 		)
-		(property "Footprint" ""
-			(at 81.28 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 81.28 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 81.28 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "66b24116-cca6-48d6-8dad-3db3cfbd6cf3")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "#FLG0801")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 106.68 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f24629b1-66a1-4641-9c6c-ec205f96a589")
-		(property "Reference" "J106"
-			(at 108.712 64.9732 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "A"
-			(at 108.712 67.2846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
-			(at 106.68 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 106.68 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 66.04 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fabfe6d4-bf5f-407f-8727-33434c7b02ae")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "J106")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "23e78472-df98-4500-86a4-01c8d8beab0c")
 	)
 	(wire
 		(pts
-			(xy 101.6 66.04)
-			(xy 93.98 66.04)
+			(xy 101.6 66.04) (xy 93.98 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1576,104 +1236,96 @@
 		)
 		(uuid "2eae5954-88b0-4a82-8994-802e1a1dbe14")
 	)
-	(hierarchical_label "PHASE_A"
+	(wire
+		(pts
+			(xy 152.4 129.54) (xy 152.4 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "311c1443-03d5-4e69-ba20-c94c96290a1d")
+	)
+	(wire
+		(pts
+			(xy 101.6 50.8) (xy 93.98 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49678607-36ec-43a4-b8b2-db908cfda83a")
+	)
+	(wire
+		(pts
+			(xy 101.6 111.76) (xy 93.98 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56798609-36d6-466e-8517-07ad832cf0df")
+	)
+	(wire
+		(pts
+			(xy 93.98 111.76) (xy 81.28 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59bcaad4-642d-472f-9dac-ca1cb6d47d46")
+	)
+	(wire
+		(pts
+			(xy 127 129.54) (xy 127 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86c2105d-4288-4d39-937a-df644c2d4577")
+	)
+	(wire
+		(pts
+			(xy 101.6 129.54) (xy 101.6 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c369de36-7504-4c5d-9275-d0f186e080ae")
+	)
+	(wire
+		(pts
+			(xy 50.8 129.54) (xy 50.8 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d965ef61-0929-482d-813a-5ed1e61aecbf")
+	)
+	(wire
+		(pts
+			(xy 76.2 129.54) (xy 76.2 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb83341e-8857-429d-82c8-d5e964d58dc5")
+	)
+	(hierarchical_label "PHASE_C"
 		(shape bidirectional)
-		(at 93.98 66.04 180)
+		(at 93.98 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "f832090d-6845-4bdd-a353-59eeece87c58")
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 106.68 81.28 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f3d48fc0-7006-4cbb-89d2-0c3083df3737")
-		(property "Reference" "J107"
-			(at 108.712 80.2132 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "B"
-			(at 108.712 82.5246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
-			(at 106.68 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 106.68 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 81.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d5db0f72-98c1-4127-817e-95af3e4f60cf")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "J107")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 101.6 81.28)
-			(xy 93.98 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09c2adbb-a4cf-490a-89de-2f092bf0b703")
+		(uuid "0c4ab523-2cf1-4c8f-a9e6-c1b2c21efcec")
 	)
 	(hierarchical_label "PHASE_B"
 		(shape bidirectional)
@@ -1685,6 +1337,17 @@
 			(justify right)
 		)
 		(uuid "3e53be54-c2e2-4c73-896a-8b67f991c61c")
+	)
+	(hierarchical_label "PHASE_A"
+		(shape bidirectional)
+		(at 93.98 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f832090d-6845-4bdd-a353-59eeece87c58")
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
@@ -1763,119 +1426,9 @@
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 101.6 96.52)
-			(xy 93.98 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23e78472-df98-4500-86a4-01c8d8beab0c")
-	)
-	(hierarchical_label "PHASE_C"
-		(shape bidirectional)
-		(at 93.98 96.52 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0c4ab523-2cf1-4c8f-a9e6-c1b2c21efcec")
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x01")
-		(at 106.68 111.76 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6096ce16-603e-40ac-a22a-13f9230b16eb")
-		(property "Reference" "J109"
-			(at 108.712 110.6932 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 108.712 113.0046 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
-			(at 106.68 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 106.68 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 111.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "64f578b8-a244-4899-8304-4967408111d2")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "J109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 101.6 111.76)
-			(xy 93.98 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56798609-36d6-466e-8517-07ad832cf0df")
-	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 93.98 111.76 0)
+		(at 50.8 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1883,9 +1436,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "3339eb65-dba7-4c36-a731-c63f153ed8bb")
-		(property "Reference" "#PWR0802"
-			(at 93.98 116.84 0)
+		(uuid "17910b52-d3a2-4225-ad9d-86af46b17faa")
+		(property "Reference" "#PWR0803"
+			(at 50.8 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1896,7 +1449,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 94.0816 115.6716 0)
+			(at 50.9016 138.5316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1906,7 +1459,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 93.98 113.03 0)
+			(at 50.8 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1917,7 +1470,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 113.03 0)
+			(at 50.8 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1928,7 +1481,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 93.98 111.76 0)
+			(at 50.8 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1938,27 +1491,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "7e995b70-afa7-4f9a-94fc-6c609a0667fc")
+			(uuid "186b7474-5a79-4378-b10a-ed1df9a80fd6")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "#PWR0802")
+					(reference "#PWR0803")
 					(unit 1)
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 93.98 111.76)
-			(xy 81.28 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59bcaad4-642d-472f-9dac-ca1cb6d47d46")
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
@@ -2037,96 +1579,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 50.8 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e054d4ab-8602-4132-b999-5b4bf01d1bcf")
-		(property "Reference" "H104"
-			(at 46.99 125.8316 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 46.99 128.143 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad"
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 50.8 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 50.8 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a3f4e622-d844-49ca-abb6-2045cb900bc7")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "H104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 50.8 129.54)
-			(xy 50.8 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d965ef61-0929-482d-813a-5ed1e61aecbf")
-	)
-	(symbol
 		(lib_id "power:GNDPWR")
-		(at 50.8 134.62 0)
+		(at 76.2 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2134,9 +1588,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "17910b52-d3a2-4225-ad9d-86af46b17faa")
-		(property "Reference" "#PWR0803"
-			(at 50.8 139.7 0)
+		(uuid "1d90461b-eebb-4ae4-bde1-6011764897ad")
+		(property "Reference" "#PWR0804"
+			(at 76.2 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2147,7 +1601,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 50.9016 138.5316 0)
+			(at 76.3016 138.5316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2157,7 +1611,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 135.89 0)
+			(at 76.2 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2168,7 +1622,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 135.89 0)
+			(at 76.2 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2179,7 +1633,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 50.8 134.62 0)
+			(at 76.2 134.62 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2189,12 +1643,634 @@
 			)
 		)
 		(pin "1"
-			(uuid "186b7474-5a79-4378-b10a-ed1df9a80fd6")
+			(uuid "8dbec044-2e05-4211-96ba-f5c917080de1")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "#PWR0803")
+					(reference "#PWR0804")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 127 134.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2be61501-50dc-4b7b-bca9-67c204d97732")
+		(property "Reference" "#PWR0806"
+			(at 127 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 127.1016 138.5316 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 127 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "245611db-21c9-48a8-824e-9ee77ada5d19")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "#PWR0806")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 93.98 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3339eb65-dba7-4c36-a731-c63f153ed8bb")
+		(property "Reference" "#PWR0802"
+			(at 93.98 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 94.0816 115.6716 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7e995b70-afa7-4f9a-94fc-6c609a0667fc")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "#PWR0802")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 81.28 50.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "386d1a35-dbbb-4c04-96d4-f30afdc44fd6")
+		(property "Reference" "#FLG0801"
+			(at 81.28 48.895 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 81.28 46.4058 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 81.28 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "66b24116-cca6-48d6-8dad-3db3cfbd6cf3")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "#FLG0801")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 152.4 134.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3c8c6122-92b7-434d-8500-24da5049423f")
+		(property "Reference" "#PWR0807"
+			(at 152.4 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 152.5016 138.5316 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "293fd95a-b7a5-4be9-9f9e-3dcd08f27c46")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "#PWR0807")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 106.68 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6096ce16-603e-40ac-a22a-13f9230b16eb")
+		(property "Reference" "J109"
+			(at 108.712 110.6932 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 108.712 113.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+			(at 106.68 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 111.76 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "64f578b8-a244-4899-8304-4967408111d2")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "J109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 93.98 50.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6ec243d9-9ff4-4b6a-af1e-2a79e86c19d1")
+		(property "Reference" "#PWR0801"
+			(at 93.98 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 94.361 46.4058 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a4c499a6-1cda-40e2-a882-5bf0a4a23dc7")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "#PWR0801")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 106.68 50.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8a97317d-1c28-48fc-a841-f9f90fb69e2f")
+		(property "Reference" "J105"
+			(at 108.712 49.7332 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "+"
+			(at 108.712 52.0446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+			(at 106.68 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4643413c-c31c-49c8-8085-f092d2c798fb")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "J105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Housing_Pad")
+		(at 157.48 124.46 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9abe5765-60b5-41ec-9e90-c8c805ec1d24")
+		(property "Reference" "N101"
+			(at 162.0012 122.9868 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Housing_Pad"
+			(at 162.0012 125.2982 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "jacobi:RND-455-00370"
+			(at 159.385 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 159.385 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part#" "RND 455-00370"
+			(at 162.0012 127.6096 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "5b252d1f-c8bb-403a-b959-b4a9ccdd83ce")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "N101")
 					(unit 1)
 				)
 			)
@@ -2276,181 +2352,6 @@
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 76.2 129.54)
-			(xy 76.2 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb83341e-8857-429d-82c8-d5e964d58dc5")
-	)
-	(symbol
-		(lib_id "power:GNDPWR")
-		(at 76.2 134.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1d90461b-eebb-4ae4-bde1-6011764897ad")
-		(property "Reference" "#PWR0804"
-			(at 76.2 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 76.3016 138.5316 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.2 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 76.2 134.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8dbec044-2e05-4211-96ba-f5c917080de1")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "#PWR0804")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 101.6 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ea320c4d-5b58-4368-9555-ba04a8949d4d")
-		(property "Reference" "H106"
-			(at 97.79 125.8316 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND"
-			(at 97.79 128.143 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
-			(at 101.6 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 101.6 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b2217628-9783-49ef-9890-ea1727cb991a")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "H106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 101.6 129.54)
-			(xy 101.6 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c369de36-7504-4c5d-9275-d0f186e080ae")
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
@@ -2605,20 +2506,9 @@
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 127 129.54)
-			(xy 127 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86c2105d-4288-4d39-937a-df644c2d4577")
-	)
 	(symbol
-		(lib_id "power:GNDPWR")
-		(at 127 134.62 0)
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 50.8 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2626,85 +2516,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "2be61501-50dc-4b7b-bca9-67c204d97732")
-		(property "Reference" "#PWR0806"
-			(at 127 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 127.1016 138.5316 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 127 134.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "245611db-21c9-48a8-824e-9ee77ada5d19")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "#PWR0806")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:Housing_Pad")
-		(at 157.48 124.46 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9abe5765-60b5-41ec-9e90-c8c805ec1d24")
-		(property "Reference" "N101"
-			(at 162.0012 122.9868 0)
+		(uuid "e054d4ab-8602-4132-b999-5b4bf01d1bcf")
+		(property "Reference" "H104"
+			(at 46.99 125.8316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2714,8 +2528,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Housing_Pad"
-			(at 162.0012 125.2982 0)
+		(property "Value" "GND"
+			(at 46.99 128.143 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2725,8 +2539,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "jacobi:RND-455-00370"
-			(at 159.385 123.19 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad"
+			(at 50.8 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2737,7 +2551,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 159.385 123.19 0)
+			(at 50.8 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2748,7 +2562,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.48 124.46 0)
+			(at 50.8 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2757,8 +2571,31 @@
 				)
 			)
 		)
-		(property "Part#" "RND 455-00370"
-			(at 162.0012 127.6096 0)
+		(pin "1"
+			(uuid "a3f4e622-d844-49ca-abb6-2045cb900bc7")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "H104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 101.6 127 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ea320c4d-5b58-4368-9555-ba04a8949d4d")
+		(property "Reference" "H106"
+			(at 97.79 125.8316 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2768,42 +2605,19 @@
 				(justify left)
 			)
 		)
-		(pin "1"
-			(uuid "5b252d1f-c8bb-403a-b959-b4a9ccdd83ce")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "N101")
-					(unit 1)
+		(property "Value" "GND"
+			(at 97.79 128.143 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 152.4 129.54)
-			(xy 152.4 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "311c1443-03d5-4e69-ba20-c94c96290a1d")
-	)
-	(symbol
-		(lib_id "power:GNDPWR")
-		(at 152.4 134.62 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3c8c6122-92b7-434d-8500-24da5049423f")
-		(property "Reference" "#PWR0807"
-			(at 152.4 139.7 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 101.6 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2813,29 +2627,8 @@
 				)
 			)
 		)
-		(property "Value" "GNDPWR"
-			(at 152.5016 138.5316 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 152.4 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 135.89 0)
+		(property "Datasheet" "~"
+			(at 101.6 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2846,7 +2639,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 134.62 0)
+			(at 101.6 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2856,27 +2649,169 @@
 			)
 		)
 		(pin "1"
-			(uuid "293fd95a-b7a5-4be9-9f9e-3dcd08f27c46")
+			(uuid "b2217628-9783-49ef-9890-ea1727cb991a")
 		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
-					(reference "#PWR0807")
+					(reference "H106")
 					(unit 1)
 				)
 			)
 		)
 	)
-	(text "Mounting holes / enclosure pad (all GNDPWR)"
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 106.68 66.04 0)
+		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
-		(at 45 122 0)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f24629b1-66a1-4641-9c6c-ec205f96a589")
+		(property "Reference" "J106"
+			(at 108.712 64.9732 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
-			(justify left bottom)
 		)
-		(uuid "cbb88c5e-a6e8-4929-9c14-72e0775c7dbd")
+		(property "Value" "A"
+			(at 108.712 67.2846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+			(at 106.68 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fabfe6d4-bf5f-407f-8727-33434c7b02ae")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "J106")
+					(unit 1)
+				)
+			)
+		)
 	)
-	(embedded_fonts no)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 106.68 81.28 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f3d48fc0-7006-4cbb-89d2-0c3083df3737")
+		(property "Reference" "J107"
+			(at 108.712 80.2132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B"
+			(at 108.712 82.5246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Wire:SolderWirePad_1x01_SMD_5x10mm"
+			(at 106.68 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 106.68 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d5db0f72-98c1-4127-817e-95af3e4f60cf")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03"
+					(reference "J107")
+					(unit 1)
+				)
+			)
+		)
+	)
 )

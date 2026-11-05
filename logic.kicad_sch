@@ -1298,6 +1298,73 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "power_supply  48 V -> 12 V -> 3V3 / 3V3 analog"
+		(exclude_from_sim no)
+		(at 185 35.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "1106c4ea-6c5a-4eea-aec0-0e2f209e001c")
+	)
+	(text "(J103, J104, J110)"
+		(exclude_from_sim no)
+		(at 185 44.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "6781dc18-0268-4cd1-af0f-49860152c1f0")
+	)
+	(text "Logic board"
+		(exclude_from_sim no)
+		(at 185 25 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "696f44d2-a4f0-4935-a6b6-9b099b55d6f0")
+	)
+	(text "J101 PWM, J102 ADC, J111 VSENSE go to the power board"
+		(exclude_from_sim no)
+		(at 185 40.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "78607e78-cfc6-4d1f-9254-8554b541fefa")
+	)
+	(text "controller    STM32H743 MCU, USB-C, analog, interfaces"
+		(exclude_from_sim no)
+		(at 185 31.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "da42c03d-3c06-49da-af8f-7ae1f55e6d82")
+	)
+	(text "H101..H103 mounting holes (GNDD)"
+		(exclude_from_sim no)
+		(at 185 49.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "e00d8507-f520-477f-b79b-41d588fcb11f")
+	)
 	(junction
 		(at 129.54 130.81)
 		(diameter 0)
@@ -3401,72 +3468,5 @@
 				)
 			)
 		)
-	)
-	(text "Logic board"
-		(exclude_from_sim no)
-		(at 185 25.00 0)
-		(effects
-			(font
-				(size 2.5 2.5)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "696f44d2-a4f0-4935-a6b6-9b099b55d6f0")
-	)
-	(text "controller    STM32H743 MCU, USB-C, analog, interfaces"
-		(exclude_from_sim no)
-		(at 185 31.35 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "da42c03d-3c06-49da-af8f-7ae1f55e6d82")
-	)
-	(text "power_supply  48 V -> 12 V -> 3V3 / 3V3 analog"
-		(exclude_from_sim no)
-		(at 185 35.85 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "1106c4ea-6c5a-4eea-aec0-0e2f209e001c")
-	)
-	(text "J101 PWM, J102 ADC, J111 VSENSE go to the power board"
-		(exclude_from_sim no)
-		(at 185 40.35 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "78607e78-cfc6-4d1f-9254-8554b541fefa")
-	)
-	(text "(J103, J104, J110)"
-		(exclude_from_sim no)
-		(at 185 44.85 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "6781dc18-0268-4cd1-af0f-49860152c1f0")
-	)
-	(text "H101..H103 mounting holes (GNDD)"
-		(exclude_from_sim no)
-		(at 185 49.35 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "e00d8507-f520-477f-b79b-41d588fcb11f")
 	)
 )

@@ -11,17 +11,38 @@
 		(company "ThunderDrive")
 	)
 	(lib_symbols)
-	(text "Logic power tree"
+	(text "All stages connect only through global power symbols (+48V, +12V, +3V3, +3.3VADC, GNDD, GNDA)."
 		(exclude_from_sim no)
-		(at 25.4 30.48 0)
+		(at 25.4 143.51 0)
 		(effects
 			(font
-				(size 2.5 2.5)
-				(bold yes)
+				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "de6e7cbe-c49e-4c3d-8b29-b4f1da265ce9")
+		(uuid "0b80fa62-738c-46d5-9121-093480268e2c")
+	)
+	(text "2  12 V -> 3V3 digital\nU501 LMR12010 buck, 3 MHz"
+		(exclude_from_sim no)
+		(at 119.38 73.66 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "61d4f0a3-6ca4-4f84-a448-89edd7107b0b")
+	)
+	(text "3  12 V -> 3V3 analog\nU503 LP2985 LDO\nGNDD / GNDA single-point tie (FB502)"
+		(exclude_from_sim no)
+		(at 119.38 111.76 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "7cbe7328-40a4-4141-8526-73bab77c3195")
 	)
 	(text "1   +48V  ->  +12V\n2   +12V  ->  +3V3       (MCU VDD, digital logic)\n3   +12V  ->  +3.3VADC  (VDDA / VREF+, INA240)"
 		(exclude_from_sim no)
@@ -34,8 +55,31 @@
 		)
 		(uuid "b288ab8e-db50-4cfa-9d79-df9fe9548dd0")
 	)
+	(text "1  48 V -> 12 V\nU502 LM5008 buck, enable jumper J501"
+		(exclude_from_sim no)
+		(at 27.94 73.66 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "d946ab16-b30e-4cea-8d77-43a47e9e5f5b")
+	)
+	(text "Logic power tree"
+		(exclude_from_sim no)
+		(at 25.4 30.48 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "de6e7cbe-c49e-4c3d-8b29-b4f1da265ce9")
+	)
 	(sheet
-		(at 25.4 63.5)
+		(at 116.84 101.6)
 		(size 63.5 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49,9 +93,9 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "f14fc16f-f5e6-49fe-b0ac-4893b2294ab0")
-		(property "Sheetname" "psu_12v"
-			(at 25.4 62.7884 0)
+		(uuid "8cef67df-31a2-4a9e-9c13-e4dedee32cc6")
+		(property "Sheetname" "psu_3v3a"
+			(at 116.84 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -61,8 +105,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "power_supply_12v.kicad_sch"
-			(at 25.4 89.4846 0)
+		(property "Sheetfile" "power_supply_3v3a.kicad_sch"
+			(at 116.84 127.5846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -75,7 +119,7 @@
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83"
-					(page "9")
+					(page "11")
 				)
 			)
 		)
@@ -127,7 +171,7 @@
 		)
 	)
 	(sheet
-		(at 116.84 101.6)
+		(at 25.4 63.5)
 		(size 63.5 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -141,9 +185,9 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "8cef67df-31a2-4a9e-9c13-e4dedee32cc6")
-		(property "Sheetname" "psu_3v3a"
-			(at 116.84 100.8884 0)
+		(uuid "f14fc16f-f5e6-49fe-b0ac-4893b2294ab0")
+		(property "Sheetname" "psu_12v"
+			(at 25.4 62.7884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -153,8 +197,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "power_supply_3v3a.kicad_sch"
-			(at 116.84 127.5846 0)
+		(property "Sheetfile" "power_supply_12v.kicad_sch"
+			(at 25.4 89.4846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -167,54 +211,9 @@
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83"
-					(page "11")
+					(page "9")
 				)
 			)
 		)
 	)
-	(text "1  48 V -> 12 V\nU502 LM5008 buck, enable jumper J501"
-		(exclude_from_sim no)
-		(at 27.94 73.66 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "d946ab16-b30e-4cea-8d77-43a47e9e5f5b")
-	)
-	(text "2  12 V -> 3V3 digital\nU501 LMR12010 buck, 3 MHz"
-		(exclude_from_sim no)
-		(at 119.38 73.66 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "61d4f0a3-6ca4-4f84-a448-89edd7107b0b")
-	)
-	(text "3  12 V -> 3V3 analog\nU503 LP2985 LDO\nGNDD / GNDA single-point tie (FB502)"
-		(exclude_from_sim no)
-		(at 119.38 111.76 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "7cbe7328-40a4-4141-8526-73bab77c3195")
-	)
-	(text "All stages connect only through global power symbols (+48V, +12V, +3V3, +3.3VADC, GNDD, GNDA)."
-		(exclude_from_sim no)
-		(at 25.4 143.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b80fa62-738c-46d5-9121-093480268e2c")
-	)
-	(embedded_fonts no)
 )

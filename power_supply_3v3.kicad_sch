@@ -1583,6 +1583,30 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 55.88 43.18)
+		(end 241.3 137.16)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "eb8f06d6-91a1-45ec-ab4a-b34c85c68b24")
+	)
+	(text "2   12 V -> 3V3 digital   U501 LMR12010 buck, 3 MHz"
+		(exclude_from_sim no)
+		(at 58.42 48.26 0)
+		(effects
+			(font
+				(size 2 2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e305aa24-b58f-4b69-bcb3-c648bafbb271")
+	)
 	(junction
 		(at 129.54 100.33)
 		(diameter 0)
@@ -3530,29 +3554,4 @@
 			)
 		)
 	)
-	(rectangle
-		(start 55.88 43.18)
-		(end 241.3 137.16)
-		(stroke
-			(width 0)
-			(type dash)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "eb8f06d6-91a1-45ec-ab4a-b34c85c68b24")
-	)
-	(text "2   12 V -> 3V3 digital   U501 LMR12010 buck, 3 MHz"
-		(exclude_from_sim no)
-		(at 58.42 48.26 0)
-		(effects
-			(font
-				(size 2 2)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "e305aa24-b58f-4b69-bcb3-c648bafbb271")
-	)
-	(embedded_fonts no)
 )

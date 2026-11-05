@@ -11,6 +11,17 @@
 		(company "ThunderDrive")
 	)
 	(lib_symbols)
+	(text "phase_a/b/c   half bridge with 2 FETs in parallel per switch, LM5109 gate driver, shunt and INA240 current sense (same sheet, 3 instances)"
+		(exclude_from_sim no)
+		(at 25.4 24.13 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "32b6c5ff-4100-4cb7-a0a0-58d06cf50109")
+	)
 	(text "Power board"
 		(exclude_from_sim no)
 		(at 25.4 17.78 0)
@@ -22,17 +33,6 @@
 			(justify left bottom)
 		)
 		(uuid "8669aaaa-b708-4e60-b36d-5b4e5611b5ba")
-	)
-	(text "phase_a/b/c   half bridge with 2 FETs in parallel per switch, LM5109 gate driver, shunt and INA240 current sense (same sheet, 3 instances)"
-		(exclude_from_sim no)
-		(at 25.4 24.13 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "32b6c5ff-4100-4cb7-a0a0-58d06cf50109")
 	)
 	(text "interface      PWM / ADC / VSENSE connectors to the logic board and bridge NTC"
 		(exclude_from_sim no)
@@ -66,6 +66,746 @@
 			(justify left bottom)
 		)
 		(uuid "fa183b2e-7ec4-4cfe-aa91-491c75975be1")
+	)
+	(wire
+		(pts
+			(xy 111.76 104.14) (xy 106.68 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07035b04-0ffa-4b2c-b4e8-5830e6ebfe25")
+	)
+	(wire
+		(pts
+			(xy 76.2 83.82) (xy 81.28 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b79f3ee-733a-437f-b419-59a4e211d8c0")
+	)
+	(wire
+		(pts
+			(xy 76.2 49.53) (xy 81.28 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c7855b4-ea05-4759-aafd-b33ae30d4d16")
+	)
+	(wire
+		(pts
+			(xy 111.76 100.33) (xy 106.68 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "305fd939-f991-4931-b9ee-0402b85c5340")
+	)
+	(wire
+		(pts
+			(xy 111.76 154.94) (xy 106.68 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37a700c8-51d6-4157-bc12-6d8127a84f2a")
+	)
+	(wire
+		(pts
+			(xy 76.2 64.77) (xy 81.28 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b66b31c-7b47-4751-8f3d-ac0159d49a3e")
+	)
+	(wire
+		(pts
+			(xy 111.76 49.53) (xy 106.68 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ddbbefd-bb8e-4949-b177-af0d3d12aa56")
+	)
+	(wire
+		(pts
+			(xy 190.5 107.95) (xy 185.42 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4eec113b-9922-4ace-8805-37c0fa9a04c3")
+	)
+	(wire
+		(pts
+			(xy 190.5 49.53) (xy 185.42 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "547c9109-7914-4eae-ab06-9bae557cfcb3")
+	)
+	(wire
+		(pts
+			(xy 149.86 104.14) (xy 154.94 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5747c6d6-90ce-489d-83bf-62fd34783bb4")
+	)
+	(wire
+		(pts
+			(xy 76.2 53.34) (xy 81.28 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59465877-4669-487e-a5b3-971ac1ecc5fe")
+	)
+	(wire
+		(pts
+			(xy 228.6 64.77) (xy 233.68 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fb3cf63-2a73-4f4e-9fb4-f814962d778d")
+	)
+	(wire
+		(pts
+			(xy 228.6 53.34) (xy 233.68 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "708591ef-f8dd-44ac-9b14-a0bb8bccb7eb")
+	)
+	(wire
+		(pts
+			(xy 76.2 95.25) (xy 81.28 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "716fbc3e-0922-41f1-8a3e-1d90a81c510c")
+	)
+	(wire
+		(pts
+			(xy 190.5 57.15) (xy 185.42 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d1cf292-ac39-4a08-b893-bba7e9e02645")
+	)
+	(wire
+		(pts
+			(xy 76.2 80.01) (xy 81.28 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8056c361-eb3c-4a0e-b268-bf2e15c1329d")
+	)
+	(wire
+		(pts
+			(xy 190.5 53.34) (xy 185.42 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8137c22c-6eef-4b2b-881e-b8b29734c04d")
+	)
+	(wire
+		(pts
+			(xy 76.2 99.06) (xy 81.28 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83a3b5fc-0258-43f7-bd9b-c6b8ca9f6a4d")
+	)
+	(wire
+		(pts
+			(xy 111.76 53.34) (xy 106.68 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "926e4414-e3d2-4b3c-93d7-2e9256408c7d")
+	)
+	(wire
+		(pts
+			(xy 149.86 154.94) (xy 154.94 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93f6f958-283e-41b6-bdc8-4e7fb3d5a4ee")
+	)
+	(wire
+		(pts
+			(xy 76.2 76.2) (xy 81.28 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a94aa29-5ea7-4bf7-b2c1-ecad88f15dbf")
+	)
+	(wire
+		(pts
+			(xy 228.6 49.53) (xy 233.68 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9aee59ed-1847-44df-b634-aa6168126be9")
+	)
+	(wire
+		(pts
+			(xy 76.2 72.39) (xy 81.28 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e59d087-db02-4261-ae42-36369cf42eed")
+	)
+	(wire
+		(pts
+			(xy 228.6 57.15) (xy 233.68 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0b6f182-3f99-4beb-8f43-6f94a51f3407")
+	)
+	(wire
+		(pts
+			(xy 76.2 57.15) (xy 81.28 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6fe8255-2d30-4b31-ab2c-8c0bd00e6ef8")
+	)
+	(wire
+		(pts
+			(xy 76.2 87.63) (xy 81.28 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8c044a8-03bd-42cd-8e1c-b314c89fe864")
+	)
+	(wire
+		(pts
+			(xy 228.6 60.96) (xy 233.68 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0fb9bf4-c6b8-425d-abb2-88eccb1d49bf")
+	)
+	(wire
+		(pts
+			(xy 111.76 151.13) (xy 106.68 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cca14609-2600-481d-9c41-16f20e407a46")
+	)
+	(wire
+		(pts
+			(xy 149.86 49.53) (xy 154.94 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d77c60d0-7410-40ed-86f9-e628ba2ad3b0")
+	)
+	(wire
+		(pts
+			(xy 190.5 104.14) (xy 185.42 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd3747a2-ab23-4d1a-8422-77be2f0367e6")
+	)
+	(wire
+		(pts
+			(xy 190.5 100.33) (xy 185.42 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e044dc5f-3dbf-4fdd-8a81-c39aac99eb95")
+	)
+	(wire
+		(pts
+			(xy 76.2 91.44) (xy 81.28 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e76df87f-ff65-4b11-91a6-417ac05a6a18")
+	)
+	(wire
+		(pts
+			(xy 149.86 100.33) (xy 154.94 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e898df02-911f-45eb-8bbb-7b1443e87f1d")
+	)
+	(wire
+		(pts
+			(xy 76.2 68.58) (xy 81.28 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9ece84d-1c6b-44af-b430-94b6e82f833e")
+	)
+	(wire
+		(pts
+			(xy 76.2 60.96) (xy 81.28 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f48484ba-f694-4df7-a3fd-cc6038c4ef77")
+	)
+	(wire
+		(pts
+			(xy 149.86 53.34) (xy 154.94 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd2667be-b214-4946-a5bd-036f1f49da4a")
+	)
+	(wire
+		(pts
+			(xy 149.86 151.13) (xy 154.94 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feef2564-10e6-4b4b-90f2-e7e5649f3a9a")
+	)
+	(label "PHASE_B"
+		(at 185.42 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "077173e0-41c2-4c4e-8875-f3a412849a80")
+	)
+	(label "PHASE_B"
+		(at 154.94 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "077d4689-5e7b-42ee-96af-6dec674575bc")
+	)
+	(label "I_C"
+		(at 81.28 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0cbcdd81-ed08-4dfa-bd96-a59af57c0054")
+	)
+	(label "PHASE_C"
+		(at 154.94 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e736781-2ab8-404e-af35-a9fc683092d7")
+	)
+	(label "V12P_SNS"
+		(at 81.28 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e767eaa-15bc-4a45-b80a-4babca106842")
+	)
+	(label "PWM_AL"
+		(at 106.68 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "10bb916d-2971-49c6-855e-c4deae2f54f4")
+	)
+	(label "PHASE_B"
+		(at 185.42 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1579a847-59a4-4fc9-9ec4-b2f557c5af35")
+	)
+	(label "PWM_AH"
+		(at 106.68 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "17361530-f3e2-4484-b5c2-65fb38f93eca")
+	)
+	(label "I_A"
+		(at 81.28 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "17bdcc88-36ec-4596-a469-ef1ba0ce5012")
+	)
+	(label "V12P_SNS"
+		(at 233.68 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "188a6719-ace7-4f3f-8518-d8cfb8a947e5")
+	)
+	(label "VSENSE_B"
+		(at 233.68 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "235cb879-e113-4575-b17a-7d6b561c416c")
+	)
+	(label "VSENSE_DC"
+		(at 233.68 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3aeab4cc-457f-42d0-930a-73557a7b072c")
+	)
+	(label "VSENSE_C"
+		(at 81.28 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d9f2a4d-e2c5-439b-8e52-902ba581b06b")
+	)
+	(label "PWM_CL"
+		(at 106.68 154.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "518a006f-59fa-4b46-ab24-a8b762793052")
+	)
+	(label "PWM_BL"
+		(at 106.68 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "58afafb8-a771-4422-a284-9b9a58473a5f")
+	)
+	(label "PWM_BH"
+		(at 81.28 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61307945-a278-47ea-af6a-f2a3bf1477af")
+	)
+	(label "PHASE_A"
+		(at 185.42 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "61449273-35c0-4786-8e7d-37a6c8dce898")
+	)
+	(label "PHASE_C"
+		(at 185.42 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "79c41b53-a769-4c1d-af38-3351d8e35747")
+	)
+	(label "PWM_CH"
+		(at 106.68 151.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7d7480e7-acb1-4bb8-b676-ea692540bfd2")
+	)
+	(label "PWM_BH"
+		(at 106.68 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "85369f29-c8c5-4118-a8bd-15a373d7cab6")
+	)
+	(label "PWM_CL"
+		(at 81.28 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "86dbddde-596f-46cd-b838-c8c50ed7381d")
+	)
+	(label "I_B"
+		(at 154.94 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "924f78e0-5e40-4045-8b73-b7d82e01a76f")
+	)
+	(label "PWM_AL"
+		(at 81.28 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a1c6d445-4b3f-4c03-b72c-04edbb0eb6c8")
+	)
+	(label "I_B"
+		(at 81.28 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b05b13fb-0108-4db8-b255-fa4f474d164f")
+	)
+	(label "PHASE_A"
+		(at 154.94 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b797129f-07f3-4db8-97ec-0405ebbcc114")
+	)
+	(label "VSENSE_C"
+		(at 233.68 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca861956-5f0f-4f13-a186-669936843a7f")
+	)
+	(label "I_C"
+		(at 154.94 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ccc76d10-3c42-47b8-a5e4-df236bd2b48f")
+	)
+	(label "VSENSE_B"
+		(at 81.28 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cdfcd65d-5a8c-4285-9145-26593c5d3d1b")
+	)
+	(label "PHASE_A"
+		(at 185.42 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d03ff231-7420-4aac-bdb9-67505bde9022")
+	)
+	(label "I_A"
+		(at 154.94 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0b4c83c-0a9d-4415-928f-a1c1a0ab82ed")
+	)
+	(label "VSENSE_A"
+		(at 81.28 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "db44feb9-e03b-4159-8ec4-f0a5e3a1c789")
+	)
+	(label "PWM_BL"
+		(at 81.28 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dd1be25b-ba89-4770-913a-e7b0e8f3559e")
+	)
+	(label "PHASE_C"
+		(at 185.42 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "eb557ae6-caf1-40fa-9770-0f82e8cbd3ba")
+	)
+	(label "PWM_CH"
+		(at 81.28 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0c5eb35-ba1b-451d-8ac7-67eb2f37c7d8")
+	)
+	(label "PWM_AH"
+		(at 81.28 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1436249-8063-4ea5-9696-36230840979f")
+	)
+	(label "VSENSE_DC"
+		(at 81.28 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1b4cfa5-9ac0-4b15-93ec-805cf841258c")
+	)
+	(label "VSENSE_A"
+		(at 233.68 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fabce830-9961-453a-8c34-6a9b8b87b6c1")
 	)
 	(sheet
 		(at 25.4 45.72)
@@ -253,810 +993,6 @@
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 76.2 49.53)
-			(xy 81.28 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c7855b4-ea05-4759-aafd-b33ae30d4d16")
-	)
-	(label "PWM_AH"
-		(at 81.28 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f1436249-8063-4ea5-9696-36230840979f")
-	)
-	(wire
-		(pts
-			(xy 76.2 53.34)
-			(xy 81.28 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59465877-4669-487e-a5b3-971ac1ecc5fe")
-	)
-	(label "PWM_AL"
-		(at 81.28 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a1c6d445-4b3f-4c03-b72c-04edbb0eb6c8")
-	)
-	(wire
-		(pts
-			(xy 76.2 57.15)
-			(xy 81.28 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6fe8255-2d30-4b31-ab2c-8c0bd00e6ef8")
-	)
-	(label "PWM_BH"
-		(at 81.28 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "61307945-a278-47ea-af6a-f2a3bf1477af")
-	)
-	(wire
-		(pts
-			(xy 76.2 60.96)
-			(xy 81.28 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f48484ba-f694-4df7-a3fd-cc6038c4ef77")
-	)
-	(label "PWM_BL"
-		(at 81.28 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "dd1be25b-ba89-4770-913a-e7b0e8f3559e")
-	)
-	(wire
-		(pts
-			(xy 76.2 64.77)
-			(xy 81.28 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b66b31c-7b47-4751-8f3d-ac0159d49a3e")
-	)
-	(label "PWM_CH"
-		(at 81.28 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f0c5eb35-ba1b-451d-8ac7-67eb2f37c7d8")
-	)
-	(wire
-		(pts
-			(xy 76.2 68.58)
-			(xy 81.28 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9ece84d-1c6b-44af-b430-94b6e82f833e")
-	)
-	(label "PWM_CL"
-		(at 81.28 68.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "86dbddde-596f-46cd-b838-c8c50ed7381d")
-	)
-	(wire
-		(pts
-			(xy 76.2 72.39)
-			(xy 81.28 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e59d087-db02-4261-ae42-36369cf42eed")
-	)
-	(label "I_A"
-		(at 81.28 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "17bdcc88-36ec-4596-a469-ef1ba0ce5012")
-	)
-	(wire
-		(pts
-			(xy 76.2 76.2)
-			(xy 81.28 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a94aa29-5ea7-4bf7-b2c1-ecad88f15dbf")
-	)
-	(label "I_B"
-		(at 81.28 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b05b13fb-0108-4db8-b255-fa4f474d164f")
-	)
-	(wire
-		(pts
-			(xy 76.2 80.01)
-			(xy 81.28 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8056c361-eb3c-4a0e-b268-bf2e15c1329d")
-	)
-	(label "I_C"
-		(at 81.28 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0cbcdd81-ed08-4dfa-bd96-a59af57c0054")
-	)
-	(wire
-		(pts
-			(xy 76.2 83.82)
-			(xy 81.28 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b79f3ee-733a-437f-b419-59a4e211d8c0")
-	)
-	(label "VSENSE_A"
-		(at 81.28 83.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "db44feb9-e03b-4159-8ec4-f0a5e3a1c789")
-	)
-	(wire
-		(pts
-			(xy 76.2 87.63)
-			(xy 81.28 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8c044a8-03bd-42cd-8e1c-b314c89fe864")
-	)
-	(label "VSENSE_B"
-		(at 81.28 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cdfcd65d-5a8c-4285-9145-26593c5d3d1b")
-	)
-	(wire
-		(pts
-			(xy 76.2 91.44)
-			(xy 81.28 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e76df87f-ff65-4b11-91a6-417ac05a6a18")
-	)
-	(label "VSENSE_C"
-		(at 81.28 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4d9f2a4d-e2c5-439b-8e52-902ba581b06b")
-	)
-	(wire
-		(pts
-			(xy 76.2 95.25)
-			(xy 81.28 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "716fbc3e-0922-41f1-8a3e-1d90a81c510c")
-	)
-	(label "VSENSE_DC"
-		(at 81.28 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f1b4cfa5-9ac0-4b15-93ec-805cf841258c")
-	)
-	(wire
-		(pts
-			(xy 76.2 99.06)
-			(xy 81.28 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83a3b5fc-0258-43f7-bd9b-c6b8ca9f6a4d")
-	)
-	(label "V12P_SNS"
-		(at 81.28 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0e767eaa-15bc-4a45-b80a-4babca106842")
-	)
-	(sheet
-		(at 111.76 45.72)
-		(size 38.1 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "00000000-0000-0000-0000-00005db60c4a")
-		(property "Sheetname" "phase_a"
-			(at 111.76 45.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "phase.kicad_sch"
-			(at 111.76 59.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "PwmH" input
-			(at 111.76 49.53 180)
-			(uuid "21fe1e72-2429-4465-90e6-c5c73afaae06")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "PwmL" input
-			(at 111.76 53.34 180)
-			(uuid "dc2b8b42-d5d9-4a1b-829c-68f1acac54a8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "I" output
-			(at 149.86 49.53 0)
-			(uuid "5998c035-051e-4e72-81c9-b71f4d79b662")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Phase" output
-			(at 149.86 53.34 0)
-			(uuid "4b856c32-bba1-4111-8875-4f208d750266")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
-					(page "16")
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 111.76 49.53)
-			(xy 106.68 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ddbbefd-bb8e-4949-b177-af0d3d12aa56")
-	)
-	(label "PWM_AH"
-		(at 106.68 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "17361530-f3e2-4484-b5c2-65fb38f93eca")
-	)
-	(wire
-		(pts
-			(xy 111.76 53.34)
-			(xy 106.68 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "926e4414-e3d2-4b3c-93d7-2e9256408c7d")
-	)
-	(label "PWM_AL"
-		(at 106.68 53.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "10bb916d-2971-49c6-855e-c4deae2f54f4")
-	)
-	(wire
-		(pts
-			(xy 149.86 49.53)
-			(xy 154.94 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d77c60d0-7410-40ed-86f9-e628ba2ad3b0")
-	)
-	(label "I_A"
-		(at 154.94 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d0b4c83c-0a9d-4415-928f-a1c1a0ab82ed")
-	)
-	(wire
-		(pts
-			(xy 149.86 53.34)
-			(xy 154.94 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd2667be-b214-4946-a5bd-036f1f49da4a")
-	)
-	(label "PHASE_A"
-		(at 154.94 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b797129f-07f3-4db8-97ec-0405ebbcc114")
-	)
-	(sheet
-		(at 111.76 96.52)
-		(size 38.1 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "00000000-0000-0000-0000-00005db60c50")
-		(property "Sheetname" "phase_b"
-			(at 111.76 95.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "phase.kicad_sch"
-			(at 111.76 109.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "PwmH" input
-			(at 111.76 100.33 180)
-			(uuid "554a704b-0df2-4e7e-b0ba-484dcfe0742c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "PwmL" input
-			(at 111.76 104.14 180)
-			(uuid "ca41abe7-edb7-4eef-a914-6fd8e6549d97")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "I" output
-			(at 149.86 100.33 0)
-			(uuid "a73160f9-e1e2-4246-919c-848e85d058bb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Phase" output
-			(at 149.86 104.14 0)
-			(uuid "c848991a-e1af-4cea-9bb3-8c7020b81acb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
-					(page "17")
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 111.76 100.33)
-			(xy 106.68 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "305fd939-f991-4931-b9ee-0402b85c5340")
-	)
-	(label "PWM_BH"
-		(at 106.68 100.33 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "85369f29-c8c5-4118-a8bd-15a373d7cab6")
-	)
-	(wire
-		(pts
-			(xy 111.76 104.14)
-			(xy 106.68 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07035b04-0ffa-4b2c-b4e8-5830e6ebfe25")
-	)
-	(label "PWM_BL"
-		(at 106.68 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "58afafb8-a771-4422-a284-9b9a58473a5f")
-	)
-	(wire
-		(pts
-			(xy 149.86 100.33)
-			(xy 154.94 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e898df02-911f-45eb-8bbb-7b1443e87f1d")
-	)
-	(label "I_B"
-		(at 154.94 100.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "924f78e0-5e40-4045-8b73-b7d82e01a76f")
-	)
-	(wire
-		(pts
-			(xy 149.86 104.14)
-			(xy 154.94 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5747c6d6-90ce-489d-83bf-62fd34783bb4")
-	)
-	(label "PHASE_B"
-		(at 154.94 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "077d4689-5e7b-42ee-96af-6dec674575bc")
-	)
-	(sheet
-		(at 111.76 147.32)
-		(size 38.1 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "00000000-0000-0000-0000-00005db60c56")
-		(property "Sheetname" "phase_c"
-			(at 111.76 146.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "phase.kicad_sch"
-			(at 111.76 160.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "PwmH" input
-			(at 111.76 151.13 180)
-			(uuid "0f81318a-14bb-4375-a375-9cf38a028228")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "PwmL" input
-			(at 111.76 154.94 180)
-			(uuid "03cd5ad3-6a94-44f6-957d-768d7374cb96")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "I" output
-			(at 149.86 151.13 0)
-			(uuid "f5fde83a-53bc-467c-aea4-911eef2ee9e5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "Phase" output
-			(at 149.86 154.94 0)
-			(uuid "aac52ade-238c-46ec-9f60-0467dbf18e2e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
-					(page "18")
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 111.76 151.13)
-			(xy 106.68 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cca14609-2600-481d-9c41-16f20e407a46")
-	)
-	(label "PWM_CH"
-		(at 106.68 151.13 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7d7480e7-acb1-4bb8-b676-ea692540bfd2")
-	)
-	(wire
-		(pts
-			(xy 111.76 154.94)
-			(xy 106.68 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37a700c8-51d6-4157-bc12-6d8127a84f2a")
-	)
-	(label "PWM_CL"
-		(at 106.68 154.94 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "518a006f-59fa-4b46-ab24-a8b762793052")
-	)
-	(wire
-		(pts
-			(xy 149.86 151.13)
-			(xy 154.94 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "feef2564-10e6-4b4b-90f2-e7e5649f3a9a")
-	)
-	(label "I_C"
-		(at 154.94 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ccc76d10-3c42-47b8-a5e4-df236bd2b48f")
-	)
-	(wire
-		(pts
-			(xy 149.86 154.94)
-			(xy 154.94 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93f6f958-283e-41b6-bdc8-4e7fb3d5a4ee")
-	)
-	(label "PHASE_C"
-		(at 154.94 154.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0e736781-2ab8-404e-af35-a9fc683092d7")
-	)
 	(sheet
 		(at 190.5 45.72)
 		(size 38.1 24.13)
@@ -1183,174 +1119,6 @@
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 190.5 49.53)
-			(xy 185.42 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "547c9109-7914-4eae-ab06-9bae557cfcb3")
-	)
-	(label "PHASE_A"
-		(at 185.42 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "61449273-35c0-4786-8e7d-37a6c8dce898")
-	)
-	(wire
-		(pts
-			(xy 190.5 53.34)
-			(xy 185.42 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8137c22c-6eef-4b2b-881e-b8b29734c04d")
-	)
-	(label "PHASE_B"
-		(at 185.42 53.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "077173e0-41c2-4c4e-8875-f3a412849a80")
-	)
-	(wire
-		(pts
-			(xy 190.5 57.15)
-			(xy 185.42 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d1cf292-ac39-4a08-b893-bba7e9e02645")
-	)
-	(label "PHASE_C"
-		(at 185.42 57.15 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "79c41b53-a769-4c1d-af38-3351d8e35747")
-	)
-	(wire
-		(pts
-			(xy 228.6 49.53)
-			(xy 233.68 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9aee59ed-1847-44df-b634-aa6168126be9")
-	)
-	(label "VSENSE_A"
-		(at 233.68 49.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fabce830-9961-453a-8c34-6a9b8b87b6c1")
-	)
-	(wire
-		(pts
-			(xy 228.6 53.34)
-			(xy 233.68 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "708591ef-f8dd-44ac-9b14-a0bb8bccb7eb")
-	)
-	(label "VSENSE_B"
-		(at 233.68 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "235cb879-e113-4575-b17a-7d6b561c416c")
-	)
-	(wire
-		(pts
-			(xy 228.6 57.15)
-			(xy 233.68 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0b6f182-3f99-4beb-8f43-6f94a51f3407")
-	)
-	(label "VSENSE_C"
-		(at 233.68 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ca861956-5f0f-4f13-a186-669936843a7f")
-	)
-	(wire
-		(pts
-			(xy 228.6 60.96)
-			(xy 233.68 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0fb9bf4-c6b8-425d-abb2-88eccb1d49bf")
-	)
-	(label "VSENSE_DC"
-		(at 233.68 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3aeab4cc-457f-42d0-930a-73557a7b072c")
-	)
-	(wire
-		(pts
-			(xy 228.6 64.77)
-			(xy 233.68 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fb3cf63-2a73-4f4e-9fb4-f814962d778d")
-	)
-	(label "V12P_SNS"
-		(at 233.68 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "188a6719-ace7-4f3f-8518-d8cfb8a947e5")
-	)
 	(sheet
 		(at 190.5 96.52)
 		(size 38.1 16.51)
@@ -1427,68 +1195,262 @@
 			)
 		)
 	)
-	(wire
-		(pts
-			(xy 190.5 100.33)
-			(xy 185.42 100.33)
-		)
+	(sheet
+		(at 111.76 45.72)
+		(size 38.1 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
 		(stroke
 			(width 0)
-			(type default)
+			(type solid)
 		)
-		(uuid "e044dc5f-3dbf-4fdd-8a81-c39aac99eb95")
-	)
-	(label "PHASE_A"
-		(at 185.42 100.33 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "00000000-0000-0000-0000-00005db60c4a")
+		(property "Sheetname" "phase_a"
+			(at 111.76 45.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
-			(justify right bottom)
 		)
-		(uuid "d03ff231-7420-4aac-bdb9-67505bde9022")
+		(property "Sheetfile" "phase.kicad_sch"
+			(at 111.76 59.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PwmH" input
+			(at 111.76 49.53 180)
+			(uuid "21fe1e72-2429-4465-90e6-c5c73afaae06")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PwmL" input
+			(at 111.76 53.34 180)
+			(uuid "dc2b8b42-d5d9-4a1b-829c-68f1acac54a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I" output
+			(at 149.86 49.53 0)
+			(uuid "5998c035-051e-4e72-81c9-b71f4d79b662")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Phase" output
+			(at 149.86 53.34 0)
+			(uuid "4b856c32-bba1-4111-8875-4f208d750266")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(page "16")
+				)
+			)
+		)
 	)
-	(wire
-		(pts
-			(xy 190.5 104.14)
-			(xy 185.42 104.14)
-		)
+	(sheet
+		(at 111.76 96.52)
+		(size 38.1 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
 		(stroke
 			(width 0)
-			(type default)
+			(type solid)
 		)
-		(uuid "dd3747a2-ab23-4d1a-8422-77be2f0367e6")
-	)
-	(label "PHASE_B"
-		(at 185.42 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "00000000-0000-0000-0000-00005db60c50")
+		(property "Sheetname" "phase_b"
+			(at 111.76 95.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
-			(justify right bottom)
 		)
-		(uuid "1579a847-59a4-4fc9-9ec4-b2f557c5af35")
+		(property "Sheetfile" "phase.kicad_sch"
+			(at 111.76 109.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PwmH" input
+			(at 111.76 100.33 180)
+			(uuid "554a704b-0df2-4e7e-b0ba-484dcfe0742c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PwmL" input
+			(at 111.76 104.14 180)
+			(uuid "ca41abe7-edb7-4eef-a914-6fd8e6549d97")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I" output
+			(at 149.86 100.33 0)
+			(uuid "a73160f9-e1e2-4246-919c-848e85d058bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Phase" output
+			(at 149.86 104.14 0)
+			(uuid "c848991a-e1af-4cea-9bb3-8c7020b81acb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(page "17")
+				)
+			)
+		)
 	)
-	(wire
-		(pts
-			(xy 190.5 107.95)
-			(xy 185.42 107.95)
-		)
+	(sheet
+		(at 111.76 147.32)
+		(size 38.1 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
 		(stroke
 			(width 0)
-			(type default)
+			(type solid)
 		)
-		(uuid "4eec113b-9922-4ace-8805-37c0fa9a04c3")
-	)
-	(label "PHASE_C"
-		(at 185.42 107.95 180)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "00000000-0000-0000-0000-00005db60c56")
+		(property "Sheetname" "phase_c"
+			(at 111.76 146.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
 			)
-			(justify right bottom)
 		)
-		(uuid "eb557ae6-caf1-40fa-9770-0f82e8cbd3ba")
+		(property "Sheetfile" "phase.kicad_sch"
+			(at 111.76 160.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PwmH" input
+			(at 111.76 151.13 180)
+			(uuid "0f81318a-14bb-4375-a375-9cf38a028228")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PwmL" input
+			(at 111.76 154.94 180)
+			(uuid "03cd5ad3-6a94-44f6-957d-768d7374cb96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "I" output
+			(at 149.86 151.13 0)
+			(uuid "f5fde83a-53bc-467c-aea4-911eef2ee9e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Phase" output
+			(at 149.86 154.94 0)
+			(uuid "aac52ade-238c-46ec-9f60-0467dbf18e2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001"
+					(page "18")
+				)
+			)
+		)
 	)
-	(embedded_fonts no)
 )
