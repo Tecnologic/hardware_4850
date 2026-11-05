@@ -3726,6 +3726,16 @@
 		)
 		(uuid "f3a08860-c42d-433c-8e90-1fcec9fb66f3")
 	)
+	(label "Phase"
+		(at 238.76 99.06 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ed83625-5103-4b8a-aa14-a22a187c1c6e")
+	)
 	(hierarchical_label "PwmH"
 		(shape input)
 		(at 25.4 62.23 180)
