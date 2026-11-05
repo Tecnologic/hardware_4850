@@ -2713,7 +2713,7 @@
 		)
 		(uuid "d12b4022-13b1-4b1a-a2e2-59de7605bf1b")
 	)
-	(text "R206/R208 are 0R links. Net ties NT201/NT202 sit at the low FET sources: route VSS Kelvin to each tie."
+	(text "R206/R208 are 0R links from the low FET sources (GNDPWR) to the driver VSS. Route VSS as a separate trace from the source pads."
 		(exclude_from_sim no)
 		(at 25.4 134 0)
 		(effects
@@ -2825,6 +2825,26 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f12d75d2-3614-459c-9de9-491920e3eaf3")
+	)
+	(wire
+		(pts
+			(xy 135.89 82.55) (xy 140.97 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d951f89a-5e2a-4172-b201-ee7cd233aa4b")
+	)
+	(wire
+		(pts
+			(xy 186.69 82.55) (xy 191.77 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff4a30e7-dc96-4826-9a2d-b62da707857a")
 	)
 	(wire
 		(pts
@@ -3636,16 +3656,6 @@
 		)
 		(uuid "26fa6ca1-899b-478e-b8e8-ea77357bf61c")
 	)
-	(label "KS_LO2"
-		(at 185.42 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2837b266-0be5-44c0-bda0-4ce6efb06891")
-	)
 	(label "HO"
 		(at 171.45 48.26 180)
 		(effects
@@ -3695,16 +3705,6 @@
 			(justify left bottom)
 		)
 		(uuid "dc26add0-ca87-4b8f-a829-7354dc22b22f")
-	)
-	(label "KS_LO1"
-		(at 132.08 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e4b3ce11-2bd8-4ed6-a3d0-ec649805d74c")
 	)
 	(label "HS"
 		(at 91.44 53.34 0)
@@ -6679,94 +6679,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 189.23 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1e60bbe3-600e-4a17-afbd-43c47551e969")
-		(property "Reference" "NT202"
-			(at 189.23 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 189.23 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
-			(at 189.23 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Net tie: Kelvin source split"
-			(at 189.23 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5eea96c9-2402-45dc-b30e-d394bbd159af")
-		)
-		(pin "2"
-			(uuid "e35583a6-495c-4e89-83bb-470c6cc2ba44")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a"
-					(reference "NT202")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50"
-					(reference "NT302")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56"
-					(reference "NT402")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 256.54 111.76 0)
 		(unit 1)
@@ -7014,94 +6926,6 @@
 				)
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56"
 					(reference "#PWR0484")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 138.43 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cddacf89-9c58-44af-ad42-e73c41c66f6f")
-		(property "Reference" "NT201"
-			(at 138.43 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 138.43 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
-			(at 138.43 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 138.43 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Net tie: Kelvin source split"
-			(at 138.43 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "157c22a7-2e0a-411c-88dd-3789a0e2cb61")
-		)
-		(pin "2"
-			(uuid "7dccb9be-9991-453e-a377-5bdd4c0246cf")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a"
-					(reference "NT201")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50"
-					(reference "NT301")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56"
-					(reference "NT401")
 					(unit 1)
 				)
 			)
