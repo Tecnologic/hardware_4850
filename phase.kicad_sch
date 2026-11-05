@@ -2743,12 +2743,6 @@
 		(uuid "2320652d-4731-410b-860a-0b3909daad2c")
 	)
 	(junction
-		(at 240.03 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "243bdc58-4d5e-418f-92a5-820086b13e24")
-	)
-	(junction
 		(at 53.34 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2759,6 +2753,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3aa1c05f-58d2-4380-8f3a-e955c98a535b")
+	)
+	(junction
+		(at 240.03 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d81cf6d-351f-4a25-96cf-b0f26233d30e")
 	)
 	(junction
 		(at 146.05 82.55)
@@ -2779,13 +2779,7 @@
 		(uuid "74894f50-0a5e-4d52-a24d-1cc5cbac2b7c")
 	)
 	(junction
-		(at 240.03 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7692da6d-edc8-46a9-8dcb-e1f885474055")
-	)
-	(junction
-		(at 231.14 40.64)
+		(at 231.14 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77a68925-b099-49f4-8bae-c9df49a5b6ff")
@@ -2795,6 +2789,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8fdc1c62-f9ce-4060-84fa-95c8dc9523cc")
+	)
+	(junction
+		(at 240.03 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac9f0495-28d4-43ed-b52a-f23f89c42413")
 	)
 	(junction
 		(at 146.05 91.44)
@@ -2813,6 +2813,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3d6b9fe-1f88-459b-9eb4-5d951abfff7b")
+	)
+	(junction
+		(at 231.14 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e8817087-0de7-4efa-a131-d840f73e4c99")
 	)
 	(junction
 		(at 62.23 36.83)
@@ -2882,13 +2888,33 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 33.02) (xy 247.65 33.02)
+			(xy 231.14 27.94) (xy 240.03 27.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0ddfd9de-257f-4989-bb57-1f1d1181b4b9")
+	)
+	(wire
+		(pts
+			(xy 240.03 27.94) (xy 240.03 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1168fc6a-8cfc-4cca-b74d-3a5f97d947e5")
+	)
+	(wire
+		(pts
+			(xy 247.65 27.94) (xy 247.65 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "120f58bc-71e6-4940-8551-99f336c47f66")
 	)
 	(wire
 		(pts
@@ -2912,7 +2938,17 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 40.64) (xy 247.65 40.64)
+			(xy 247.65 45.72) (xy 247.65 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23817a91-8fd1-4385-8c67-23e722a4cdc7")
+	)
+	(wire
+		(pts
+			(xy 231.14 45.72) (xy 240.03 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2929,6 +2965,26 @@
 			(type default)
 		)
 		(uuid "2b857a14-2916-4c97-b38d-112e911ca0dc")
+	)
+	(wire
+		(pts
+			(xy 240.03 27.94) (xy 247.65 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f08e832-12e4-44ac-8b3f-608db89dcff5")
+	)
+	(wire
+		(pts
+			(xy 191.77 82.55) (xy 194.31 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37c22c28-941f-41f4-a1f9-206bdbea84dd")
 	)
 	(wire
 		(pts
@@ -3072,7 +3128,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 19.05) (xy 231.14 33.02)
+			(xy 231.14 19.05) (xy 231.14 27.94)
 		)
 		(stroke
 			(width 0)
@@ -3149,6 +3205,16 @@
 			(type default)
 		)
 		(uuid "85550a70-32b0-4737-bc95-04e7edab437b")
+	)
+	(wire
+		(pts
+			(xy 240.03 45.72) (xy 247.65 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "894187f6-a80c-4c39-8626-7fd5d53a40aa")
 	)
 	(wire
 		(pts
@@ -3392,13 +3458,13 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 50.8) (xy 231.14 40.64)
+			(xy 231.14 40.64) (xy 231.14 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c23345f4-3912-4d3c-aea0-e403d3e67859")
+		(uuid "c9d01ead-bb49-40fc-9b4f-ddd21545145f")
 	)
 	(wire
 		(pts
@@ -3409,6 +3475,16 @@
 			(type default)
 		)
 		(uuid "d66371f9-8941-4b24-8ff9-d2108478a5d4")
+	)
+	(wire
+		(pts
+			(xy 240.03 40.64) (xy 240.03 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0909b4f-3ac6-46c2-9346-99470bfd08ba")
 	)
 	(wire
 		(pts
@@ -3452,6 +3528,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 27.94) (xy 231.14 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e53ed7a1-614f-4ea6-9d21-da7badc24b69")
+	)
+	(wire
+		(pts
 			(xy 251.46 111.76) (xy 256.54 111.76)
 		)
 		(stroke
@@ -3459,6 +3545,16 @@
 			(type default)
 		)
 		(uuid "ed2ab5f8-8421-4819-9956-0cc7e39efa61")
+	)
+	(wire
+		(pts
+			(xy 140.97 82.55) (xy 146.05 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "effbf5b9-c8a1-4ef5-a610-b855ed53c68e")
 	)
 	(wire
 		(pts
@@ -3540,6 +3636,16 @@
 		)
 		(uuid "26fa6ca1-899b-478e-b8e8-ea77357bf61c")
 	)
+	(label "KS_LO2"
+		(at 185.42 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2837b266-0be5-44c0-bda0-4ce6efb06891")
+	)
 	(label "HO"
 		(at 171.45 48.26 180)
 		(effects
@@ -3589,6 +3695,16 @@
 			(justify left bottom)
 		)
 		(uuid "dc26add0-ca87-4b8f-a829-7354dc22b22f")
+	)
+	(label "KS_LO1"
+		(at 132.08 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e4b3ce11-2bd8-4ed6-a3d0-ec649805d74c")
 	)
 	(label "HS"
 		(at 91.44 53.34 0)
@@ -6553,6 +6669,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 189.23 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1e60bbe3-600e-4a17-afbd-43c47551e969")
+		(property "Reference" "NT202"
+			(at 189.23 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 189.23 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
+			(at 189.23 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 189.23 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie: Kelvin source split"
+			(at 189.23 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5eea96c9-2402-45dc-b30e-d394bbd159af")
+		)
+		(pin "2"
+			(uuid "e35583a6-495c-4e89-83bb-470c6cc2ba44")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a"
+					(reference "NT202")
+					(unit 1)
+				)
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50"
+					(reference "NT302")
+					(unit 1)
+				)
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56"
+					(reference "NT402")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 256.54 111.76 0)
 		(unit 1)
@@ -6806,6 +7010,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 138.43 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cddacf89-9c58-44af-ad42-e73c41c66f6f")
+		(property "Reference" "NT201"
+			(at 138.43 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 138.43 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
+			(at 138.43 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie: Kelvin source split"
+			(at 138.43 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "157c22a7-2e0a-411c-88dd-3789a0e2cb61")
+		)
+		(pin "2"
+			(uuid "7dccb9be-9991-453e-a377-5bdd4c0246cf")
+		)
+		(instances
+			(project "jacobi"
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a"
+					(reference "NT201")
+					(unit 1)
+				)
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50"
+					(reference "NT301")
+					(unit 1)
+				)
+				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56"
+					(reference "NT401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12P")
 		(at 46.99 71.12 0)
 		(unit 1)
@@ -7003,221 +7295,5 @@
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 140.97 82.55) (xy 146.05 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "effbf5b9-c8a1-4ef5-a610-b855ed53c68e")
-	)
-	(wire
-		(pts
-			(xy 191.77 82.55) (xy 194.31 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37c22c28-941f-41f4-a1f9-206bdbea84dd")
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 138.43 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "cddacf89-9c58-44af-ad42-e73c41c66f6f")
-		(property "Reference" "NT201"
-			(at 138.43 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 138.43 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
-			(at 138.43 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 138.43 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Net tie: Kelvin source split"
-			(at 138.43 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "157c22a7-2e0a-411c-88dd-3789a0e2cb61")
-		)
-		(pin "2"
-			(uuid "7dccb9be-9991-453e-a377-5bdd4c0246cf")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a"
-					(reference "NT201")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50"
-					(reference "NT301")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56"
-					(reference "NT401")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 189.23 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1e60bbe3-600e-4a17-afbd-43c47551e969")
-		(property "Reference" "NT202"
-			(at 189.23 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 189.23 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
-			(at 189.23 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Net tie: Kelvin source split"
-			(at 189.23 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5eea96c9-2402-45dc-b30e-d394bbd159af")
-		)
-		(pin "2"
-			(uuid "e35583a6-495c-4e89-83bb-470c6cc2ba44")
-		)
-		(instances
-			(project "jacobi"
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a"
-					(reference "NT202")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50"
-					(reference "NT302")
-					(unit 1)
-				)
-				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56"
-					(reference "NT402")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(label "KS_LO1"
-		(at 132.08 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e4b3ce11-2bd8-4ed6-a3d0-ec649805d74c")
-	)
-	(label "KS_LO2"
-		(at 185.42 82.55 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2837b266-0be5-44c0-bda0-4ce6efb06891")
 	)
 )

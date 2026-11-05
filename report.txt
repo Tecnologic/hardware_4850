@@ -1,0 +1,2457 @@
+Hinweis: Verarbeite Symbol "C1104:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C1103:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J108:Connector_Wire:SolderWirePad_1x01_SMD_5x10mm".
+Hinweis: Verarbeite Symbol "R1110:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q301:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "R408:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R208:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "H105:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Hinweis: Verarbeite Symbol "C509:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C510:Capacitor_SMD:C_1210_3225Metric".
+Hinweis: Verarbeite Symbol "R1109:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U1103:Package_TO_SOT_SMD:SOT-23-5".
+Hinweis: Verarbeite Symbol "R409:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C508:Capacitor_SMD:C_1210_3225Metric".
+Hinweis: Verarbeite Symbol "R207:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J109:Connector_Wire:SolderWirePad_1x01_SMD_5x10mm".
+Hinweis: Verarbeite Symbol "C1106:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R1108:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R407:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "X601:Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm".
+Hinweis: Verarbeite Symbol "R1111:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q302:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "C511:Capacitor_SMD:C_1210_3225Metric".
+Hinweis: Verarbeite Symbol "C1102:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R1114:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R406:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q404:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "C513:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q303:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "C514:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "J107:Connector_Wire:SolderWirePad_1x01_SMD_5x10mm".
+Hinweis: Verarbeite Symbol "C515:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "TH101:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R1103:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R206:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C504:Capacitor_SMD:C_1210_3225Metric".
+Hinweis: Verarbeite Symbol "R1104:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D301:Diode_SMD:D_SMA".
+Hinweis: Verarbeite Symbol "J601:Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal".
+Hinweis: Verarbeite Symbol "C503:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "H103:MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad".
+Hinweis: Verarbeite Symbol "R504:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D201:Diode_SMD:D_SMA".
+Hinweis: Verarbeite Symbol "R205:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D401:Diode_SMD:D_SMA".
+Hinweis: Verarbeite Symbol "R1102:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C502:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R505:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J602:Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12".
+Hinweis: Verarbeite Symbol "R1101:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C516:Capacitor_SMD:C_0805_2012Metric".
+Hinweis: Verarbeite Symbol "R1105:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J501:Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal".
+Hinweis: Verarbeite Symbol "R502:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C505:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J111:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD".
+Hinweis: Verarbeite Symbol "R1106:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J110:Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical_SMD".
+Hinweis: Verarbeite Symbol "H104:MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad".
+Hinweis: Verarbeite Symbol "C506:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R501:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C1107:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R1107:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U1101:Package_TO_SOT_SMD:SOT-23-8".
+Hinweis: Verarbeite Symbol "C507:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R410:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U302:Package_SO:TSSOP-8_4.4x3mm_P0.65mm".
+Hinweis: Verarbeite Symbol "R307:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U401:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Hinweis: Verarbeite Symbol "R303:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J101:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD".
+Hinweis: Verarbeite Symbol "U502:Package_SO:MSOP-8_3x3mm_P0.65mm".
+Hinweis: Verarbeite Symbol "C608:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R308:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C703:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C609:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C607:Capacitor_SMD:C_1210_3225Metric".
+Hinweis: Verarbeite Symbol "Q402:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "J104:Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical_SMD".
+Hinweis: Verarbeite Symbol "R309:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C704:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C606:Capacitor_SMD:C_1210_3225Metric".
+Hinweis: Verarbeite Symbol "U503:Package_TO_SOT_SMD:SOT-23-5".
+Hinweis: Verarbeite Symbol "U601:Package_QFP:LQFP-100_14x14mm_P0.5mm".
+Hinweis: Verarbeite Symbol "C701:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q401:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "C622:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C621:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C610:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C620:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R306:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U501:Package_TO_SOT_SMD:SOT-23-6".
+Hinweis: Verarbeite Symbol "R304:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U402:Package_SO:TSSOP-8_4.4x3mm_P0.65mm".
+Hinweis: Verarbeite Symbol "C611:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J103:Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical_SMD".
+Hinweis: Verarbeite Symbol "J102:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD".
+Hinweis: Verarbeite Symbol "R305:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C612:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C716:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C601:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R209:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R405:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C1101:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "H106:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Hinweis: Verarbeite Symbol "C719:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C602:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C718:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R404:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U201:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Hinweis: Verarbeite Symbol "Q304:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "C717:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J106:Connector_Wire:SolderWirePad_1x01_SMD_5x10mm".
+Hinweis: Verarbeite Symbol "C603:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R403:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R503:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C715:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R210:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C714:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U202:Package_SO:TSSOP-8_4.4x3mm_P0.65mm".
+Hinweis: Verarbeite Symbol "C713:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C604:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J105:Connector_Wire:SolderWirePad_1x01_SMD_5x10mm".
+Hinweis: Verarbeite Symbol "R401:jacobi:R_Shunt_Yezhan_DSLR-5_3920_Kelvin".
+Hinweis: Verarbeite Symbol "Q403:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "H107:MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad".
+Hinweis: Verarbeite Symbol "C709:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "U301:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Hinweis: Verarbeite Symbol "C605:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R301:jacobi:R_Shunt_Yezhan_DSLR-5_3920_Kelvin".
+Hinweis: Verarbeite Symbol "R310:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C301:Capacitor_SMD:C_1206_3216Metric".
+Hinweis: Verarbeite Symbol "J1104:Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal".
+Hinweis: Verarbeite Symbol "R513:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C302:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D505:Diode_SMD:D_SMA".
+Hinweis: Verarbeite Symbol "R109:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R108:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "JP601:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm".
+Hinweis: Verarbeite Symbol "R610:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R611:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R601:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q201:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "R107:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C209:Capacitor_SMD:CP_Elec_10x10".
+Hinweis: Verarbeite Symbol "D506:Diode_SMD:D_MiniMELF".
+Hinweis: Verarbeite Symbol "R106:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R609:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C207:Capacitor_SMD:CP_Elec_10x10".
+Hinweis: Verarbeite Symbol "R511:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D504:LED_SMD:LED_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J1102:Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal".
+Hinweis: Verarbeite Symbol "R703:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C305:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R614:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R613:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q203:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "C304:jacobi:C_2220_5650Metric".
+Hinweis: Verarbeite Symbol "R602:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R612:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R201:jacobi:R_Shunt_Yezhan_DSLR-5_3920_Kelvin".
+Hinweis: Verarbeite Symbol "C501:jacobi:C_2220_5650Metric".
+Hinweis: Verarbeite Symbol "R110:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C303:Capacitor_SMD:C_1206_3216Metric".
+Hinweis: Verarbeite Symbol "D1104:LED_SMD:LED_0603_1608Metric".
+Hinweis: Verarbeite Symbol "Q202:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "N101:jacobi:RND-455-00370".
+Hinweis: Verarbeite Symbol "NT401:NetTie:NetTie-2_SMD_Pad0.5mm".
+Hinweis: Verarbeite Symbol "C202:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "NT302:NetTie:NetTie-2_SMD_Pad0.5mm".
+Hinweis: Verarbeite Symbol "R102:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "NT301:NetTie:NetTie-2_SMD_Pad0.5mm".
+Hinweis: Verarbeite Symbol "R606:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "NT202:NetTie:NetTie-2_SMD_Pad0.5mm".
+Hinweis: Verarbeite Symbol "C201:Capacitor_SMD:C_1206_3216Metric".
+Hinweis: Verarbeite Symbol "R604:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C105:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R101:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "C104:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R605:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C103:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "NT201:NetTie:NetTie-2_SMD_Pad0.5mm".
+Hinweis: Verarbeite Symbol "C102:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D1102:LED_SMD:LED_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D507:Diode_SMD:D_SOD-123".
+Hinweis: Verarbeite Symbol "R105:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "D1103:LED_SMD:LED_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C205:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R104:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "L501:Inductor_SMD:L_1206_3216Metric".
+Hinweis: Verarbeite Symbol "R608:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C204:jacobi:C_2220_5650Metric".
+Hinweis: Verarbeite Symbol "R603:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "J1103:Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal".
+Hinweis: Verarbeite Symbol "P1101:Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical".
+Hinweis: Verarbeite Symbol "R103:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "NT402:NetTie:NetTie-2_SMD_Pad0.5mm".
+Hinweis: Verarbeite Symbol "D1101:LED_SMD:LED_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C203:Capacitor_SMD:C_1206_3216Metric".
+Hinweis: Verarbeite Symbol "L502:Inductor_SMD:L_Taiyo-Yuden_NR-80xx_HandSoldering".
+Hinweis: Verarbeite Symbol "R607:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R721:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C401:Capacitor_SMD:C_1206_3216Metric".
+Hinweis: Verarbeite Symbol "Q204:jacobi:LFPAK56_ThermalVias-1".
+Hinweis: Verarbeite Symbol "C405:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R705:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "H102:MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad".
+Hinweis: Verarbeite Symbol "C307:Capacitor_SMD:CP_Elec_10x10".
+Hinweis: Verarbeite Symbol "D502:Diode_SMD:D_MiniMELF".
+Hinweis: Verarbeite Symbol "J701:Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal".
+Hinweis: Verarbeite Symbol "D503:LED_SMD:LED_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C101:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C402:Capacitor_SMD:C_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R204:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C407:Capacitor_SMD:CP_Elec_10x10".
+Hinweis: Verarbeite Symbol "R509:Resistor_SMD:R_0805_2012Metric".
+Hinweis: Verarbeite Symbol "R720:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R719:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "H101:MountingHole:MountingHole_3.2mm_M3_Pad_Via".
+Hinweis: Verarbeite Symbol "R507:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R717:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R716:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R718:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "FB502:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C404:jacobi:C_2220_5650Metric".
+Hinweis: Verarbeite Symbol "R508:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R510:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R704:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R203:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "R723:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C309:Capacitor_SMD:CP_Elec_10x10".
+Hinweis: Verarbeite Symbol "R506:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "D501:Diode_SMD:D_SMA".
+Hinweis: Verarbeite Symbol "J1101:Connector_JST:JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal".
+Hinweis: Verarbeite Symbol "C409:Capacitor_SMD:CP_Elec_10x10".
+Hinweis: Verarbeite Symbol "R722:Resistor_SMD:R_0603_1608Metric".
+Hinweis: Verarbeite Symbol "C403:Capacitor_SMD:C_1206_3216Metric".
+Via wieder von /logic/controller/EEPROM_SDA nach /logic/controller/interfaces/HallA verbinden.
+Netz unconnected-(U601-PD15-Pad62) hinzufügen.
+Via wieder von /logic/controller/analog/IcAC nach /logic/controller/analog/IcDC verbinden.
+Via wieder von /logic/controller/EEPROM_SDA nach /logic/controller/interfaces/HallA verbinden.
+Via wieder von /logic/controller/\RESET nach unconnected-(U601-PC13-Pad7) verbinden.
+U601 Pin 19 von +3V3 nach GNDA wieder verbinden.
+Via wieder von Net-(J602-VBUS) nach /logic/controller/usb/VBUS verbinden.
+U601 Pin 62 von /logic/controller/CAN_TX nach unconnected-(U601-PD15-Pad62) wieder verbinden.
+Füge U601 Fertigungsattribut "Nicht bestücken" hinzu.
+U601 Pin 31 von GNDD nach unconnected-(U601-PA7-Pad31) wieder verbinden.
+Netz /logic/controller/analog/VaDC hinzufügen.
+Via wieder von Net-(U401-VSS) nach /power/phase_c/VSS verbinden.
+U601 Pin 35 von Net-(U601-PB14) nach /logic/controller/analog/VaDC wieder verbinden.
+U601 Pin 23 von unconnected-(U601-PA7-Pad23) nach /logic/controller/analog/BrdgTemp wieder verbinden.
+U601 Pin 15 von /logic/controller/analog/IbAC nach /logic/controller/analog/AIN_ACC wieder verbinden.
+Via wieder von Net-(C509-~-Pad1) nach GNDA verbinden.
+Via wieder von /logic/controller/USB_VBUS nach unconnected-(U601-PB12-Pad51) verbinden.
+Netz unconnected-(U601-PA7-Pad31) hinzufügen.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /logic/controller/CLK nach Net-(U601-PH0) verbinden.
+Via wieder von /logic/controller/EEPROM_SCL nach unconnected-(U601-PD11-Pad58) verbinden.
+U601 Pin 30 von +1V2 nach unconnected-(U601-PA6-Pad30) wieder verbinden.
+Netz unconnected-(U601-PE8-Pad38) hinzufügen.
+Via wieder von /logic/controller/EEPROM_SCL nach unconnected-(U601-PD11-Pad58) verbinden.
+U601 Pin 21 von /logic/controller/analog/BrdgTemp nach +3.3VADC wieder verbinden.
+U601 Pin 45 von /logic/controller/USB_DP nach /logic/controller/interfaces/PWM_EN wieder verbinden.
+U601 Pin 16 von /logic/controller/analog/IcDC nach /logic/controller/mcu/AIN_VDC wieder verbinden.
+U601 Pin 13 von +3.3VADC nach unconnected-(U601-PH1-Pad13) wieder verbinden.
+Aktualisiere X601 Footprint-Filter auf "Oscillator*SMD*Abracon*ASE*3.2x2.5mm*".
+U601 Pin 48 von +3V3 nach +1V2 wieder verbinden.
+Aktualisiere X601 Blattname auf "mcu.kicad_sch".
+Metadaten der Einheit U1101 aktualisieren.
+U601 Pin 5 von /logic/controller/CLK nach unconnected-(U601-PE6-Pad5) wieder verbinden.
+U1103 Felder aktualisieren.
+Aktualisiere Schaltplanblatt X601 auf" /logic/controller/mcu/".
+Netz unconnected-(U601-PC14-Pad8) hinzufügen.
+Netz unconnected-(U601-PE6-Pad5) hinzufügen.
+Aktualisiere Schaltplanblatt U1103 auf" /logic/controller/interfaces/".
+U601 Pin 58 von /logic/controller/EEPROM_SCL nach unconnected-(U601-PD11-Pad58) wieder verbinden.
+Aktualisiere U1103 Footprint-Filter auf "SOT?23?5*".
+Netz unconnected-(U601-PH1-Pad13) hinzufügen.
+U601 Pin 8 von /logic/controller/AIN_ACC nach unconnected-(U601-PC14-Pad8) wieder verbinden.
+X601 Felder aktualisieren.
+Symbolverknüpfung X601 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b7d3 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b7d3 aktualisieren.
+Netz unconnected-(U601-PD8-Pad55) hinzufügen.
+Wert X601 von SM44T in Q33310F70051500 ändern.
+U601 Pin 55 von /logic/controller/TDO-SWO nach unconnected-(U601-PD8-Pad55) wieder verbinden.
+Metadaten der Einheit U1103 aktualisieren.
+U601 Pin 39 von unconnected-(U601-PC8-Pad39) nach unconnected-(U601-PE9-Pad39) wieder verbinden.
+U601 Pin 38 von unconnected-(U601-PC7-Pad38) nach unconnected-(U601-PE8-Pad38) wieder verbinden.
+Via wieder von /logic/controller/analog/IcAC nach /logic/controller/analog/IcDC verbinden.
+Metadaten der Einheit U601 aktualisieren.
+Via wieder von /logic/controller/AIN_DCC nach unconnected-(U601-PC15-Pad9) verbinden.
+U601 Pin 49 von /logic/controller/TCK-SWCLK nach GNDD wieder verbinden.
+U601 Pin 11 von /logic/controller/AIN_CUR_A_AC nach +3V3 wieder verbinden.
+U601 Pin 2 von /logic/controller/interfaces/HallA nach /logic/controller/interfaces/LED_PWM wieder verbinden.
+Via wieder von /logic/controller/AIN_DCC nach unconnected-(U601-PC15-Pad9) verbinden.
+Via wieder von /logic/controller/AIN_ACC nach unconnected-(U601-PC14-Pad8) verbinden.
+U601 Pin 36 von Net-(U601-PB15) nach /logic/controller/mcu/AIN_VDC wieder verbinden.
+U601 Pin 54 von unconnected-(U601-PD2-Pad54) nach Net-(U601-PB15) wieder verbinden.
+Via wieder von /logic/controller/AIN_ACC nach unconnected-(U601-PC14-Pad8) verbinden.
+Netz unconnected-(U601-PD11-Pad58) hinzufügen.
+U1101 Felder aktualisieren.
+Metadaten der Einheit X601 aktualisieren.
+Aktualisiere Schaltplanblatt U1101 auf" /logic/controller/interfaces/".
+Aktualisiere U1101 Footprint-Filter auf "*TSOT?23* *SOIC*3.9x4.9mm*P1.27mm*".
+X601 Pin 3 von /logic/controller/CLK nach Net-(U601-PH0) wieder verbinden.
+Netz unconnected-(U601-PE9-Pad39) hinzufügen.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von Net-(U401-VSS) nach /power/phase_c/VSS verbinden.
+Via wieder von Net-(U401-HS) nach /power/phase_c/HS verbinden.
+Via wieder von Net-(U401-HS) nach /power/phase_c/HS verbinden.
+Via wieder von Net-(U401-HS) nach /power/phase_c/HS verbinden.
+Via wieder von Net-(U401-LO) nach /power/phase_c/LO verbinden.
+Via wieder von Net-(U401-LO) nach /power/phase_c/LO verbinden.
+Via wieder von Net-(U401-LO) nach /power/phase_c/LO verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von Net-(U401-VSS) nach /power/phase_c/VSS verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+U601 Pin 3 von /logic/controller/interfaces/HallB nach /logic/controller/PWR_DET wieder verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Aktualisiere Schaltplanblatt R1106 auf" /logic/controller/interfaces/".
+Aktualisiere Schaltplanblatt R1104 auf" /logic/controller/interfaces/".
+Aktualisiere R1104 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1104 aktualisieren.
+R1105 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R1105 auf" /logic/controller/interfaces/".
+Aktualisiere R1105 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1105 aktualisieren.
+R1106 Felder aktualisieren.
+R1104 Felder aktualisieren.
+Aktualisiere R1106 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1106 aktualisieren.
+R1107 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R1107 auf" /logic/controller/interfaces/".
+Aktualisiere R1107 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1107 aktualisieren.
+R1108 Felder aktualisieren.
+R1102 Felder aktualisieren.
+R720 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R721 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R722 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R723 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R1101 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R1101 auf" /logic/controller/interfaces/".
+Aktualisiere R1101 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1101 aktualisieren.
+Aktualisiere Schaltplanblatt R1108 auf" /logic/controller/interfaces/".
+Aktualisiere Schaltplanblatt R1102 auf" /logic/controller/interfaces/".
+Aktualisiere R1102 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1102 aktualisieren.
+R1103 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R1103 auf" /logic/controller/interfaces/".
+Aktualisiere R1103 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1103 aktualisieren.
+Aktualisiere Schaltplanblatt TH101 auf" /power/interface/".
+Aktualisiere R1111 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1111 aktualisieren.
+R1114 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R1114 auf" /logic/controller/interfaces/".
+Aktualisiere R1114 Footprint-Filter auf "R_*".
+Metadaten der Einheit R1114 aktualisieren.
+Symbolverknüpfung TH101 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60cd2 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c01/b14e471a-c1db-47ee-bf08-de7a26939490 aktualisieren.
+TH101 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R1111 auf" /logic/controller/interfaces/".
+Aktualisiere TH101 Blattname auf "power_interface.kicad_sch".
+Aktualisiere TH101 Footprint-Filter auf "R_* RV_*".
+TH101 Pin 2 von Net-(J104-Pin_10) nach GND wieder verbinden.
+Metadaten der Einheit TH101 aktualisieren.
+U201 Felder aktualisieren.
+Aktualisiere Schaltplanblatt U201 auf" /power/phase_a/".
+Aktualisiere U201 Footprint-Filter auf "SOIC*3.9x4.9mm*P1.27mm*".
+R719 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R1111 Felder aktualisieren.
+Metadaten der Einheit R1110 aktualisieren.
+Aktualisiere R1110 Footprint-Filter auf "R_*".
+Aktualisiere Schaltplanblatt R1110 auf" /logic/controller/interfaces/".
+R1110 Felder aktualisieren.
+Metadaten der Einheit R1109 aktualisieren.
+R1109 Pin 2 von /logic/controller/CAN_RX nach /logic/controller/interfaces/CAN_RXD wieder verbinden.
+Netz /logic/controller/interfaces/CAN_RXD hinzufügen.
+Aktualisiere R1109 Footprint-Filter auf "R_*".
+Aktualisiere Schaltplanblatt R1109 auf" /logic/controller/interfaces/".
+R1109 Felder aktualisieren.
+Metadaten der Einheit R1108 aktualisieren.
+R1108 Pin 2 von /logic/controller/CAN_TX nach /logic/controller/interfaces/CAN_TXD wieder verbinden.
+Netz /logic/controller/interfaces/CAN_TXD hinzufügen.
+Aktualisiere R1108 Footprint-Filter auf "R_*".
+Aktualisiere Schaltplanblatt R609 auf" /logic/controller/mcu/".
+Symbolverknüpfung R608 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc5f8d6 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005dc5f8d6 aktualisieren.
+R608 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R608 auf" /logic/controller/mcu/".
+Aktualisiere R608 Blattname auf "mcu.kicad_sch".
+Aktualisiere R608 Footprint-Filter auf "R_*".
+Metadaten der Einheit R608 aktualisieren.
+Symbolverknüpfung R609 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc3ba15 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005dc3ba15 aktualisieren.
+R609 Felder aktualisieren.
+Metadaten der Einheit R607 aktualisieren.
+Aktualisiere R609 Blattname auf "mcu.kicad_sch".
+Aktualisiere R609 Footprint-Filter auf "R_*".
+Metadaten der Einheit R609 aktualisieren.
+Symbolverknüpfung R610 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc47f68 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005dc47f68 aktualisieren.
+R610 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R610 auf" /logic/controller/mcu/".
+Aktualisiere R610 Blattname auf "mcu.kicad_sch".
+Aktualisiere R606 Blattname auf "mcu.kicad_sch".
+Aktualisiere Schaltplanblatt R605 auf" /logic/controller/usb/".
+Aktualisiere R605 Blattname auf "usb.kicad_sch".
+Aktualisiere R605 Footprint-Filter auf "R_*".
+R605 Pin 2 von /logic/controller/USB_VBUS nach /logic/controller/mcu/USB_VBUS wieder verbinden.
+Metadaten der Einheit R605 aktualisieren.
+Symbolverknüpfung R606 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc484b4 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005dc484b4 aktualisieren.
+R606 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R606 auf" /logic/controller/mcu/".
+Aktualisiere R610 Footprint-Filter auf "R_*".
+Aktualisiere R606 Footprint-Filter auf "R_*".
+Metadaten der Einheit R606 aktualisieren.
+Symbolverknüpfung R607 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc5f521 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005dc5f521 aktualisieren.
+R607 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R607 auf" /logic/controller/mcu/".
+Aktualisiere R607 Blattname auf "mcu.kicad_sch".
+Aktualisiere R607 Footprint-Filter auf "R_*".
+R705 Pin 1 von Net-(C704-~-Pad2) nach /logic/controller/mcu/AIN_VDC wieder verbinden.
+Aktualisiere R704 Footprint-Filter auf "R_*".
+R704 Pin 1 von Net-(C703-~-Pad2) nach /logic/controller/analog/BrdgTemp wieder verbinden.
+Metadaten der Einheit R704 aktualisieren.
+R705 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R705 auf" /logic/controller/analog/".
+Aktualisiere R705 Footprint-Filter auf "R_*".
+Netz /logic/controller/VdcIn hinzufügen.
+R705 Pin 2 von Net-(C702-~-Pad2) nach /logic/controller/VdcIn wieder verbinden.
+Aktualisiere Schaltplanblatt R704 auf" /logic/controller/analog/".
+Metadaten der Einheit R705 aktualisieren.
+R716 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R716 auf" /logic/controller/analog/".
+Aktualisiere R716 Footprint-Filter auf "R_*".
+Metadaten der Einheit R716 aktualisieren.
+R717 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R718 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+U201 Pin 7 von Net-(U201-HO) nach /power/phase_a/HO wieder verbinden.
+R704 Felder aktualisieren.
+Metadaten der Einheit R703 aktualisieren.
+Aktualisiere R703 Footprint-Filter auf "R_*".
+Aktualisiere Schaltplanblatt R703 auf" /logic/controller/analog/".
+R703 Felder aktualisieren.
+R614 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R613 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R612 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+Metadaten der Einheit R611 aktualisieren.
+Aktualisiere R611 Footprint-Filter auf "R_*".
+Aktualisiere R611 Blattname auf "mcu.kicad_sch".
+Aktualisiere Schaltplanblatt R611 auf" /logic/controller/mcu/".
+R611 Felder aktualisieren.
+Symbolverknüpfung R611 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc48337 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005dc48337 aktualisieren.
+Metadaten der Einheit R610 aktualisieren.
+Netz unconnected-(U601-PC6-Pad63) hinzufügen.
+U601 Pin 27 von /logic/controller/interfaces/LED_ERROR nach +3V3 wieder verbinden.
+Netz unconnected-(U601-PC7-Pad64) hinzufügen.
+U601 Pin 64 von +3V3 nach unconnected-(U601-PC7-Pad64) wieder verbinden.
+Netz unconnected-(U601-PE10-Pad40) hinzufügen.
+U601 Pin 40 von unconnected-(U601-PC9-Pad40) nach unconnected-(U601-PE10-Pad40) wieder verbinden.
+Netz unconnected-(U601-PA4-Pad28) hinzufügen.
+U601 Pin 28 von /logic/controller/interfaces/LED_RUN nach unconnected-(U601-PA4-Pad28) wieder verbinden.
+U601 Pin 52 von unconnected-(U601-PC11-Pad52) nach Net-(U601-PB13) wieder verbinden.
+U601 Pin 53 von unconnected-(U601-PC12-Pad53) nach Net-(U601-PB14) wieder verbinden.
+U601 Pin 63 von GNDD nach unconnected-(U601-PC6-Pad63) wieder verbinden.
+Netz unconnected-(U601-PC13-Pad7) hinzufügen.
+U601 Pin 7 von /logic/controller/\RESET nach unconnected-(U601-PC13-Pad7) wieder verbinden.
+U601 Pin 20 von /logic/controller/analog/Vdc nach +3.3VADC wieder verbinden.
+U601 Pin 60 von /logic/controller/BTLDR nach /logic/controller/interfaces/HallB wieder verbinden.
+U601 Pin 6 von unconnected-(U601-PH1-Pad6) nach +3V3 wieder verbinden.
+U601 Pin 32 von +3V3 nach /logic/controller/analog/AIN_DCC wieder verbinden.
+Netz /logic/controller/PWR_DET hinzufügen.
+Aktualisiere Schaltplanblatt U601 auf" /logic/controller/mcu/".
+Aktualisiere U601 Blattname auf "mcu.kicad_sch".
+Aktualisiere U601 Footprint-Filter auf "LQFP*14x14mm*P0.5mm*".
+Netz unconnected-(U601-PD9-Pad56) hinzufügen.
+U601 Pin 56 von unconnected-(U601-PB4-Pad56) nach unconnected-(U601-PD9-Pad56) wieder verbinden.
+Netz unconnected-(U601-PA5-Pad29) hinzufügen.
+U601 Pin 29 von /logic/controller/interfaces/PWM_EN nach unconnected-(U601-PA5-Pad29) wieder verbinden.
+U601 Pin 59 von /logic/controller/EEPROM_SDA nach /logic/controller/interfaces/HallA wieder verbinden.
+Netz unconnected-(U601-PC15-Pad9) hinzufügen.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Netz unconnected-(U601-PB10-Pad46) hinzufügen.
+U601 Pin 46 von /logic/controller/TMS-SWDIO nach unconnected-(U601-PB10-Pad46) wieder verbinden.
+Netz unconnected-(U601-PB11-Pad47) hinzufügen.
+U601 Pin 47 von GNDD nach unconnected-(U601-PB11-Pad47) wieder verbinden.
+Netz unconnected-(U601-PE11-Pad41) hinzufügen.
+U601 Pin 41 von Net-(U601-PA8) nach unconnected-(U601-PE11-Pad41) wieder verbinden.
+Netz Net-(U601-PH0) hinzufügen.
+U601 Pin 34 von Net-(U601-PB13) nach /logic/controller/analog/VbDC wieder verbinden.
+Netz unconnected-(U601-PE7-Pad37) hinzufügen.
+U601 Pin 37 von unconnected-(U601-PC6-Pad37) nach unconnected-(U601-PE7-Pad37) wieder verbinden.
+U601 Pin 14 von /logic/controller/analog/IbDC nach /logic/controller/mcu/\RESET wieder verbinden.
+Netz unconnected-(U601-PD10-Pad57) hinzufügen.
+U601 Pin 57 von unconnected-(U601-PB5-Pad57) nach unconnected-(U601-PD10-Pad57) wieder verbinden.
+U601 Pin 26 von /logic/controller/interfaces/LED_MODE nach GNDD wieder verbinden.
+U601 Pin 50 von unconnected-(U601-PA15-Pad50) nach +3V3 wieder verbinden.
+Netz /logic/controller/analog/VbDC hinzufügen.
+U601 Pin 12 von GNDA nach Net-(U601-PH0) wieder verbinden.
+Netz unconnected-(U601-PB12-Pad51) hinzufügen.
+U601 Pin 51 von /logic/controller/USB_VBUS nach unconnected-(U601-PB12-Pad51) wieder verbinden.
+Netz unconnected-(U601-PE14-Pad44) hinzufügen.
+U601 Pin 44 von /logic/controller/USB_DM nach unconnected-(U601-PE14-Pad44) wieder verbinden.
+Netz unconnected-(U601-PE12-Pad42) hinzufügen.
+U601 Pin 42 von Net-(U601-PA9) nach unconnected-(U601-PE12-Pad42) wieder verbinden.
+U601 Felder aktualisieren.
+U601 Pin 61 von /logic/controller/CAN_RX nach /logic/controller/interfaces/HallC wieder verbinden.
+U601 Pin 18 von GNDD nach /logic/controller/analog/VcDC wieder verbinden.
+Netz /logic/controller/analog/VcDC hinzufügen.
+U601 Pin 33 von /logic/controller/interfaces/PWM_EN nach /logic/controller/analog/V12PDC wieder verbinden.
+Netz /logic/controller/analog/V12PDC hinzufügen.
+U601 Pin 25 von /logic/controller/interfaces/LED_PWM nach /logic/controller/analog/IbDC wieder verbinden.
+U601 Pin 1 von +3V3 nach /logic/controller/interfaces/LED_MODE wieder verbinden.
+U601 Pin 17 von /logic/controller/analog/IcAC nach /logic/controller/analog/IcDC wieder verbinden.
+U601 Pin 4 von /logic/controller/interfaces/HallC nach /logic/controller/mcu/USB_VBUS wieder verbinden.
+U601 Pin 43 von Net-(U601-PA10) nach unconnected-(U601-PE13-Pad43) wieder verbinden.
+Netz unconnected-(U601-PE13-Pad43) hinzufügen.
+U601 Pin 10 von /logic/controller/AIN_CUR_A nach GNDD wieder verbinden.
+U601 Pin 24 von unconnected-(U601-PC4-Pad24) nach /logic/controller/analog/IaDC wieder verbinden.
+Netz /logic/controller/analog/IaDC hinzufügen.
+U601 Pin 9 von /logic/controller/AIN_DCC nach unconnected-(U601-PC15-Pad9) wieder verbinden.
+Aktualisiere Schaltplanblatt U302 auf" /power/phase_b/".
+U301 Pin 6 von Net-(U301-HS) nach /power/phase_b/HS wieder verbinden.
+U301 Pin 5 von Net-(U301-LO) nach /power/phase_b/LO wieder verbinden.
+U301 Pin 7 von Net-(U301-HO) nach /power/phase_b/HO wieder verbinden.
+U301 Pin 3 von /power/phase_b/PwmL nach /power/PWM_BL wieder verbinden.
+U301 Pin 2 von /power/phase_b/PwmH nach /power/PWM_BH wieder verbinden.
+U301 Pin 4 von Net-(U301-VSS) nach /power/phase_b/VSS wieder verbinden.
+Metadaten der Einheit U301 aktualisieren.
+U302 Felder aktualisieren.
+Aktualisiere U301 Footprint-Filter auf "SOIC*3.9x4.9mm*P1.27mm*".
+Aktualisiere U302 Footprint-Filter auf "TSSOP*4.4x3mm*P0.65mm*".
+Netz Net-(U302--) hinzufügen.
+U302 Pin 3 von Net-(Q302-D) nach Net-(U302--) wieder verbinden.
+U302 Pin 8 von /power/phase_b/I nach /power/I_B wieder verbinden.
+U302 Pin 2 von /power/phase_b/Phase nach Net-(U302-+) wieder verbinden.
+Metadaten der Einheit U302 aktualisieren.
+U401 Felder aktualisieren.
+Aktualisiere U202 Footprint-Filter auf "TSSOP*4.4x3mm*P0.65mm*".
+U201 Pin 4 von Net-(U201-VSS) nach /power/phase_a/VSS wieder verbinden.
+U201 Pin 3 von /power/phase_a/PwmL nach /power/PWM_AL wieder verbinden.
+U201 Pin 5 von Net-(U201-LO) nach /power/phase_a/LO wieder verbinden.
+U201 Pin 6 von Net-(U201-HS) nach /power/phase_a/HS wieder verbinden.
+U201 Pin 2 von /power/phase_a/PwmH nach /power/PWM_AH wieder verbinden.
+Metadaten der Einheit U201 aktualisieren.
+U202 Felder aktualisieren.
+Aktualisiere Schaltplanblatt U202 auf" /power/phase_a/".
+Aktualisiere Schaltplanblatt U401 auf" /power/phase_c/".
+U202 Pin 2 von /power/phase_a/Phase nach Net-(U202-+) wieder verbinden.
+Netz Net-(U202--) hinzufügen.
+U202 Pin 3 von Net-(Q202-D) nach Net-(U202--) wieder verbinden.
+U202 Pin 8 von /power/phase_a/I nach /power/I_A wieder verbinden.
+Metadaten der Einheit U202 aktualisieren.
+U301 Felder aktualisieren.
+Aktualisiere Schaltplanblatt U301 auf" /power/phase_b/".
+Aktualisiere Schaltplanblatt U502 auf" /logic/power_supply/psu_12v/".
+Symbolverknüpfung U501 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d187393 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d187393 aktualisieren.
+U501 Felder aktualisieren.
+Aktualisiere Schaltplanblatt U501 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere U501 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere U501 Footprint-Filter auf "SOT?23*".
+Metadaten der Einheit U501 aktualisieren.
+Symbolverknüpfung U502 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6e8c nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6e8c aktualisieren.
+U502 Felder aktualisieren.
+Metadaten der Einheit U402 aktualisieren.
+Aktualisiere U502 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere U502 Footprint-Filter auf "MSOP*3x3mm*P0.65mm*".
+Metadaten der Einheit U502 aktualisieren.
+U503 hinzufügen (Footprint "Package_TO_SOT_SMD:SOT-23-5").
+Footprint U601 von "Package_QFP:LQFP-64_10x10mm_P0.5mm" in "Package_QFP:LQFP-100_14x14mm_P0.5mm" ändern.
+Wert U601 von STM32F730R8Tx in STM32H743VIT6 ändern.
+Symbolverknüpfung U601 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc27547 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/fe007640-60ad-4985-bf35-e5e1996add7c aktualisieren.
+Netz unconnected-(U601-PA6-Pad30) hinzufügen.
+U402 Pin 2 von /power/phase_c/Phase nach Net-(U402-+) wieder verbinden.
+U402 Pin 3 von Net-(Q402-D) nach Net-(U402--) wieder verbinden.
+Netz Net-(U402--) hinzufügen.
+U402 Pin 8 von /power/phase_c/I nach /power/I_C wieder verbinden.
+Aktualisiere U402 Footprint-Filter auf "TSSOP*4.4x3mm*P0.65mm*".
+Aktualisiere Schaltplanblatt U402 auf" /power/phase_c/".
+U402 Felder aktualisieren.
+Metadaten der Einheit U401 aktualisieren.
+U401 Pin 7 von Net-(U401-HO) nach /power/phase_c/HO wieder verbinden.
+U401 Pin 2 von /power/phase_c/PwmH nach /power/PWM_CH wieder verbinden.
+U401 Pin 6 von Net-(U401-HS) nach /power/phase_c/HS wieder verbinden.
+U401 Pin 5 von Net-(U401-LO) nach /power/phase_c/LO wieder verbinden.
+U401 Pin 4 von Net-(U401-VSS) nach /power/phase_c/VSS wieder verbinden.
+U401 Pin 3 von /power/phase_c/PwmL nach /power/PWM_CL wieder verbinden.
+Aktualisiere U401 Footprint-Filter auf "SOIC*3.9x4.9mm*P1.27mm*".
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Unbenutzten Footprint R910 entfernen.
+Unbenutzten Footprint R901 entfernen.
+Unbenutzten Footprint R902 entfernen.
+Unbenutzten Footprint R903 entfernen.
+Unbenutzten Footprint R904 entfernen.
+Unbenutzten Footprint R905 entfernen.
+Unbenutzten Footprint R906 entfernen.
+Unbenutzten Footprint R907 entfernen.
+Unbenutzten Footprint R908 entfernen.
+Unbenutzten Footprint R909 entfernen.
+Unbenutzten Footprint R811 entfernen.
+Unbenutzten Footprint R911 entfernen.
+Unbenutzten Footprint R1001 entfernen.
+Unbenutzten Footprint R1002 entfernen.
+Unbenutzten Footprint R1003 entfernen.
+Unbenutzten Footprint R1004 entfernen.
+Unbenutzten Footprint R1005 entfernen.
+Unbenutzten Footprint R1006 entfernen.
+Unbenutzten Footprint R1007 entfernen.
+Unbenutzten Footprint R802 entfernen.
+Unbenutzten Footprint R706 entfernen.
+Unbenutzten Footprint R707 entfernen.
+Unbenutzten Footprint R708 entfernen.
+Unbenutzten Footprint R709 entfernen.
+Unbenutzten Footprint R710 entfernen.
+Unbenutzten Footprint R711 entfernen.
+Unbenutzten Footprint R713 entfernen.
+Unbenutzten Footprint R714 entfernen.
+Unbenutzten Footprint R801 entfernen.
+Unbenutzten Footprint R1008 entfernen.
+Unbenutzten Footprint R803 entfernen.
+Unbenutzten Footprint R804 entfernen.
+Unbenutzten Footprint R805 entfernen.
+Unbenutzten Footprint R806 entfernen.
+Unbenutzten Footprint R807 entfernen.
+Unbenutzten Footprint R808 entfernen.
+Unbenutzten Footprint R809 entfernen.
+Unbenutzten Footprint R810 entfernen.
+Unbenutzten Footprint C906 entfernen.
+Unbenutzten Footprint R302 entfernen.
+Unbenutzten Footprint REF** entfernen.
+Unbenutzten Footprint R402 entfernen.
+Unbenutzten Footprint R411 entfernen.
+Unbenutzten Footprint C512 entfernen.
+Unbenutzten Footprint C710 entfernen.
+Unbenutzten Footprint C806 entfernen.
+Unbenutzten Footprint C807 entfernen.
+Unbenutzten Footprint C810 entfernen.
+Unbenutzten Footprint R202 entfernen.
+Unbenutzten Footprint C907 entfernen.
+Unbenutzten Footprint C910 entfernen.
+Unbenutzten Footprint C1006 entfernen.
+Unbenutzten Footprint C1007 entfernen.
+Unbenutzten Footprint C1010 entfernen.
+Unbenutzten Footprint FB501 entfernen.
+Unbenutzten Footprint C711 entfernen.
+Unbenutzten Footprint C712 entfernen.
+Unbenutzten Footprint U901 entfernen.
+Unbenutzten Footprint R1009 entfernen.
+Unbenutzten Footprint R1010 entfernen.
+Unbenutzten Footprint R1011 entfernen.
+Unbenutzten Footprint R1112 entfernen.
+Unbenutzten Footprint R1113 entfernen.
+Unbenutzten Footprint R1115 entfernen.
+Unbenutzten Footprint U701 entfernen.
+Unbenutzten Footprint U801 entfernen.
+Unbenutzten Footprint R702 entfernen.
+Unbenutzten Footprint U1001 entfernen.
+Unbenutzten Footprint U1102 entfernen.
+Unbenutzten Footprint C706 entfernen.
+Unbenutzten Footprint R712 entfernen.
+Unbenutzten Footprint R715 entfernen.
+Unbenutzten Footprint R512 entfernen.
+Unbenutzten Footprint R311 entfernen.
+Unbenutzten Footprint R211 entfernen.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von Net-(U201-HO) nach /power/phase_a/HO verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von Net-(U201-HO) nach /power/phase_a/HO verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Unbenutzten Footprint C1002 entfernen.
+Unbenutzten Footprint C809 entfernen.
+Unbenutzten Footprint C901 entfernen.
+Unbenutzten Footprint C902 entfernen.
+Unbenutzten Footprint C903 entfernen.
+Unbenutzten Footprint C904 entfernen.
+Unbenutzten Footprint C905 entfernen.
+Unbenutzten Footprint C908 entfernen.
+Unbenutzten Footprint C909 entfernen.
+Unbenutzten Footprint C1001 entfernen.
+Unbenutzten Footprint C808 entfernen.
+Unbenutzten Footprint C1003 entfernen.
+Unbenutzten Footprint C1004 entfernen.
+Unbenutzten Footprint C1005 entfernen.
+Unbenutzten Footprint C1008 entfernen.
+Unbenutzten Footprint C1009 entfernen.
+Unbenutzten Footprint C1105 entfernen.
+Unbenutzten Footprint JP1101 entfernen.
+Unbenutzten Footprint R701 entfernen.
+Unbenutzten Footprint C702 entfernen.
+Via wieder von Net-(U201-HO) nach /power/phase_a/HO verbinden.
+Kupferzone von Net-(C509-~-Pad1) nach Net-(U503-ON/~{OFF}) wieder verbinden.
+Kupferzone von /power/phase_c/Phase nach /power/PHASE_C wieder verbinden.
+Kupferzone von /power/phase_b/Phase nach /power/PHASE_B wieder verbinden.
+Kupferzone von /power/phase_a/Phase nach /power/PHASE_A wieder verbinden.
+Kupferzone von /power/phase_c/Phase nach Net-(U402-+) wieder verbinden.
+Kupferzone von /power/phase_a/Phase nach Net-(U202-+) wieder verbinden.
+Kupferzone von /power/phase_b/Phase nach Net-(U302-+) wieder verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Unbenutzten Footprint C705 entfernen.
+Unbenutzten Footprint C707 entfernen.
+Unbenutzten Footprint C708 entfernen.
+Unbenutzten Footprint C801 entfernen.
+Unbenutzten Footprint C802 entfernen.
+Unbenutzten Footprint C803 entfernen.
+Unbenutzten Footprint C804 entfernen.
+Unbenutzten Footprint C805 entfernen.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von Net-(U301-LO) nach /power/phase_b/LO verbinden.
+Via wieder von Net-(U301-HS) nach /power/phase_b/HS verbinden.
+Via wieder von Net-(U301-HS) nach /power/phase_b/HS verbinden.
+Via wieder von Net-(U301-HS) nach /power/phase_b/HS verbinden.
+Via wieder von Net-(U301-HO) nach /power/phase_b/HO verbinden.
+Via wieder von Net-(U301-HO) nach /power/phase_b/HO verbinden.
+Via wieder von Net-(U301-HO) nach /power/phase_b/HO verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von Net-(U301-LO) nach /power/phase_b/LO verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von Net-(U201-HS) nach /power/phase_a/HS verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von Net-(U201-LO) nach /power/phase_a/LO verbinden.
+Via wieder von Net-(U201-LO) nach /power/phase_a/LO verbinden.
+Via wieder von Net-(U201-LO) nach /power/phase_a/LO verbinden.
+Via wieder von Net-(U201-VSS) nach /power/phase_a/VSS verbinden.
+Via wieder von Net-(U201-VSS) nach /power/phase_a/VSS verbinden.
+Via wieder von Net-(U201-VSS) nach /power/phase_a/VSS verbinden.
+Via wieder von Net-(U201-HS) nach /power/phase_a/HS verbinden.
+Via wieder von Net-(U201-HS) nach /power/phase_a/HS verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/PwmH nach /power/PWM_BH verbinden.
+Via wieder von /power/phase_b/PwmH nach /power/PWM_BH verbinden.
+Via wieder von /power/phase_b/PwmL nach /power/PWM_BL verbinden.
+Via wieder von /power/phase_b/PwmL nach /power/PWM_BL verbinden.
+Via wieder von Net-(U301-VSS) nach /power/phase_b/VSS verbinden.
+Via wieder von Net-(U301-VSS) nach /power/phase_b/VSS verbinden.
+Via wieder von Net-(U301-VSS) nach /power/phase_b/VSS verbinden.
+Via wieder von Net-(U301-LO) nach /power/phase_b/LO verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Aktualisiere Schaltplanblatt R507 auf" /logic/power_supply/psu_3v3/".
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von Net-(J104-Pin_10) nach GND verbinden.
+Via wieder von /power/phase_c/PwmH nach /power/PWM_CH verbinden.
+Via wieder von /power/phase_c/PwmH nach /power/PWM_CH verbinden.
+Via wieder von Net-(U401-HO) nach /power/phase_c/HO verbinden.
+Via wieder von Net-(U401-HO) nach /power/phase_c/HO verbinden.
+Via wieder von Net-(U401-HO) nach /power/phase_c/HO verbinden.
+Via wieder von /power/phase_c/I nach /power/I_C verbinden.
+Via wieder von /power/phase_c/I nach /power/I_C verbinden.
+Via wieder von /power/phase_a/I nach /power/I_A verbinden.
+Via wieder von /power/phase_a/I nach /power/I_A verbinden.
+Via wieder von /power/phase_c/PwmL nach /power/PWM_CL verbinden.
+Via wieder von Net-(J104-Pin_10) nach GND verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_c/Phase nach Net-(U402-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_b/I nach /power/I_B verbinden.
+Via wieder von /power/phase_b/I nach /power/I_B verbinden.
+Via wieder von /power/phase_c/PwmL nach /power/PWM_CL verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_b/Phase nach Net-(U302-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Via wieder von /power/phase_a/Phase nach Net-(U202-+) verbinden.
+Aktualisiere FB502 Footprint-Filter auf "Inductor_* L_* *Ferrite*".
+D1104 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D1104 auf" /logic/controller/interfaces/".
+Aktualisiere D1104 Footprint-Filter auf "LED* LED_SMD:* LED_THT:*".
+Metadaten der Einheit D1104 aktualisieren.
+Symbolverknüpfung FB502 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d18740c nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/8cef67df-31a2-4a9e-9c13-e4dedee32cc6/00000000-0000-0000-0000-00005d18740c aktualisieren.
+FB502 Felder aktualisieren.
+Aktualisiere Schaltplanblatt FB502 auf" /logic/power_supply/psu_3v3a/".
+Aktualisiere FB502 Blattname auf "power_supply_3v3a.kicad_sch".
+Metadaten der Einheit D1103 aktualisieren.
+Metadaten der Einheit FB502 aktualisieren.
+H101 Felder aktualisieren.
+Aktualisiere Schaltplanblatt H101 auf" /logic/".
+Aktualisiere H101 Footprint-Filter auf "MountingHole*Pad*".
+Entferne H101 Fertigungsattribut "Von Stückliste ausschließen".
+H101 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Metadaten der Einheit H101 aktualisieren.
+H102 Felder aktualisieren.
+Aktualisiere D1101 Footprint-Filter auf "LED* LED_SMD:* LED_THT:*".
+D506 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D506 auf" /logic/power_supply/psu_12v/".
+Aktualisiere D506 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere D506 Footprint-Filter auf "TO-???* *_Diode_* *SingleDiode* D_*".
+Metadaten der Einheit D506 aktualisieren.
+D507 hinzufügen (Footprint "Diode_SMD:D_SOD-123").
+D1101 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D1101 auf" /logic/controller/interfaces/".
+Aktualisiere Schaltplanblatt H102 auf" /logic/".
+Metadaten der Einheit D1101 aktualisieren.
+D1102 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D1102 auf" /logic/controller/interfaces/".
+Aktualisiere D1102 Footprint-Filter auf "LED* LED_SMD:* LED_THT:*".
+Metadaten der Einheit D1102 aktualisieren.
+D1103 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D1103 auf" /logic/controller/interfaces/".
+Aktualisiere D1103 Footprint-Filter auf "LED* LED_SMD:* LED_THT:*".
+Metadaten der Einheit H105 aktualisieren.
+Metadaten der Einheit H104 aktualisieren.
+Symbolverknüpfung H105 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005dcd17ab nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/bbe5c21c-b2c8-409b-bbff-ef508eaa4528 aktualisieren.
+H105 Felder aktualisieren.
+Aktualisiere Schaltplanblatt H105 auf" /power/connectors/".
+Aktualisiere H105 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere H105 Footprint-Filter auf "MountingHole*Pad*".
+Entferne H105 Fertigungsattribut "Von Stückliste ausschließen".
+H105 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+H104 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Symbolverknüpfung H106 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005dcd179f nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/ea320c4d-5b58-4368-9555-ba04a8949d4d aktualisieren.
+H106 Felder aktualisieren.
+Aktualisiere Schaltplanblatt H106 auf" /power/connectors/".
+Aktualisiere H106 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere H106 Footprint-Filter auf "MountingHole*Pad*".
+Entferne H106 Fertigungsattribut "Von Stückliste ausschließen".
+H106 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Metadaten der Einheit H106 aktualisieren.
+H103 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Aktualisiere H102 Footprint-Filter auf "MountingHole*Pad*".
+Entferne H102 Fertigungsattribut "Von Stückliste ausschließen".
+H102 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Metadaten der Einheit H102 aktualisieren.
+H103 Felder aktualisieren.
+Aktualisiere Schaltplanblatt H103 auf" /logic/".
+Aktualisiere H103 Footprint-Filter auf "MountingHole*Pad*".
+Entferne H103 Fertigungsattribut "Von Stückliste ausschließen".
+Symbolverknüpfung D506 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005dd63552 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005dd63552 aktualisieren.
+Metadaten der Einheit H103 aktualisieren.
+Symbolverknüpfung H104 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005dd1e036 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/e054d4ab-8602-4132-b999-5b4bf01d1bcf aktualisieren.
+H104 Felder aktualisieren.
+Aktualisiere Schaltplanblatt H104 auf" /power/connectors/".
+Aktualisiere H104 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere H104 Footprint-Filter auf "MountingHole*Pad*".
+Entferne H104 Fertigungsattribut "Von Stückliste ausschließen".
+Aktualisiere C1107 Footprint-Filter auf "C_*".
+Aktualisiere C1104 Footprint-Filter auf "C_*".
+Metadaten der Einheit C1104 aktualisieren.
+C1106 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C1106 auf" /logic/controller/interfaces/".
+Aktualisiere C1106 Footprint-Filter auf "C_*".
+Metadaten der Einheit C1106 aktualisieren.
+C1107 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C1107 auf" /logic/controller/interfaces/".
+Aktualisiere Schaltplanblatt C1104 auf" /logic/controller/interfaces/".
+Metadaten der Einheit C1107 aktualisieren.
+D201 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D201 auf" /power/phase_a/".
+Aktualisiere D201 Footprint-Filter auf "TO-???* *_Diode_* *SingleDiode* D_*".
+Metadaten der Einheit D201 aktualisieren.
+D301 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D301 auf" /power/phase_b/".
+Aktualisiere D301 Footprint-Filter auf "TO-???* *_Diode_* *SingleDiode* D_*".
+C1102 Felder aktualisieren.
+C716 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C717 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C718 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C719 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C1101 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C1101 auf" /logic/controller/interfaces/".
+Aktualisiere C1101 Footprint-Filter auf "C_*".
+Metadaten der Einheit C1101 aktualisieren.
+Metadaten der Einheit D301 aktualisieren.
+Aktualisiere Schaltplanblatt C1102 auf" /logic/controller/interfaces/".
+Aktualisiere C1102 Footprint-Filter auf "C_*".
+Metadaten der Einheit C1102 aktualisieren.
+C1103 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C1103 auf" /logic/controller/interfaces/".
+Aktualisiere C1103 Footprint-Filter auf "C_*".
+Metadaten der Einheit C1103 aktualisieren.
+C1104 Felder aktualisieren.
+Aktualisiere D504 Blattname auf "power_supply_12v.kicad_sch".
+D503 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D503 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere D503 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere D503 Footprint-Filter auf "LED* LED_SMD:* LED_THT:*".
+Metadaten der Einheit D503 aktualisieren.
+Symbolverknüpfung D504 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6eea nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6eea aktualisieren.
+D504 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D504 auf" /logic/power_supply/psu_12v/".
+Symbolverknüpfung D503 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d187357 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d187357 aktualisieren.
+Aktualisiere D504 Footprint-Filter auf "LED* LED_SMD:* LED_THT:*".
+Metadaten der Einheit D504 aktualisieren.
+Symbolverknüpfung D505 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005dc3320e nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005dc3320e aktualisieren.
+D505 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D505 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere D505 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere D505 Footprint-Filter auf "TO-???* *_Diode_* *SingleDiode* D_*".
+Metadaten der Einheit D505 aktualisieren.
+Aktualisiere D501 Footprint-Filter auf "TO-???* *_Diode_* *SingleDiode* D_*".
+D401 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D401 auf" /power/phase_c/".
+Aktualisiere D401 Footprint-Filter auf "TO-???* *_Diode_* *SingleDiode* D_*".
+Metadaten der Einheit D401 aktualisieren.
+Symbolverknüpfung D501 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6ea4 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6ea4 aktualisieren.
+D501 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D501 auf" /logic/power_supply/psu_12v/".
+Aktualisiere D501 Blattname auf "power_supply_12v.kicad_sch".
+Symbolverknüpfung H107 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005dd1e3f1 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/cc2c02fa-36da-48fe-8041-d9d091d61b17 aktualisieren.
+Metadaten der Einheit D501 aktualisieren.
+Symbolverknüpfung D502 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1873dd nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d1873dd aktualisieren.
+D502 Felder aktualisieren.
+Aktualisiere Schaltplanblatt D502 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere D502 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere D502 Footprint-Filter auf "TO-???* *_Diode_* *SingleDiode* D_*".
+Metadaten der Einheit D502 aktualisieren.
+J111 hinzufügen (Footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD").
+J109 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J109 auf" /power/connectors/".
+Aktualisiere J109 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere J109 Footprint-Filter auf "Connector*:*_1x??_*".
+Entferne J109 Fertigungsattribut "Von Stückliste ausschließen".
+J109 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Metadaten der Einheit J109 aktualisieren.
+J110 hinzufügen (Footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical_SMD").
+Symbolverknüpfung J109 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c74 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/6096ce16-603e-40ac-a22a-13f9230b16eb aktualisieren.
+Symbolverknüpfung J501 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005dc63d16 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005dc63d16 aktualisieren.
+J501 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J501 auf" /logic/power_supply/psu_12v/".
+Aktualisiere J501 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere J501 Footprint-Filter auf "Connector*:*_1x??_*".
+Metadaten der Einheit J501 aktualisieren.
+Symbolverknüpfung J601 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dd138f5 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b/00000000-0000-0000-0000-00005dd138f5 aktualisieren.
+J601 Felder aktualisieren.
+J108 Felder aktualisieren.
+Aktualisiere J107 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere J107 Footprint-Filter auf "Connector*:*_1x??_*".
+Entferne J107 Fertigungsattribut "Von Stückliste ausschließen".
+J107 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Netz /power/PHASE_B hinzufügen.
+J107 Pin 1 von /power/phase_b/Phase nach /power/PHASE_B wieder verbinden.
+Metadaten der Einheit J107 aktualisieren.
+Symbolverknüpfung J108 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c6e nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/01d6c1a4-4ee6-4aa4-ae01-8e4f2a8d4594 aktualisieren.
+Aktualisiere Schaltplanblatt J601 auf" /logic/controller/analog/".
+Aktualisiere Schaltplanblatt J108 auf" /power/connectors/".
+Aktualisiere J108 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere J108 Footprint-Filter auf "Connector*:*_1x??_*".
+Entferne J108 Fertigungsattribut "Von Stückliste ausschließen".
+J108 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Netz /power/PHASE_C hinzufügen.
+J108 Pin 1 von /power/phase_c/Phase nach /power/PHASE_C wieder verbinden.
+Metadaten der Einheit J108 aktualisieren.
+J1101 Felder aktualisieren.
+J602 Pin 6 trennen.
+J602 Pin 3 trennen.
+Metadaten der Einheit J602 aktualisieren.
+Füge J602 Fertigungsattribut "Nicht bestücken" hinzu.
+J701 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J701 auf" /logic/controller/analog/".
+Aktualisiere J701 Footprint-Filter auf "Connector*:*_1x??_*".
+Metadaten der Einheit J701 aktualisieren.
+J602 Pin 6 trennen.
+Aktualisiere Schaltplanblatt J1101 auf" /logic/controller/interfaces/".
+Aktualisiere J1101 Footprint-Filter auf "Connector*:*_1x??_*".
+Metadaten der Einheit J1101 aktualisieren.
+J1102 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J1102 auf" /logic/controller/interfaces/".
+Aktualisiere J1102 Footprint-Filter auf "Connector*:*_1x??_*".
+Metadaten der Einheit J1102 aktualisieren.
+J1103 Felder aktualisieren.
+Aktualisiere J602 Blattname auf "usb.kicad_sch".
+Aktualisiere J601 Blattname auf "analog.kicad_sch".
+Aktualisiere J601 Footprint-Filter auf "Connector*:*_1x??_*".
+Metadaten der Einheit J601 aktualisieren.
+Footprint J602 von "Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal" in "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" ändern.
+Wert J602 von USB_B_Mini in TYPE-C-31-M-12 ändern.
+Symbolverknüpfung J602 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dc9d54a nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/f2437e44-1b55-4b3d-85e2-efa90c9ca15e/a19cbe36-7daf-485e-99f2-4940014d5743 aktualisieren.
+J602 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J602 auf" /logic/controller/usb/".
+Aktualisiere Schaltplanblatt J107 auf" /power/connectors/".
+Aktualisiere J602 Footprint-Filter auf "USB*C*Receptacle*".
+J602 Pin 6 trennen.
+J602 Pin 1 trennen.
+J602 Pin 2 trennen.
+J602 Pin 4 trennen.
+J602 Pin 5 trennen.
+J602 Pin 6 trennen.
+Netz /power/PWM_AL hinzufügen.
+J103 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J103 auf" /power/interface/".
+Aktualisiere J103 Blattname auf "power_interface.kicad_sch".
+Aktualisiere J103 Footprint-Filter auf "Connector*:*_2x??_*".
+Netz /power/PWM_BL hinzufügen.
+J103 Pin 10 von /power/phase_b/PwmL nach /power/PWM_BL wieder verbinden.
+Netz /power/PWM_AH hinzufügen.
+J103 Pin 4 von /power/phase_a/PwmH nach /power/PWM_AH wieder verbinden.
+Symbolverknüpfung J103 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c89 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c01/9f1197f0-458a-48d6-8637-0230edca402a aktualisieren.
+J103 Pin 6 von /power/phase_a/PwmL nach /power/PWM_AL wieder verbinden.
+Netz /power/PWM_CH hinzufügen.
+J103 Pin 9 von /power/phase_c/PwmH nach /power/PWM_CH wieder verbinden.
+Netz /power/PWM_BH hinzufügen.
+J103 Pin 8 von /power/phase_b/PwmH nach /power/PWM_BH wieder verbinden.
+Netz /power/PWM_CL hinzufügen.
+J103 Pin 7 von /power/phase_c/PwmL nach /power/PWM_CL wieder verbinden.
+Netz /power/V12P_SNS hinzufügen.
+Aktualisiere Schaltplanblatt J101 auf" /logic/".
+H107 Felder aktualisieren.
+Aktualisiere Schaltplanblatt H107 auf" /power/connectors/".
+Aktualisiere H107 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere H107 Footprint-Filter auf "MountingHole*Pad*".
+Entferne H107 Fertigungsattribut "Von Stückliste ausschließen".
+H107 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Metadaten der Einheit H107 aktualisieren.
+J101 Felder aktualisieren.
+J103 Pin 3 von unconnected-(J103-Pin_3-Pad3) nach /power/V12P_SNS wieder verbinden.
+Aktualisiere J101 Footprint-Filter auf "Connector*:*_2x??_*".
+Netz /logic/controller/V12P hinzufügen.
+J101 Pin 3 von unconnected-(J101-Pin_3-Pad3) nach /logic/controller/V12P wieder verbinden.
+Metadaten der Einheit J101 aktualisieren.
+J102 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J102 auf" /logic/".
+Aktualisiere J102 Footprint-Filter auf "Connector*:*_2x??_*".
+Metadaten der Einheit J102 aktualisieren.
+Aktualisiere J106 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere J105 Blattname auf "power_connectors.kicad_sch".
+Aktualisiere J105 Footprint-Filter auf "Connector*:*_1x??_*".
+Entferne J105 Fertigungsattribut "Von Stückliste ausschließen".
+J105 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Metadaten der Einheit J105 aktualisieren.
+Symbolverknüpfung J106 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c5c nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/f24629b1-66a1-4641-9c6c-ec205f96a589 aktualisieren.
+J106 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J106 auf" /power/connectors/".
+Aktualisiere Schaltplanblatt J105 auf" /power/connectors/".
+Aktualisiere J106 Footprint-Filter auf "Connector*:*_1x??_*".
+Entferne J106 Fertigungsattribut "Von Stückliste ausschließen".
+J106 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Netz /power/PHASE_A hinzufügen.
+J106 Pin 1 von /power/phase_a/Phase nach /power/PHASE_A wieder verbinden.
+Metadaten der Einheit J106 aktualisieren.
+Symbolverknüpfung J107 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c68 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/f3d48fc0-7006-4cbb-89d2-0c3083df3737 aktualisieren.
+J107 Felder aktualisieren.
+Netz /power/I_A hinzufügen.
+Metadaten der Einheit J103 aktualisieren.
+Symbolverknüpfung J104 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60cc7 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c01/71bbf79b-6be9-416f-83bc-dcccca201b2b aktualisieren.
+J104 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J104 auf" /power/interface/".
+Aktualisiere J104 Blattname auf "power_interface.kicad_sch".
+Aktualisiere J104 Footprint-Filter auf "Connector*:*_2x??_*".
+Netz /power/I_C hinzufügen.
+J104 Pin 2 von /power/phase_c/I nach /power/I_C wieder verbinden.
+C715 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+J104 Pin 6 von /power/phase_a/I nach /power/I_A wieder verbinden.
+Netz /power/I_B hinzufügen.
+J104 Pin 4 von /power/phase_b/I nach /power/I_B wieder verbinden.
+J104 Pin 10 von Net-(J104-Pin_10) nach GND wieder verbinden.
+Metadaten der Einheit J104 aktualisieren.
+Symbolverknüpfung J105 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c62 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/8a97317d-1c28-48fc-a841-f9f90fb69e2f aktualisieren.
+J105 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C407 auf" /power/phase_c/".
+Aktualisiere Schaltplanblatt C404 auf" /power/phase_c/".
+Aktualisiere C404 Footprint-Filter auf "C_*".
+Metadaten der Einheit C404 aktualisieren.
+C405 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C405 auf" /power/phase_c/".
+Aktualisiere C405 Footprint-Filter auf "C_*".
+Metadaten der Einheit C405 aktualisieren.
+C407 Felder aktualisieren.
+C404 Felder aktualisieren.
+Aktualisiere C407 Footprint-Filter auf "CP_*".
+Metadaten der Einheit C407 aktualisieren.
+C409 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C409 auf" /power/phase_c/".
+Aktualisiere C409 Footprint-Filter auf "CP_*".
+Metadaten der Einheit C409 aktualisieren.
+Symbolverknüpfung C501 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6f1e nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6f1e aktualisieren.
+C501 Felder aktualisieren.
+Aktualisiere C402 Footprint-Filter auf "C_*".
+C401 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C401 auf" /power/phase_c/".
+Aktualisiere C401 Footprint-Filter auf "C_*".
+Netz /power/phase_c/VSS hinzufügen.
+C401 Pin 2 von Net-(U401-VSS) nach /power/phase_c/VSS wieder verbinden.
+Metadaten der Einheit C401 aktualisieren.
+C402 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C402 auf" /power/phase_c/".
+Aktualisiere Schaltplanblatt C501 auf" /logic/power_supply/psu_12v/".
+C402 Pin 2 von Net-(U401-VSS) nach /power/phase_c/VSS wieder verbinden.
+Metadaten der Einheit C402 aktualisieren.
+C403 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C403 auf" /power/phase_c/".
+Aktualisiere C403 Footprint-Filter auf "C_*".
+Netz /power/phase_c/HS hinzufügen.
+C403 Pin 2 von Net-(U401-HS) nach /power/phase_c/HS wieder verbinden.
+Metadaten der Einheit C403 aktualisieren.
+C505 Felder aktualisieren.
+Metadaten der Einheit C503 aktualisieren.
+Symbolverknüpfung C504 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d18739a nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d18739a aktualisieren.
+C504 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C504 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere C504 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere C504 Footprint-Filter auf "C_*".
+Metadaten der Einheit C504 aktualisieren.
+Symbolverknüpfung C505 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1bc59f nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1bc59f aktualisieren.
+C503 Pin 1 von Net-(C502-~-Pad2) nach Net-(C502-Pad2) wieder verbinden.
+Aktualisiere Schaltplanblatt C505 auf" /logic/power_supply/psu_12v/".
+Aktualisiere C505 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere C505 Footprint-Filter auf "C_*".
+Metadaten der Einheit C505 aktualisieren.
+Symbolverknüpfung C506 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1873a1 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d1873a1 aktualisieren.
+C506 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C506 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere C506 Blattname auf "power_supply_3v3.kicad_sch".
+Netz Net-(C502-Pad2) hinzufügen.
+Aktualisiere C501 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere C501 Footprint-Filter auf "C_*".
+Metadaten der Einheit C501 aktualisieren.
+Symbolverknüpfung C502 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d19faaf nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d19faaf aktualisieren.
+C502 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C502 auf" /logic/power_supply/psu_12v/".
+Aktualisiere C502 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere C502 Footprint-Filter auf "C_*".
+Metadaten der Einheit C309 aktualisieren.
+C502 Pin 2 von Net-(C502-~-Pad2) nach Net-(C502-Pad2) wieder verbinden.
+Metadaten der Einheit C502 aktualisieren.
+Symbolverknüpfung C503 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1a4e08 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1a4e08 aktualisieren.
+C503 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C503 auf" /logic/power_supply/psu_12v/".
+Aktualisiere C503 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere C503 Footprint-Filter auf "C_*".
+C205 Felder aktualisieren.
+Aktualisiere C203 Footprint-Filter auf "C_*".
+Netz /power/phase_a/HS hinzufügen.
+C203 Pin 2 von Net-(U201-HS) nach /power/phase_a/HS wieder verbinden.
+Metadaten der Einheit C203 aktualisieren.
+C204 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C204 auf" /power/phase_a/".
+Aktualisiere C204 Footprint-Filter auf "C_*".
+Metadaten der Einheit C204 aktualisieren.
+Aktualisiere Schaltplanblatt C203 auf" /power/phase_a/".
+Aktualisiere Schaltplanblatt C205 auf" /power/phase_a/".
+Aktualisiere C205 Footprint-Filter auf "C_*".
+Metadaten der Einheit C205 aktualisieren.
+C207 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C207 auf" /power/phase_a/".
+Aktualisiere C207 Footprint-Filter auf "CP_*".
+Metadaten der Einheit C207 aktualisieren.
+C209 Felder aktualisieren.
+Netz /power/phase_a/VSS hinzufügen.
+C101 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C102 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C103 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C104 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C105 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C201 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C201 auf" /power/phase_a/".
+Aktualisiere C201 Footprint-Filter auf "C_*".
+Aktualisiere Schaltplanblatt C209 auf" /power/phase_a/".
+C201 Pin 2 von Net-(U201-VSS) nach /power/phase_a/VSS wieder verbinden.
+Metadaten der Einheit C201 aktualisieren.
+C202 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C202 auf" /power/phase_a/".
+Aktualisiere C202 Footprint-Filter auf "C_*".
+C202 Pin 2 von Net-(U201-VSS) nach /power/phase_a/VSS wieder verbinden.
+Metadaten der Einheit C202 aktualisieren.
+C203 Felder aktualisieren.
+Aktualisiere C305 Footprint-Filter auf "C_*".
+C303 Pin 2 von Net-(U301-HS) nach /power/phase_b/HS wieder verbinden.
+Metadaten der Einheit C303 aktualisieren.
+C304 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C304 auf" /power/phase_b/".
+Aktualisiere C304 Footprint-Filter auf "C_*".
+Metadaten der Einheit C304 aktualisieren.
+C305 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C305 auf" /power/phase_b/".
+Netz /power/phase_b/HS hinzufügen.
+Metadaten der Einheit C305 aktualisieren.
+C307 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C307 auf" /power/phase_b/".
+Aktualisiere C307 Footprint-Filter auf "CP_*".
+Metadaten der Einheit C307 aktualisieren.
+C309 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C309 auf" /power/phase_b/".
+Aktualisiere C309 Footprint-Filter auf "CP_*".
+C302 Felder aktualisieren.
+Aktualisiere C209 Footprint-Filter auf "CP_*".
+Metadaten der Einheit C209 aktualisieren.
+C301 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C301 auf" /power/phase_b/".
+Aktualisiere C301 Footprint-Filter auf "C_*".
+Netz /power/phase_b/VSS hinzufügen.
+C301 Pin 2 von Net-(U301-VSS) nach /power/phase_b/VSS wieder verbinden.
+Metadaten der Einheit C301 aktualisieren.
+Aktualisiere C506 Footprint-Filter auf "C_*".
+Aktualisiere Schaltplanblatt C302 auf" /power/phase_b/".
+Aktualisiere C302 Footprint-Filter auf "C_*".
+C302 Pin 2 von Net-(U301-VSS) nach /power/phase_b/VSS wieder verbinden.
+Metadaten der Einheit C302 aktualisieren.
+C303 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C303 auf" /power/phase_b/".
+Aktualisiere C303 Footprint-Filter auf "C_*".
+Aktualisiere C609 Footprint-Filter auf "C_*".
+Aktualisiere Schaltplanblatt C608 auf" /logic/controller/mcu/".
+Aktualisiere C608 Blattname auf "mcu.kicad_sch".
+Aktualisiere C608 Footprint-Filter auf "C_*".
+Metadaten der Einheit C608 aktualisieren.
+Symbolverknüpfung C609 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b780 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b780 aktualisieren.
+C609 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C609 auf" /logic/controller/mcu/".
+Aktualisiere C609 Blattname auf "mcu.kicad_sch".
+C608 Felder aktualisieren.
+Metadaten der Einheit C609 aktualisieren.
+Symbolverknüpfung C610 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b779 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b779 aktualisieren.
+C610 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C610 auf" /logic/controller/mcu/".
+Aktualisiere C610 Blattname auf "mcu.kicad_sch".
+Aktualisiere C610 Footprint-Filter auf "C_*".
+Metadaten der Einheit C610 aktualisieren.
+Symbolverknüpfung C611 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005df01288 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005df01288 aktualisieren.
+Aktualisiere C606 Footprint-Filter auf "C_*".
+Aktualisiere Schaltplanblatt C605 auf" /logic/controller/mcu/".
+Aktualisiere C605 Blattname auf "mcu.kicad_sch".
+Aktualisiere C605 Footprint-Filter auf "C_*".
+Metadaten der Einheit C605 aktualisieren.
+Symbolverknüpfung C606 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005df6eb84 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005df6eb84 aktualisieren.
+C606 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C606 auf" /logic/controller/mcu/".
+Aktualisiere C606 Blattname auf "mcu.kicad_sch".
+C611 Felder aktualisieren.
+Metadaten der Einheit C606 aktualisieren.
+Symbolverknüpfung C607 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b7b0 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b7b0 aktualisieren.
+C607 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C607 auf" /logic/controller/mcu/".
+Aktualisiere C607 Blattname auf "mcu.kicad_sch".
+Aktualisiere C607 Footprint-Filter auf "C_*".
+Metadaten der Einheit C607 aktualisieren.
+Symbolverknüpfung C608 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b787 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b787 aktualisieren.
+Netz /logic/controller/mcu/AIN_VDC hinzufügen.
+C703 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C703 auf" /logic/controller/analog/".
+Aktualisiere C703 Footprint-Filter auf "C_*".
+C703 Pin 2 von Net-(C703-~-Pad2) nach /logic/controller/analog/BrdgTemp wieder verbinden.
+Metadaten der Einheit C703 aktualisieren.
+C704 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C704 auf" /logic/controller/analog/".
+Aktualisiere C704 Footprint-Filter auf "C_*".
+Metadaten der Einheit C701 aktualisieren.
+C704 Pin 2 von Net-(C704-~-Pad2) nach /logic/controller/mcu/AIN_VDC wieder verbinden.
+Metadaten der Einheit C704 aktualisieren.
+C709 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C709 auf" /logic/controller/analog/".
+Aktualisiere C709 Footprint-Filter auf "C_*".
+Metadaten der Einheit C709 aktualisieren.
+C713 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C714 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+Aktualisiere C612 Footprint-Filter auf "C_*".
+Aktualisiere Schaltplanblatt C611 auf" /logic/controller/mcu/".
+Aktualisiere C611 Blattname auf "mcu.kicad_sch".
+Aktualisiere C611 Footprint-Filter auf "C_*".
+Metadaten der Einheit C611 aktualisieren.
+Symbolverknüpfung C612 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005df0157d nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005df0157d aktualisieren.
+C612 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C612 auf" /logic/controller/mcu/".
+Aktualisiere C612 Blattname auf "mcu.kicad_sch".
+C605 Felder aktualisieren.
+Metadaten der Einheit C612 aktualisieren.
+C620 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C621 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C622 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C701 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C701 auf" /logic/controller/analog/".
+Aktualisiere C701 Footprint-Filter auf "C_*".
+Aktualisiere C510 Footprint-Filter auf "C_*".
+Aktualisiere C509 Footprint-Filter auf "C_*".
+Netz Net-(C509-Pad1) hinzufügen.
+C509 Pin 1 von Net-(C509-~-Pad1) nach Net-(C509-Pad1) wieder verbinden.
+Metadaten der Einheit C509 aktualisieren.
+Symbolverknüpfung C510 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d187373 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d187373 aktualisieren.
+C510 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C510 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere C510 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere C509 Blattname auf "power_supply_12v.kicad_sch".
+Metadaten der Einheit C510 aktualisieren.
+Symbolverknüpfung C511 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d2082a8 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d2082a8 aktualisieren.
+C511 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C511 auf" /logic/power_supply/psu_12v/".
+Aktualisiere C511 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere C511 Footprint-Filter auf "C_*".
+Metadaten der Einheit C511 aktualisieren.
+C513 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C508 Felder aktualisieren.
+Metadaten der Einheit C506 aktualisieren.
+Symbolverknüpfung C507 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1b6392 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1b6392 aktualisieren.
+C507 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C507 auf" /logic/power_supply/psu_12v/".
+Aktualisiere C507 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere C507 Footprint-Filter auf "C_*".
+Metadaten der Einheit C507 aktualisieren.
+Symbolverknüpfung C508 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d18736c nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d18736c aktualisieren.
+C514 hinzufügen (Footprint "Capacitor_SMD:C_0805_2012Metric").
+Aktualisiere Schaltplanblatt C508 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere C508 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere C508 Footprint-Filter auf "C_*".
+Metadaten der Einheit C508 aktualisieren.
+Wert C509 von 2n2 in 4n7 ändern.
+Symbolverknüpfung C509 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6eb0 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6eb0 aktualisieren.
+C509 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C509 auf" /logic/power_supply/psu_12v/".
+Symbolverknüpfung C604 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dd1668a nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b/00000000-0000-0000-0000-00005dd1668a aktualisieren.
+Wert C603 von 10u in 2u2 ändern.
+Symbolverknüpfung C603 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005df6dade nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005df6dade aktualisieren.
+C603 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C603 auf" /logic/controller/mcu/".
+Aktualisiere C603 Blattname auf "mcu.kicad_sch".
+Aktualisiere C603 Footprint-Filter auf "C_*".
+Metadaten der Einheit C603 aktualisieren.
+Füge C603 Fertigungsattribut "Nicht bestücken" hinzu.
+Footprint C603 von "Capacitor_SMD:C_1210_3225Metric" in "Capacitor_SMD:C_0603_1608Metric" ändern.
+C604 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C604 auf" /logic/controller/analog/".
+Aktualisiere C604 Blattname auf "analog.kicad_sch".
+Aktualisiere C604 Footprint-Filter auf "C_*".
+Netz /logic/controller/analog/AIN_DCC hinzufügen.
+C604 Pin 1 von /logic/controller/AIN_DCC nach /logic/controller/analog/AIN_DCC wieder verbinden.
+Metadaten der Einheit C604 aktualisieren.
+Symbolverknüpfung C605 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dce12ca nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005dce12ca aktualisieren.
+Symbolverknüpfung C602 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dd15933 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b/00000000-0000-0000-0000-00005dd15933 aktualisieren.
+C515 hinzufügen (Footprint "Capacitor_SMD:C_0603_1608Metric").
+C516 hinzufügen (Footprint "Capacitor_SMD:C_0805_2012Metric").
+Symbolverknüpfung C601 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b7bf nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b7bf aktualisieren.
+C601 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C601 auf" /logic/controller/mcu/".
+Aktualisiere C601 Blattname auf "mcu.kicad_sch".
+Aktualisiere C601 Footprint-Filter auf "C_*".
+Metadaten der Einheit C601 aktualisieren.
+Aktualisiere Schaltplanblatt J1103 auf" /logic/controller/interfaces/".
+C602 Felder aktualisieren.
+Aktualisiere Schaltplanblatt C602 auf" /logic/controller/analog/".
+Aktualisiere C602 Blattname auf "analog.kicad_sch".
+Aktualisiere C602 Footprint-Filter auf "C_*".
+Netz /logic/controller/analog/AIN_ACC hinzufügen.
+C602 Pin 1 von /logic/controller/AIN_ACC nach /logic/controller/analog/AIN_ACC wieder verbinden.
+Metadaten der Einheit C602 aktualisieren.
+Metadaten der Einheit R309 aktualisieren.
+R308 Pin 2 von Net-(U301-VSS) nach /power/phase_b/VSS wieder verbinden.
+Netz /power/phase_b/KS_LO2 hinzufügen.
+R308 Pin 1 von GNDPWR nach /power/phase_b/KS_LO2 wieder verbinden.
+Metadaten der Einheit R308 aktualisieren.
+R309 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R309 auf" /power/phase_b/".
+Aktualisiere R309 Footprint-Filter auf "R_*".
+R309 Pin 2 von Net-(U301-HO) nach /power/phase_b/HO wieder verbinden.
+Aktualisiere R308 Footprint-Filter auf "R_*".
+R310 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R310 auf" /power/phase_b/".
+Aktualisiere R310 Footprint-Filter auf "R_*".
+R310 Pin 2 von Net-(U301-HS) nach /power/phase_b/HS wieder verbinden.
+R310 Pin 1 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Metadaten der Einheit R310 aktualisieren.
+Footprint R401 von "Resistor_SMD:R_2512_6332Metric" in "jacobi:R_Shunt_Yezhan_DSLR-5_3920_Kelvin" ändern.
+Wert R401 von 2mR in 0m5 ändern.
+Metadaten der Einheit R306 aktualisieren.
+Metadaten der Einheit R305 aktualisieren.
+Wert R306 von 1R1 in 0R ändern.
+R306 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R306 auf" /power/phase_b/".
+Aktualisiere R306 Footprint-Filter auf "R_*".
+Netz /power/phase_b/KS_LO1 hinzufügen.
+R306 Pin 1 von GNDPWR nach /power/phase_b/KS_LO1 wieder verbinden.
+R306 Pin 2 von Net-(U301-VSS) nach /power/phase_b/VSS wieder verbinden.
+Symbolverknüpfung R401 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56/00000000-0000-0000-0000-00005dc8eb74 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c56/f3d493f1-0295-4383-8895-d6bc8931113e aktualisieren.
+R307 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R307 auf" /power/phase_b/".
+Aktualisiere R307 Footprint-Filter auf "R_*".
+R307 Pin 2 von Net-(U301-LO) nach /power/phase_b/LO wieder verbinden.
+Metadaten der Einheit R307 aktualisieren.
+Wert R308 von 1R1 in 0R ändern.
+R308 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R308 auf" /power/phase_b/".
+Wert R406 von 1R1 in 0R ändern.
+R404 Pin 2 von Net-(U401-HS) nach /power/phase_c/HS wieder verbinden.
+Metadaten der Einheit R404 aktualisieren.
+R405 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R405 auf" /power/phase_c/".
+Aktualisiere R405 Footprint-Filter auf "R_*".
+Netz /power/phase_c/LO hinzufügen.
+R405 Pin 2 von Net-(U401-LO) nach /power/phase_c/LO wieder verbinden.
+Metadaten der Einheit R405 aktualisieren.
+Aktualisiere R404 Footprint-Filter auf "R_*".
+R406 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R406 auf" /power/phase_c/".
+Aktualisiere R406 Footprint-Filter auf "R_*".
+Netz /power/phase_c/KS_LO1 hinzufügen.
+R406 Pin 1 von GNDPWR nach /power/phase_c/KS_LO1 wieder verbinden.
+R406 Pin 2 von Net-(U401-VSS) nach /power/phase_c/VSS wieder verbinden.
+Metadaten der Einheit R406 aktualisieren.
+R407 Felder aktualisieren.
+R403 Felder aktualisieren.
+R401 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R401 auf" /power/phase_c/".
+Aktualisiere R401 Footprint-Filter auf "R_*Shunt*".
+R401 Pin 1 von /power/phase_c/Phase nach /power/PHASE_C wieder verbinden.
+Netz Net-(U402-+) hinzufügen.
+R401 Pin 2 von Net-(Q402-D) nach Net-(U402-+) wieder verbinden.
+Metadaten der Einheit R401 aktualisieren.
+Füge R401 Fertigungsattribut "Nicht bestücken" hinzu.
+R305 Pin 2 von Net-(U301-LO) nach /power/phase_b/LO wieder verbinden.
+Aktualisiere Schaltplanblatt R403 auf" /power/phase_c/".
+Aktualisiere R403 Footprint-Filter auf "R_*".
+Netz /power/phase_c/HO hinzufügen.
+R403 Pin 2 von Net-(U401-HO) nach /power/phase_c/HO wieder verbinden.
+Metadaten der Einheit R403 aktualisieren.
+R404 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R404 auf" /power/phase_c/".
+R208 Felder aktualisieren.
+R206 Pin 1 von GNDPWR nach /power/phase_a/KS_LO1 wieder verbinden.
+Metadaten der Einheit R206 aktualisieren.
+R207 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R207 auf" /power/phase_a/".
+Aktualisiere R207 Footprint-Filter auf "R_*".
+R207 Pin 2 von Net-(U201-LO) nach /power/phase_a/LO wieder verbinden.
+Metadaten der Einheit R207 aktualisieren.
+Wert R208 von 1R1 in 0R ändern.
+Netz /power/phase_a/KS_LO1 hinzufügen.
+Aktualisiere Schaltplanblatt R208 auf" /power/phase_a/".
+Aktualisiere R208 Footprint-Filter auf "R_*".
+Netz /power/phase_a/KS_LO2 hinzufügen.
+R208 Pin 1 von GNDPWR nach /power/phase_a/KS_LO2 wieder verbinden.
+R208 Pin 2 von Net-(U201-VSS) nach /power/phase_a/VSS wieder verbinden.
+Metadaten der Einheit R208 aktualisieren.
+R209 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R209 auf" /power/phase_a/".
+Aktualisiere R205 Footprint-Filter auf "R_*".
+Metadaten der Einheit R203 aktualisieren.
+R204 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R204 auf" /power/phase_a/".
+Aktualisiere R204 Footprint-Filter auf "R_*".
+R204 Pin 2 von Net-(U201-HS) nach /power/phase_a/HS wieder verbinden.
+Metadaten der Einheit R204 aktualisieren.
+R205 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R205 auf" /power/phase_a/".
+Aktualisiere R209 Footprint-Filter auf "R_*".
+Netz /power/phase_a/LO hinzufügen.
+R205 Pin 2 von Net-(U201-LO) nach /power/phase_a/LO wieder verbinden.
+Metadaten der Einheit R205 aktualisieren.
+Wert R206 von 1R1 in 0R ändern.
+R206 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R206 auf" /power/phase_a/".
+Aktualisiere R206 Footprint-Filter auf "R_*".
+R206 Pin 2 von Net-(U201-VSS) nach /power/phase_a/VSS wieder verbinden.
+R304 Felder aktualisieren.
+Metadaten der Einheit R301 aktualisieren.
+Füge R301 Fertigungsattribut "Nicht bestücken" hinzu.
+R303 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R303 auf" /power/phase_b/".
+Aktualisiere R303 Footprint-Filter auf "R_*".
+Netz /power/phase_b/HO hinzufügen.
+R303 Pin 2 von Net-(U301-HO) nach /power/phase_b/HO wieder verbinden.
+Metadaten der Einheit R303 aktualisieren.
+R301 Pin 2 von Net-(Q302-D) nach Net-(U302-+) wieder verbinden.
+Aktualisiere Schaltplanblatt R304 auf" /power/phase_b/".
+Aktualisiere R304 Footprint-Filter auf "R_*".
+R304 Pin 2 von Net-(U301-HS) nach /power/phase_b/HS wieder verbinden.
+Metadaten der Einheit R304 aktualisieren.
+R305 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R305 auf" /power/phase_b/".
+Aktualisiere R305 Footprint-Filter auf "R_*".
+Netz /power/phase_b/LO hinzufügen.
+Footprint R301 von "Resistor_SMD:R_2512_6332Metric" in "jacobi:R_Shunt_Yezhan_DSLR-5_3920_Kelvin" ändern.
+R209 Pin 2 von Net-(U201-HO) nach /power/phase_a/HO wieder verbinden.
+Metadaten der Einheit R209 aktualisieren.
+R210 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R210 auf" /power/phase_a/".
+Aktualisiere R210 Footprint-Filter auf "R_*".
+R210 Pin 2 von Net-(U201-HS) nach /power/phase_a/HS wieder verbinden.
+R210 Pin 1 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Metadaten der Einheit R210 aktualisieren.
+Aktualisiere Schaltplanblatt R407 auf" /power/phase_c/".
+Wert R301 von 2mR in 0m5 ändern.
+Symbolverknüpfung R301 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50/00000000-0000-0000-0000-00005dc8eb74 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c50/f3d493f1-0295-4383-8895-d6bc8931113e aktualisieren.
+R301 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R301 auf" /power/phase_b/".
+Aktualisiere R301 Footprint-Filter auf "R_*Shunt*".
+R301 Pin 1 von /power/phase_b/Phase nach /power/PHASE_B wieder verbinden.
+Netz Net-(U302-+) hinzufügen.
+Aktualisiere Schaltplanblatt R511 auf" /logic/power_supply/psu_3v3a/".
+Aktualisiere R510 Footprint-Filter auf "R_*".
+R510 Pin 1 von +12V nach +3V3 wieder verbinden.
+Netz Net-(U503-ON/~{OFF}) hinzufügen.
+R510 Pin 2 von Net-(C509-~-Pad1) nach Net-(U503-ON/~{OFF}) wieder verbinden.
+Metadaten der Einheit R510 aktualisieren.
+Wert R511 von 11R in 22k ändern.
+Symbolverknüpfung R511 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d223a07 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/8cef67df-31a2-4a9e-9c13-e4dedee32cc6/9dc1a50a-a384-4c2a-a44e-f7ac59407a6f aktualisieren.
+R511 Felder aktualisieren.
+Aktualisiere R510 Blattname auf "power_supply_3v3a.kicad_sch".
+Aktualisiere R511 Blattname auf "power_supply_3v3a.kicad_sch".
+Aktualisiere R511 Footprint-Filter auf "R_*".
+R511 Pin 2 von Net-(C509-~-Pad1) nach GNDA wieder verbinden.
+R511 Pin 1 von +12V nach Net-(U503-ON/~{OFF}) wieder verbinden.
+Metadaten der Einheit R511 aktualisieren.
+Symbolverknüpfung R513 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d215b02 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d215b02 aktualisieren.
+R513 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R513 auf" /logic/power_supply/psu_12v/".
+Aktualisiere R509 Footprint-Filter auf "R_*".
+R508 Pin 1 von +12V nach Net-(D501-K) wieder verbinden.
+Metadaten der Einheit R508 aktualisieren.
+Footprint R509 von "Resistor_SMD:R_0603_1608Metric" in "Resistor_SMD:R_0805_2012Metric" ändern.
+Wert R509 von 11R in 47R ändern.
+Symbolverknüpfung R509 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d23ffb5 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/8cef67df-31a2-4a9e-9c13-e4dedee32cc6/c04c1343-81e5-48c9-bee7-616b91dbd30c aktualisieren.
+R509 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R509 auf" /logic/power_supply/psu_3v3a/".
+Aktualisiere R509 Blattname auf "power_supply_3v3a.kicad_sch".
+Aktualisiere R513 Blattname auf "power_supply_12v.kicad_sch".
+Netz Net-(D507-K) hinzufügen.
+R509 Pin 2 von Net-(C509-~-Pad1) nach Net-(D507-K) wieder verbinden.
+Metadaten der Einheit R509 aktualisieren.
+Füge R509 Fertigungsattribut "Nicht bestücken" hinzu.
+Wert R510 von 11R in 10k ändern.
+Symbolverknüpfung R510 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d223fb4 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/8cef67df-31a2-4a9e-9c13-e4dedee32cc6/8c5909e1-0474-4f6e-95f7-cbcfb3c61090 aktualisieren.
+R510 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R510 auf" /logic/power_supply/psu_3v3a/".
+Aktualisiere Schaltplanblatt R604 auf" /logic/controller/usb/".
+R603 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R603 auf" /logic/controller/analog/".
+Aktualisiere R603 Blattname auf "analog.kicad_sch".
+Aktualisiere R603 Footprint-Filter auf "R_*".
+R603 Pin 2 von /logic/controller/AIN_DCC nach /logic/controller/analog/AIN_DCC wieder verbinden.
+Metadaten der Einheit R603 aktualisieren.
+Symbolverknüpfung R604 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dd1f72c nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/f2437e44-1b55-4b3d-85e2-efa90c9ca15e/00000000-0000-0000-0000-00005dd1f72c aktualisieren.
+R604 Felder aktualisieren.
+Symbolverknüpfung R603 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dd1eedf nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b/00000000-0000-0000-0000-00005dd1eedf aktualisieren.
+Aktualisiere R604 Blattname auf "usb.kicad_sch".
+Aktualisiere R604 Footprint-Filter auf "R_*".
+Netz /logic/controller/usb/VBUS hinzufügen.
+R604 Pin 1 von Net-(J602-VBUS) nach /logic/controller/usb/VBUS wieder verbinden.
+Netz /logic/controller/mcu/USB_VBUS hinzufügen.
+R604 Pin 2 von /logic/controller/USB_VBUS nach /logic/controller/mcu/USB_VBUS wieder verbinden.
+Metadaten der Einheit R604 aktualisieren.
+Symbolverknüpfung R605 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dd3c150 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/f2437e44-1b55-4b3d-85e2-efa90c9ca15e/00000000-0000-0000-0000-00005dd3c150 aktualisieren.
+Metadaten der Einheit R601 aktualisieren.
+Aktualisiere R513 Footprint-Filter auf "R_*".
+Metadaten der Einheit R513 aktualisieren.
+Symbolverknüpfung R601 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b824 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b824 aktualisieren.
+R601 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R601 auf" /logic/controller/mcu/".
+Aktualisiere R601 Blattname auf "mcu.kicad_sch".
+Aktualisiere R601 Footprint-Filter auf "R_*".
+R601 Pin 2 von /logic/controller/BTLDR nach Net-(JP601-A) wieder verbinden.
+R508 Pin 2 von Net-(C509-~-Pad1) nach Net-(C509-Pad1) wieder verbinden.
+Symbolverknüpfung R602 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005dd1d9e2 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d89067b/00000000-0000-0000-0000-00005dd1d9e2 aktualisieren.
+R602 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R602 auf" /logic/controller/analog/".
+Aktualisiere R602 Blattname auf "analog.kicad_sch".
+Aktualisiere R602 Footprint-Filter auf "R_*".
+R602 Pin 2 von /logic/controller/AIN_ACC nach /logic/controller/analog/AIN_ACC wieder verbinden.
+Metadaten der Einheit R602 aktualisieren.
+Aktualisiere R501 Footprint-Filter auf "R_*".
+Aktualisiere R410 Footprint-Filter auf "R_*".
+R410 Pin 2 von Net-(U401-HS) nach /power/phase_c/HS wieder verbinden.
+R410 Pin 1 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Metadaten der Einheit R410 aktualisieren.
+Symbolverknüpfung R501 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6e92 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6e92 aktualisieren.
+R501 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R501 auf" /logic/power_supply/psu_12v/".
+Aktualisiere R501 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere Schaltplanblatt R410 auf" /power/phase_c/".
+Metadaten der Einheit R501 aktualisieren.
+Symbolverknüpfung R502 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6ec8 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6ec8 aktualisieren.
+R502 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R502 auf" /logic/power_supply/psu_12v/".
+Aktualisiere R502 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere R502 Footprint-Filter auf "R_*".
+Metadaten der Einheit R502 aktualisieren.
+Symbolverknüpfung R503 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1873e8 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d1873e8 aktualisieren.
+Netz /power/phase_c/KS_LO2 hinzufügen.
+Aktualisiere R407 Footprint-Filter auf "R_*".
+R407 Pin 2 von Net-(U401-LO) nach /power/phase_c/LO wieder verbinden.
+Metadaten der Einheit R407 aktualisieren.
+Wert R408 von 1R1 in 0R ändern.
+R408 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R408 auf" /power/phase_c/".
+Aktualisiere R408 Footprint-Filter auf "R_*".
+R408 Pin 2 von Net-(U401-VSS) nach /power/phase_c/VSS wieder verbinden.
+R503 Felder aktualisieren.
+R408 Pin 1 von GNDPWR nach /power/phase_c/KS_LO2 wieder verbinden.
+Metadaten der Einheit R408 aktualisieren.
+R409 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R409 auf" /power/phase_c/".
+Aktualisiere R409 Footprint-Filter auf "R_*".
+R409 Pin 2 von Net-(U401-HO) nach /power/phase_c/HO wieder verbinden.
+Metadaten der Einheit R409 aktualisieren.
+R410 Felder aktualisieren.
+Aktualisiere R507 Blattname auf "power_supply_3v3.kicad_sch".
+Symbolverknüpfung R506 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6e9e nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6e9e aktualisieren.
+R506 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R506 auf" /logic/power_supply/psu_12v/".
+Aktualisiere R506 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere R506 Footprint-Filter auf "R_*".
+Metadaten der Einheit R506 aktualisieren.
+Symbolverknüpfung R507 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d187350 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d187350 aktualisieren.
+R507 Felder aktualisieren.
+Metadaten der Einheit R505 aktualisieren.
+Aktualisiere R507 Footprint-Filter auf "R_*".
+Metadaten der Einheit R507 aktualisieren.
+Wert R508 von 11R in 100k ändern.
+Symbolverknüpfung R508 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d24a8f0 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d24a8f0 aktualisieren.
+R508 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R508 auf" /logic/power_supply/psu_12v/".
+Aktualisiere R508 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere R508 Footprint-Filter auf "R_*".
+Aktualisiere R504 Footprint-Filter auf "R_*".
+Aktualisiere Schaltplanblatt R503 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere R503 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere R503 Footprint-Filter auf "R_*".
+Metadaten der Einheit R503 aktualisieren.
+Symbolverknüpfung R504 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1873ef nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d1873ef aktualisieren.
+R504 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R504 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere R504 Blattname auf "power_supply_3v3.kicad_sch".
+R203 Pin 2 von Net-(U201-HO) nach /power/phase_a/HO wieder verbinden.
+Metadaten der Einheit R504 aktualisieren.
+Symbolverknüpfung R505 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1fef3a nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1fef3a aktualisieren.
+R505 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R505 auf" /logic/power_supply/psu_12v/".
+Aktualisiere R505 Blattname auf "power_supply_12v.kicad_sch".
+Aktualisiere R505 Footprint-Filter auf "R_*".
+R505 Pin 2 von Net-(C509-~-Pad1) nach +12V wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Metadaten der Einheit Q303 aktualisieren.
+Metadaten der Einheit Q302 aktualisieren.
+Q303 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q303 auf" /power/phase_b/".
+Aktualisiere Q303 Footprint-Filter auf "TDSON*".
+Netz Net-(Q304-D) hinzufügen.
+Q303 Pin 2 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q303 Pin 1 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q303 Pin 3 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Aktualisiere Q302 Footprint-Filter auf "TDSON*".
+Q304 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q304 auf" /power/phase_b/".
+Aktualisiere Q304 Footprint-Filter auf "TDSON*".
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q204 Pin 5 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Metadaten der Einheit Q204 aktualisieren.
+Q301 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q301 auf" /power/phase_b/".
+Aktualisiere Q301 Footprint-Filter auf "TDSON*".
+Metadaten der Einheit Q301 aktualisieren.
+Q302 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q302 auf" /power/phase_b/".
+Aktualisiere L502 Footprint-Filter auf "Choke_* *Coil* Inductor_* L_*".
+Aktualisiere Schaltplanblatt L501 auf" /logic/power_supply/psu_3v3/".
+Aktualisiere L501 Blattname auf "power_supply_3v3.kicad_sch".
+Aktualisiere L501 Footprint-Filter auf "Choke_* *Coil* Inductor_* L_*".
+Metadaten der Einheit L501 aktualisieren.
+Symbolverknüpfung L502 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1f6f50 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/f14fc16f-f5e6-49fe-b0ac-4893b2294ab0/00000000-0000-0000-0000-00005d1f6f50 aktualisieren.
+L502 Felder aktualisieren.
+Aktualisiere Schaltplanblatt L502 auf" /logic/power_supply/psu_12v/".
+Aktualisiere L502 Blattname auf "power_supply_12v.kicad_sch".
+L501 Felder aktualisieren.
+L502 Pin 2 von Net-(C509-~-Pad1) nach +12V wieder verbinden.
+Metadaten der Einheit L502 aktualisieren.
+Symbolverknüpfung N101 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db7b76b nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-000048500c03/9abe5765-60b5-41ec-9e90-c8c805ec1d24 aktualisieren.
+N101 Felder aktualisieren.
+Aktualisiere Schaltplanblatt N101 auf" /power/connectors/".
+Aktualisiere N101 Blattname auf "power_connectors.kicad_sch".
+Metadaten der Einheit N101 aktualisieren.
+NT201 hinzufügen (Footprint "NetTie:NetTie-2_SMD_Pad0.5mm").
+Aktualisiere Schaltplanblatt JP601 auf" /logic/controller/mcu/".
+Aktualisiere J1103 Footprint-Filter auf "Connector*:*_1x??_*".
+Metadaten der Einheit J1103 aktualisieren.
+J1104 Felder aktualisieren.
+Aktualisiere Schaltplanblatt J1104 auf" /logic/controller/interfaces/".
+Aktualisiere J1104 Footprint-Filter auf "Connector*:*_1x??_*".
+Metadaten der Einheit J1104 aktualisieren.
+Symbolverknüpfung JP601 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/00000000-0000-0000-0000-00005d20b837 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60d99/fcbf46d4-31fc-4b28-8790-b4868cdde8f8/00000000-0000-0000-0000-00005d20b837 aktualisieren.
+JP601 Felder aktualisieren.
+NT202 hinzufügen (Footprint "NetTie:NetTie-2_SMD_Pad0.5mm").
+Aktualisiere JP601 Blattname auf "mcu.kicad_sch".
+Aktualisiere JP601 Footprint-Filter auf "Jumper* TestPoint*2Pads* TestPoint*Bridge*".
+Entferne JP601 Fertigungsattribut "Von Stückliste ausschließen".
+JP601 "Von Positionsdateien ausschließen"-Fertigungsattribut entfernen.
+Netz Net-(JP601-A) hinzufügen.
+JP601 Pin 1 von /logic/controller/BTLDR nach Net-(JP601-A) wieder verbinden.
+Metadaten der Einheit JP601 aktualisieren.
+Symbolverknüpfung L501 von /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/00000000-0000-0000-0000-00005d1873d5 nach /00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83/e90e7aff-05dc-4d63-8e78-26e689771c1c/00000000-0000-0000-0000-00005d1873d5 aktualisieren.
+Aktualisiere Q203 Footprint-Filter auf "TDSON*".
+Aktualisiere Q201 Footprint-Filter auf "TDSON*".
+Metadaten der Einheit Q201 aktualisieren.
+Q202 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q202 auf" /power/phase_a/".
+Aktualisiere Q202 Footprint-Filter auf "TDSON*".
+Metadaten der Einheit Q202 aktualisieren.
+Q203 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q203 auf" /power/phase_a/".
+Aktualisiere Schaltplanblatt Q201 auf" /power/phase_a/".
+Netz Net-(Q204-D) hinzufügen.
+Q203 Pin 2 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q203 Pin 3 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Q203 Pin 1 von Net-(Q202-D) nach Net-(Q204-D) wieder verbinden.
+Metadaten der Einheit Q203 aktualisieren.
+Q204 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q204 auf" /power/phase_a/".
+Aktualisiere Q204 Footprint-Filter auf "TDSON*".
+Netz /logic/controller/mcu/\RESET hinzufügen.
+NT301 hinzufügen (Footprint "NetTie:NetTie-2_SMD_Pad0.5mm").
+NT302 hinzufügen (Footprint "NetTie:NetTie-2_SMD_Pad0.5mm").
+NT401 hinzufügen (Footprint "NetTie:NetTie-2_SMD_Pad0.5mm").
+NT402 hinzufügen (Footprint "NetTie:NetTie-2_SMD_Pad0.5mm").
+Aktualisiere Schaltplanblatt P1101 auf" /logic/controller/interfaces/".
+Aktualisiere P1101 Footprint-Filter auf "Connector*:*_2x??_*".
+Netz /logic/controller/interfaces/SWCLK hinzufügen.
+P1101 Pin 4 von /logic/controller/TCK-SWCLK nach /logic/controller/interfaces/SWCLK wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+P1101 Pin 10 von /logic/controller/\RESET nach /logic/controller/mcu/\RESET wieder verbinden.
+Netz /logic/controller/interfaces/SWDIO hinzufügen.
+P1101 Pin 2 von /logic/controller/TMS-SWDIO nach /logic/controller/interfaces/SWDIO wieder verbinden.
+Netz /logic/controller/interfaces/SWO hinzufügen.
+P1101 Pin 6 von /logic/controller/TDO-SWO nach /logic/controller/interfaces/SWO wieder verbinden.
+Metadaten der Einheit P1101 aktualisieren.
+Q201 Felder aktualisieren.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Netz Net-(U202-+) hinzufügen.
+R109 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R110 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+Footprint R201 von "Resistor_SMD:R_2512_6332Metric" in "jacobi:R_Shunt_Yezhan_DSLR-5_3920_Kelvin" ändern.
+Wert R201 von 2mR in 0m5 ändern.
+Symbolverknüpfung R201 von /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a/00000000-0000-0000-0000-00005dc8eb74 nach /00000000-0000-0000-0000-00004850b001/00000000-0000-0000-0000-00005db60c4a/f3d493f1-0295-4383-8895-d6bc8931113e aktualisieren.
+R201 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R201 auf" /power/phase_a/".
+Aktualisiere R201 Footprint-Filter auf "R_*Shunt*".
+R108 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R201 Pin 2 von Net-(Q202-D) nach Net-(U202-+) wieder verbinden.
+R201 Pin 1 von /power/phase_a/Phase nach /power/PHASE_A wieder verbinden.
+Metadaten der Einheit R201 aktualisieren.
+Füge R201 Fertigungsattribut "Nicht bestücken" hinzu.
+R203 Felder aktualisieren.
+Aktualisiere Schaltplanblatt R203 auf" /power/phase_a/".
+Aktualisiere R203 Footprint-Filter auf "R_*".
+Netz /power/phase_a/HO hinzufügen.
+Metadaten der Einheit Q404 aktualisieren.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+R101 hinzufügen (Footprint "Resistor_SMD:R_0805_2012Metric").
+R102 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R103 hinzufügen (Footprint "Resistor_SMD:R_0805_2012Metric").
+R104 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R105 hinzufügen (Footprint "Resistor_SMD:R_0805_2012Metric").
+R106 hinzufügen (Footprint "Resistor_SMD:R_0603_1608Metric").
+R107 hinzufügen (Footprint "Resistor_SMD:R_0805_2012Metric").
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Netz Net-(Q404-D) hinzufügen.
+Metadaten der Einheit Q401 aktualisieren.
+Q402 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q402 auf" /power/phase_c/".
+Aktualisiere Q402 Footprint-Filter auf "TDSON*".
+Metadaten der Einheit Q402 aktualisieren.
+Q403 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q403 auf" /power/phase_c/".
+Aktualisiere Q403 Footprint-Filter auf "TDSON*".
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q403 Pin 3 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q403 Pin 2 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Q403 Pin 1 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Metadaten der Einheit Q403 aktualisieren.
+Q404 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q404 auf" /power/phase_c/".
+Aktualisiere Q404 Footprint-Filter auf "TDSON*".
+Q404 Pin 5 von Net-(Q402-D) nach Net-(Q404-D) wieder verbinden.
+Aktualisiere Q401 Footprint-Filter auf "TDSON*".
+R605 Felder aktualisieren.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Q304 Pin 5 von Net-(Q302-D) nach Net-(Q304-D) wieder verbinden.
+Metadaten der Einheit Q304 aktualisieren.
+Q401 Felder aktualisieren.
+Aktualisiere Schaltplanblatt Q401 auf" /power/phase_c/".
+Warnung: Via mit unbekannten Netz (Net-(U701A-+)) verbunden.
+Warnung: Via mit unbekannten Netz (Net-(U1001B-+)) verbunden.
+Warnung: Via mit unbekannten Netz (Net-(U1001A-+)) verbunden.
+Warnung: Via mit unbekannten Netz (Net-(U901B-+)) verbunden.
+Warnung: Via mit unbekannten Netz (Net-(U901A-+)) verbunden.
+Warnung: Via mit unbekannten Netz (Net-(U801B-+)) verbunden.
+Warnung: Via mit unbekannten Netz (Net-(U801A-+)) verbunden.
+Warnung: Via mit unbekannten Netz (Net-(U701B-+)) verbunden.
+
+
+Hinweis: Warnungen insgesamt: 8, Fehler insgesamt: 0.
