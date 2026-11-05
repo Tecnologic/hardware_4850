@@ -6741,7 +6741,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SM44T"
+		(property "Value" "Q33310F70051500"
 			(at 38.1 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6763,7 +6763,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "${KIPRJMOD}/datasheets/sm44t203.3v.pdf"
+		(property "Datasheet" "${KIPRJMOD}/datasheets/Epson Q33310F70051500.pdf"
 			(at 34.29 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6784,10 +6784,21 @@
 				)
 			)
 		)
-		(property "Part#" "SM4444TEV-20.0M"
+		(property "Part#" "Q33310F70051500"
 			(at 46.99 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C32529"
+			(at 46.99 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8714,7 +8725,7 @@
 			)
 		)
 		(property "Part#" "CL10B104KBNC"
-			(at 242.57 26.67 90)
+			(at 242.57 27.94 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8804,7 +8815,7 @@
 			)
 		)
 		(property "Part#" "CL10B104KBNC"
-			(at 260.35 26.67 90)
+			(at 260.35 27.432 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9856,7 +9867,7 @@
 		(dnp no)
 		(uuid "fe007640-60ad-4985-bf35-e5e1996add7c")
 		(property "Reference" "U601"
-			(at 187.96 24.13 0)
+			(at 156.972 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9866,7 +9877,7 @@
 			)
 		)
 		(property "Value" "STM32H743VIT6"
-			(at 187.96 26.67 0)
+			(at 157.734 104.394 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
