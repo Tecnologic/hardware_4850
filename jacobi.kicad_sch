@@ -107,4 +107,38 @@
 		)
 	)
 	(embedded_fonts no)
+	(text "Jacobi"
+		(exclude_from_sim no)
+		(at 25.4 17.78 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "76c4d6a2-8aa4-42b3-97bf-b83035dcf07a")
+	)
+	(text "logic   controller board: MCU, USB, analog front end, interfaces, logic power supply"
+		(exclude_from_sim no)
+		(at 25.4 24.13 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "8e965dfa-1dff-4052-8141-23e82497fd39")
+	)
+	(text "power   power board: 3 half bridges with current sense, voltage sense, connectors"
+		(exclude_from_sim no)
+		(at 25.4 28.63 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "96984915-3bc7-4541-98e6-621b68f9aabd")
+	)
 )

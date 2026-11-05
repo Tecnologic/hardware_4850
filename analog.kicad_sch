@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "98082e02-7e17-4ae0-88f2-83daafdd3fbd")
 	(paper "A4")
+	(title_block
+		(title "Analog front end")
+		(date "2026-11-05")
+		(rev "1")
+		(company "ThunderDrive")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
@@ -5563,5 +5569,72 @@
 				)
 			)
 		)
+	)
+	(text "Analog front end"
+		(exclude_from_sim no)
+		(at 205 25.00 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "e9c22895-f3b9-4042-b6b7-e7b9f2a15d63")
+	)
+	(text "RC filters: phase currents Ia..Ic, phase voltages Va..Vc,"
+		(exclude_from_sim no)
+		(at 205 31.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "04f0d749-cbb9-4b4b-a7cb-401a2591a339")
+	)
+	(text "DC link voltage and 12 V sense into the MCU ADC"
+		(exclude_from_sim no)
+		(at 205 35.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "291ce1f9-4c2e-4de2-82c0-bd9a28e74c40")
+	)
+	(text "Bridge NTC (Temp+) and motor NTC (J701): 3.3VADC pull-ups"
+		(exclude_from_sim no)
+		(at 205 40.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1c242df-65eb-46ec-9c45-6ad78e2fb76f")
+	)
+	(text "Accelerator input J601 (AIN_ACC / AIN_DCC)"
+		(exclude_from_sim no)
+		(at 205 44.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "67afd7f2-f18e-4220-86e2-0614f41d81b8")
+	)
+	(text "All filters reference GNDA"
+		(exclude_from_sim no)
+		(at 205 49.35 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "80d7d8e4-d2fe-4fc0-88e3-919620674bda")
 	)
 )
