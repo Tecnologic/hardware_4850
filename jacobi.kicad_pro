@@ -551,18 +551,18 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.25,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "Dig Supply",
+        "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.4,
+        "track_width": 1.0,
         "tuning_profile": "",
         "via_diameter": 0.8,
         "via_drill": 0.4,
@@ -583,8 +583,84 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "tuning_profile": "",
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Dig Supply",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.4,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Analog Supply",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.4,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Analog",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 5,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.15,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.45,
+        "via_drill": 0.2,
         "wire_width": 6
       }
     ],
@@ -595,24 +671,36 @@
     "netclass_assignments": {},
     "netclass_patterns": [
       {
-        "netclass": "Dig Supply",
-        "pattern": "+12V"
+        "netclass": "Power",
+        "pattern": "+BATT"
       },
       {
-        "netclass": "Dig Supply",
-        "pattern": "+1V2"
+        "netclass": "Power",
+        "pattern": "/power/PHASE_A"
       },
       {
-        "netclass": "Dig Supply",
-        "pattern": "+3V3"
+        "netclass": "Power",
+        "pattern": "/power/PHASE_B"
       },
       {
-        "netclass": "Dig Supply",
-        "pattern": "+BATT_LOGIC"
+        "netclass": "Power",
+        "pattern": "/power/PHASE_C"
       },
       {
-        "netclass": "Dig Supply",
-        "pattern": "GNDD"
+        "netclass": "Power",
+        "pattern": "Net-(Q202-D)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(Q302-D)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(Q402-D)"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "GNDPWR"
       },
       {
         "netclass": "GateDrive",
@@ -620,7 +708,7 @@
       },
       {
         "netclass": "GateDrive",
-        "pattern": "GNDPWR"
+        "pattern": "Net-(Q*-G)"
       },
       {
         "netclass": "GateDrive",
@@ -636,99 +724,151 @@
       },
       {
         "netclass": "GateDrive",
-        "pattern": "Net-(Q201-G)"
+        "pattern": "/power/phase_?/HO"
       },
       {
         "netclass": "GateDrive",
-        "pattern": "Net-(Q202-G)"
+        "pattern": "/power/phase_?/LO"
       },
       {
         "netclass": "GateDrive",
-        "pattern": "Net-(Q203-G)"
+        "pattern": "/power/phase_?/HS"
       },
       {
         "netclass": "GateDrive",
-        "pattern": "Net-(Q204-G)"
+        "pattern": "/power/phase_?/VSS"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q301-G)"
+        "netclass": "Dig Supply",
+        "pattern": "+12V"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q302-G)"
+        "netclass": "Dig Supply",
+        "pattern": "+3V3"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q303-G)"
+        "netclass": "Dig Supply",
+        "pattern": "+1V2"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q304-G)"
+        "netclass": "Dig Supply",
+        "pattern": "+BATT_LOGIC"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q401-G)"
+        "netclass": "Dig Supply",
+        "pattern": "GNDD"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q402-G)"
+        "netclass": "Dig Supply",
+        "pattern": "/logic/controller/usb/VBUS"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q403-G)"
+        "netclass": "Dig Supply",
+        "pattern": "Net-(J501-Pin_2)"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(Q404-G)"
+        "netclass": "Dig Supply",
+        "pattern": "Net-(D501-K)"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U201-HO)"
+        "netclass": "Dig Supply",
+        "pattern": "Net-(D502-K)"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U201-HS)"
+        "netclass": "Dig Supply",
+        "pattern": "Net-(D505-K)"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U201-LO)"
+        "netclass": "Dig Supply",
+        "pattern": "Net-(D506-K)"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U201-VSS)"
+        "netclass": "Dig Supply",
+        "pattern": "Net-(J1101-Pin_5)"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U301-HO)"
+        "netclass": "Analog Supply",
+        "pattern": "+3.3VA"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U301-HS)"
+        "netclass": "Analog Supply",
+        "pattern": "+3.3VADC"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U301-LO)"
+        "netclass": "Analog Supply",
+        "pattern": "GNDA"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U301-VSS)"
+        "netclass": "Analog Supply",
+        "pattern": "GND"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U401-HO)"
+        "netclass": "Analog",
+        "pattern": "/logic/controller/analog/*"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U401-HS)"
+        "netclass": "Analog",
+        "pattern": "/power/I_?"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U401-LO)"
+        "netclass": "Analog",
+        "pattern": "/power/VSENSE_*"
       },
       {
-        "netclass": "GateDrive",
-        "pattern": "Net-(U401-VSS)"
+        "netclass": "Analog",
+        "pattern": "/logic/controller/Ia"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/Ib"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/Ic"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/Va"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/Vb"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/Vc"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/VdcIn"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/V12P"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/Temp+"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/logic/controller/mcu/AIN_VDC"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "/power/V12P_SNS"
+      },
+      {
+        "netclass": "Analog",
+        "pattern": "Net-(U?02--)"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/logic/controller/mcu/USB_DP"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/logic/controller/mcu/USB_DM"
       }
     ]
   },

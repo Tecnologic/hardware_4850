@@ -115,6 +115,33 @@ but it doubles the conduction loss at the same current (about 16 W per FET at
 100 A peak). In the closed housing that comes straight off the continuous
 current, so the board keeps two per switch.
 
+### PCB manufacturing
+
+The board is made by JLCPCB: 4 layers, **1 oz copper** on all layers (outer and
+inner), standard process. The design rules in `jacobi.kicad_pro` follow the
+[JLCPCB 4-layer capabilities](https://jlcpcb.com/capabilities/pcb-capabilities):
+
+| Rule | Value |
+|---|---|
+| Min track width / clearance | 0.1 mm / 0.1 mm |
+| Min via (diameter / drill) | 0.45 mm / 0.2 mm, annular ring 0.125 mm |
+| Min copper to board edge | 0.3 mm |
+| Min hole to hole / hole clearance | 0.25 mm |
+| Min silk text | 1.0 mm high, 0.15 mm line |
+
+Net classes set the routing defaults (the high-current nets use pours, the track
+width is only for stubs and pad entries):
+
+| Class | Track / clearance / via | Nets |
+|---|---|---|
+| Power | 1.0 / 0.25 / 0.8 ⌀ 0.4 mm | +BATT, GNDPWR, phase and switch nodes |
+| GateDrive | 0.5 / 0.2 / 0.6 ⌀ 0.3 mm | +12P, gate, HO/LO/HS/VSS, bootstrap |
+| Dig Supply | 0.4 / 0.2 / 0.6 ⌀ 0.3 mm | +12V, +3V3, +1V2, +BATT_LOGIC, GNDD, buck nodes |
+| Analog Supply | 0.4 / 0.2 / 0.6 ⌀ 0.3 mm | +3.3VA, +3.3VADC, GNDA, GND |
+| Analog | 0.2 / 0.2 / 0.45 ⌀ 0.2 mm | current and voltage sense, temperature, ADC inputs |
+| USB | 0.2 / 0.2 mm, pair gap 0.15 mm | USB_DP, USB_DM (impedance not yet checked) |
+| Default | 0.15 / 0.15 / 0.45 ⌀ 0.2 mm | everything else |
+
 ### Cooling
 
 The power board sits on an aluminium block the size of the board, which is
@@ -149,7 +176,8 @@ Improvements, biggest first:
    with paste, or add fins or airflow. This is worth more than all other steps
    together.
 2. **Thermal vias.** Filled and capped vias (VIPPO) under the drain pad, as many
-   as fit, 2 oz outer copper: about half the 3.3 K/W.
+   as fit: about half the 3.3 K/W. The board stays 1 oz copper; the currents are
+   carried by pours on all four layers, not by thicker copper.
 3. **Block to housing.** Thin paste on flat surfaces instead of the thermal pad,
    screws near the FET rows.
 4. **Copper spreading.** Large drain pours under each FET on the bottom and
