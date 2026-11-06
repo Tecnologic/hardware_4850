@@ -43,6 +43,13 @@ These rules apply to every schematic change, by humans and by agents.
   at every changed page.
 - Run `kicad-cli sch erc jacobi.kicad_sch` and compare with the baseline.
 
+## PCB rules
+
+- **Do not move mounting holes H101-H107 (except H106).** They line up with the
+  other board when the logic board sits on top of the power board; the boards are
+  joined by standoffs through these holes. Move neighbouring parts instead. The
+  locked N101 corner pads stay put as well.
+
 ## Other
 
 - Datasheets go to `datasheets/`, footprints to `footprints/jacobi.pretty`.
