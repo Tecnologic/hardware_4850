@@ -36,8 +36,8 @@
 		(33 "B.Fab" user)
 	)
 	(setup
-		(pad_to_mask_clearance 0.051)
-		(solder_mask_min_width 0.25)
+		(pad_to_mask_clearance 0.04)
+		(solder_mask_min_width 0.1)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting
 			(front yes)
@@ -31808,7 +31808,7 @@
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "45f5402c-65c0-4232-a99a-48d102b7bf9b")
-		(at 288.75 122.65 -90)
+		(at 288.75 119.55 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C402"
@@ -36401,7 +36401,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "5b108e73-accf-4ab9-84d1-64bebcd759db")
-		(at 293.5 117.9 180)
+		(at 293.5 114.8 180)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D401"
@@ -49314,7 +49314,7 @@
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "942271e7-f8bb-45bb-95f1-d4e9982e338d")
-		(at 286.75 122.65 -90)
+		(at 286.75 119.55 -90)
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C401"
@@ -53797,7 +53797,7 @@
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "b9aad4e5-3a19-4317-a385-92859c82f4eb")
-		(at 298.75 122.25 -90)
+		(at 298.75 119.15 -90)
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C403"
@@ -55598,7 +55598,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "c4b47593-1b0e-4a36-b976-41841282c2ab")
-		(at 293.5 122.65)
+		(at 293.5 119.55)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U401"
@@ -56355,7 +56355,7 @@
 	(footprint "jacobi:Terminal_M3_XFCN_TT34086077-0910"
 		(layer "F.Cu")
 		(uuid "cb9b74ba-0c03-452f-b1de-51f8aea50380")
-		(at 292 133 90)
+		(at 292 127 90)
 		(descr "XFCN TT34086077-0910 M3 PCB solder terminal (LCSC C19724597), 9.1 mm high, 50 A. Two solder pins 5 mm apart (datasheets/screw_terminal_m3.pdf). Drill is a guess for 1.2 mm pins: check against the part.")
 		(tags "screw terminal M3 power")
 		(property "Reference" "J109"
