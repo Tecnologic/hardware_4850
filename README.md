@@ -300,6 +300,7 @@ the op-amp filters, and the 2020 logic board BOM with prices).
 | [`datasheets/`](datasheets) | Component datasheets |
 | [`docs/`](docs) | Pictures of the [logic board](docs/logic_board.png) and the [power board](docs/power_board.png) (old F730 boards), [H743 logic board concept](docs/h743_logic_board.md) |
 | [`mechanical/`](mechanical) | DXF exports of the power board, the cooler drawing, [`enclosure/`](mechanical/enclosure) with STEP and DXF views of the RND 455-00370 |
+| [`nucleo_adapter/`](nucleo_adapter) | Bench adapter: a NUCLEO-H743ZI drives the legacy 4850 power board in place of the old logic board (own KiCad project, see its [README](nucleo_adapter/README.md)) |
 
 ## Conversion notes (KiCad 5.1 → KiCad 10)
 
