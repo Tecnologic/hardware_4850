@@ -3255,6 +3255,26 @@
 				(justify left top)
 			)
 		)
+		(pin "PWM_EN_IN" output
+			(at 77.47 151.13 0)
+			(uuid "f59fb0ae-754d-4663-b035-f3efa7a851d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_EN_RTN" output
+			(at 77.47 153.67 0)
+			(uuid "e46646b7-d82f-432e-b9a4-8e38085b94de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001"
@@ -3461,6 +3481,26 @@
 				(justify right)
 			)
 		)
+		(pin "PWM_EN_IN" input
+			(at 77.47 119.38 0)
+			(uuid "e3b83d82-adf1-402e-80ed-8a469bc88123")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_EN_RTN" input
+			(at 77.47 121.92 0)
+			(uuid "dacf11e1-20a4-4861-8093-ebf48398ea69")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001"
@@ -3468,5 +3508,96 @@
 				)
 			)
 		)
+	)
+	(wire
+		(pts
+			(xy 77.47 119.38) (xy 85.09 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fa4b24d-2eb9-484d-9f87-ca45a1bed0ff")
+	)
+	(label "PWM_EN_IN"
+		(at 85.09 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ecff4a5-157b-4fe0-9a7c-f03f8ac73dda")
+	)
+	(wire
+		(pts
+			(xy 77.47 151.13) (xy 85.09 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18f9502f-3d11-4965-8823-47ef06238d4a")
+	)
+	(label "PWM_EN_IN"
+		(at 85.09 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe363203-c4bb-4041-9ea0-b52486e0e0df")
+	)
+	(wire
+		(pts
+			(xy 77.47 121.92) (xy 85.09 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6d846c2-c7f7-44bc-82d6-8d17174fbc72")
+	)
+	(label "PWM_EN_RTN"
+		(at 85.09 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "28f8b01d-558b-47b9-aab4-299d9afb8f45")
+	)
+	(wire
+		(pts
+			(xy 77.47 153.67) (xy 85.09 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68ddfafe-8465-4bc9-9a58-b8edeedf6a2d")
+	)
+	(label "PWM_EN_RTN"
+		(at 85.09 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0c8e9462-2e97-4f77-b4c9-c7c9855dd87a")
+	)
+	(text "PWM_EN_IN / PWM_EN_RTN  J501 pins 3, 4 -> optocoupler"
+		(exclude_from_sim no)
+		(at 185 53.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "44d46af1-a740-4fa1-8a7d-96df9985ef2d")
 	)
 )

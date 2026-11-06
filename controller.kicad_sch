@@ -695,7 +695,7 @@
 	)
 	(sheet
 		(at 25.4 41.91)
-		(size 40.64 40.64)
+		(size 40.64 45.72)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -721,7 +721,7 @@
 			)
 		)
 		(property "Sheetfile" "interfaces.kicad_sch"
-			(at 25.4 83.1346 0)
+			(at 25.4 88.2146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -864,6 +864,26 @@
 		(pin "LED_PWM" input
 			(at 66.04 78.74 0)
 			(uuid "e3095734-aa7b-4589-a1ba-a698b72ce69e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_EN_IN" input
+			(at 66.04 81.28 0)
+			(uuid "cdd1e551-170f-4e92-9d68-31340648b530")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_EN_RTN" input
+			(at 66.04 83.82 0)
+			(uuid "4289df85-7ca5-4958-b9ca-6e9649f6b8cd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1616,5 +1636,47 @@
 				)
 			)
 		)
+	)
+	(wire
+		(pts
+			(xy 66.04 81.28) (xy 68.58 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e16db53-ce90-4789-af3d-b5922952afef")
+	)
+	(hierarchical_label "PWM_EN_IN"
+		(shape input)
+		(at 68.58 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1dcbe9d-64f1-4573-925e-d2233d35d2a9")
+	)
+	(wire
+		(pts
+			(xy 66.04 83.82) (xy 68.58 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90cccc7b-4738-46a8-95e4-59cf3b2896cb")
+	)
+	(hierarchical_label "PWM_EN_RTN"
+		(shape input)
+		(at 68.58 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "341a17bf-74a7-42e3-906e-5b8c60304596")
 	)
 )

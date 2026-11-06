@@ -11,7 +11,7 @@
 		(company "ThunderDrive")
 	)
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x03"
+		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -31,8 +31,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x03"
-				(at 0 -5.08 0)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -63,7 +63,7 @@
 					)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -96,10 +96,10 @@
 					)
 				)
 			)
-			(symbol "Conn_01x03_1_1"
+			(symbol "Conn_01x04_1_1"
 				(rectangle
 					(start -1.27 3.81)
-					(end 1.27 -3.81)
+					(end 1.27 -6.35)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -133,6 +133,17 @@
 				(rectangle
 					(start -1.27 -2.413)
 					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -188,6 +199,24 @@
 						)
 					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2379,16 +2408,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 74.93) (xy 34.29 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a386913-7d54-4127-b2eb-48bcc856d8f4")
-	)
-	(wire
-		(pts
 			(xy 245.11 130.81) (xy 245.11 134.62)
 		)
 		(stroke
@@ -2479,16 +2498,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 130.81) (xy 39.37 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b5afb92-bd17-4f7a-afc2-c77392e2d8d9")
-	)
-	(wire
-		(pts
 			(xy 175.26 96.52) (xy 190.5 96.52)
 		)
 		(stroke
@@ -2546,16 +2555,6 @@
 			(type default)
 		)
 		(uuid "ab823e84-be5e-4800-b813-cf0c8930320a")
-	)
-	(wire
-		(pts
-			(xy 54.61 130.81) (xy 39.37 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "affd65f5-05bc-40c8-a1aa-5bd320e805aa")
 	)
 	(wire
 		(pts
@@ -4644,7 +4643,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
+		(lib_id "Connector_Generic:Conn_01x04")
 		(at 29.21 72.39 0)
 		(mirror y)
 		(unit 1)
@@ -4677,7 +4676,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
+		(property "Footprint" "Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal"
 			(at 29.21 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -4709,7 +4708,7 @@
 				)
 			)
 		)
-		(property "Part#" "C157929"
+		(property "Part#" "C157926"
 			(at 29.21 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4727,6 +4726,9 @@
 		)
 		(pin "3"
 			(uuid "8678322a-b09f-469a-acc0-637bc090a8e4")
+		)
+		(pin "4"
+			(uuid "43c2bb77-09c1-4d72-ac59-7a504cdde605")
 		)
 		(instances
 			(project "jacobi"
@@ -5063,5 +5065,70 @@
 				)
 			)
 		)
+	)
+	(wire
+		(pts
+			(xy 34.29 74.93) (xy 36.83 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f69bc3a2-0681-4829-a598-0b6ad89e52c3")
+	)
+	(hierarchical_label "PWM_EN_IN"
+		(shape output)
+		(at 36.83 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a81e573e-87e4-4b07-9b83-22616eccb48b")
+	)
+	(wire
+		(pts
+			(xy 34.29 77.47) (xy 36.83 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f754b2-ef46-4c0f-a177-0339f75c17e9")
+	)
+	(hierarchical_label "PWM_EN_RTN"
+		(shape output)
+		(at 36.83 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f48ae319-4bb2-4f83-952c-be226b0ef80d")
+	)
+	(text "J501 Enable / supply input"
+		(exclude_from_sim no)
+		(at 17.78 148.59 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1ef36d7b-2906-4d94-a290-0dd57ec0b2b8")
+	)
+	(text "1  +48V battery +\n2  buck VIN (U502 LM5008)\n3  PWM_EN_IN, optocoupler U1102 input + (12 - 40 V)\n4  PWM_EN_RTN, optocoupler input return, battery - (floating, not GNDD)\nBench: bridge 1-2, battery + to pin 3, battery - to pin 4.  Cart: switch pin 2 (logic), pin 3 (phases)."
+		(exclude_from_sim no)
+		(at 17.78 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "72de8dfc-cc39-4529-acd9-2897d910b3ae")
 	)
 )

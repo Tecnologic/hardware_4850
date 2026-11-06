@@ -11,7 +11,7 @@
 		(company "ThunderDrive")
 	)
 	(lib_symbols)
-	(text "All stages connect only through global power symbols (+48V, +12V, +3V3, +3.3VADC, GNDD, GNDA)."
+	(text "All stages connect only through global power symbols (+48V, +12V, +3V3, +3.3VADC, GNDD, GNDA).\nPWM_EN_IN / PWM_EN_RTN (J501 pins 3 and 4) leave this tree as hierarchical labels to the optocoupler on the interfaces sheet."
 		(exclude_from_sim no)
 		(at 25.4 143.51 0)
 		(effects
@@ -208,6 +208,26 @@
 				(justify left top)
 			)
 		)
+		(pin "PWM_EN_IN" output
+			(at 88.9 69.85 0)
+			(uuid "b766dd14-5d56-44e2-bfb8-3dc455fd19e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_EN_RTN" output
+			(at 88.9 72.39 0)
+			(uuid "4250ec3e-a715-4929-b7cd-3403a21afb88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "jacobi"
 				(path "/7dfd9a06-4533-4a16-8d73-d523a3cbd82d/00000000-0000-0000-0000-00004850a001/00000000-0000-0000-0000-00005db60c83"
@@ -215,5 +235,47 @@
 				)
 			)
 		)
+	)
+	(wire
+		(pts
+			(xy 88.9 69.85) (xy 96.52 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "421ff3b2-bf6f-475f-9812-96f9ba2e83ab")
+	)
+	(hierarchical_label "PWM_EN_IN"
+		(shape output)
+		(at 96.52 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9d27c06e-1f4a-4ff4-a07e-b47568ef82ac")
+	)
+	(wire
+		(pts
+			(xy 88.9 72.39) (xy 96.52 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdea938a-63ac-4141-932f-e95d69bd196e")
+	)
+	(hierarchical_label "PWM_EN_RTN"
+		(shape output)
+		(at 96.52 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "896d7a12-e9f7-49d7-ad0b-266b9c7d3ac0")
 	)
 )
