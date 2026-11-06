@@ -120,7 +120,7 @@ losses and cooling: [README, Ratings and limits](../README.md#ratings-and-limits
 |---|---|---|---|
 | External quad comparator, 3 channels | Ia, Ib, Ic (window for both signs) | DAC1_OUT1 (PA4) | open-drain wired-OR to TIM1_BKIN (PE15): phases off |
 | COMP1 | Vdc (PB2, COMP1_INP, same net as PC1) | DAC1 channel *(RM0433)* | TIM1 break 2 *(RM0433)*: overvoltage, phases off |
-| PWM_EN input (J1102) | – | – | TIM1_BKIN (PE15) |
+| PWM_EN input (J501 pin 3/4, optocoupler U1102, 12–40 V) | – | – | TIM1_BKIN (PE15), high = enabled |
 
 The sample ISR keeps its overcurrent check on the raw counts as the second
 level.
@@ -166,7 +166,7 @@ no-connect for now.
 | 34 | PB0 | AIN_VB (Vb) | ADC2_INP9 | drawn |
 | 35 | PB1 | AIN_VA (Va) | ADC1_INP5 | drawn |
 | 36 | PB2 | AIN_VDC | COMP1_INP | drawn |
-| 45 | PE15 | PWM_EN | TIM1_BKIN | drawn |
+| 45 | PE15 | PWM_EN (optocoupler U1102 output, 12–40 V input on J501) | TIM1_BKIN | drawn |
 | 52 | PB13 | PWM_AL_MCU | TIM1_CH1N | drawn |
 | 53 | PB14 | PWM_BL_MCU | TIM1_CH2N | drawn |
 | 54 | PB15 | PWM_CL_MCU | TIM1_CH3N | drawn |
@@ -207,7 +207,8 @@ PC13–PC15, PD3–PD11, PD15, PE6–PE14, PH1.
 - **Keep:** TCAN334 (CAN FD), USB for DFU, SWD/SWO, Hall and temperature
   inputs, the supply topology from the battery (LM5008, up to 95 V).
 - **Removed:** the 24LC04 EEPROM with its pull-ups and WP jumper (U1102,
-  R1112, R1113, R1115, C1105, JP1101). The settings live in flash.
+  R1112, R1113, R1115, C1105, JP1101). The settings live in flash. The designators U1102 and
+  R1115 are reused for the PWM_EN optocoupler and its input resistor.
 - **New, still to draw:** quad comparator for the phase overcurrent, connector for an SPI angle sensor (SPI3), CAN STB.
 - **Layout:** LQFP100 (14 × 14 mm) instead of LQFP64; the logic board is laid
   out again.

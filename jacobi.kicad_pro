@@ -608,7 +608,7 @@
       },
       {
         "netclass": "Dig Supply",
-        "pattern": "+48V"
+        "pattern": "+BATT_LOGIC"
       },
       {
         "netclass": "Dig Supply",

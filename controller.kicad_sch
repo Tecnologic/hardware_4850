@@ -329,6 +329,26 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 81.28) (xy 68.58 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e16db53-ce90-4789-af3d-b5922952afef")
+	)
+	(wire
+		(pts
+			(xy 66.04 83.82) (xy 68.58 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90cccc7b-4738-46a8-95e4-59cf3b2896cb")
+	)
+	(wire
+		(pts
 			(xy 157.48 99.06) (xy 162.56 99.06)
 		)
 		(stroke
@@ -539,6 +559,17 @@
 		)
 		(uuid "335bc47a-558f-40cf-9249-83273c30d69e")
 	)
+	(hierarchical_label "PWM_EN_RTN"
+		(shape input)
+		(at 68.58 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "341a17bf-74a7-42e3-906e-5b8c60304596")
+	)
 	(hierarchical_label "PwmBH"
 		(shape output)
 		(at 162.56 101.6 0)
@@ -648,6 +679,17 @@
 			(justify left)
 		)
 		(uuid "b990985b-074f-4e43-b8cb-f00f7e6081c9")
+	)
+	(hierarchical_label "PWM_EN_IN"
+		(shape input)
+		(at 68.58 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1dcbe9d-64f1-4573-925e-d2233d35d2a9")
 	)
 	(hierarchical_label "Vc"
 		(shape input)
@@ -1636,47 +1678,5 @@
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 66.04 81.28) (xy 68.58 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e16db53-ce90-4789-af3d-b5922952afef")
-	)
-	(hierarchical_label "PWM_EN_IN"
-		(shape input)
-		(at 68.58 81.28 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d1dcbe9d-64f1-4573-925e-d2233d35d2a9")
-	)
-	(wire
-		(pts
-			(xy 66.04 83.82) (xy 68.58 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90cccc7b-4738-46a8-95e4-59cf3b2896cb")
-	)
-	(hierarchical_label "PWM_EN_RTN"
-		(shape input)
-		(at 68.58 83.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "341a17bf-74a7-42e3-906e-5b8c60304596")
 	)
 )

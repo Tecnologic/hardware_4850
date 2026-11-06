@@ -5,7 +5,7 @@
 	(uuid "8f5a3604-9fb3-421b-b4dc-6a53abb0756b")
 	(paper "A4")
 	(title_block
-		(title "Power supply 1: 48 V -> 12 V (LM5008 buck)")
+		(title "Power supply 1: BATT -> 12 V (LM5008 buck)")
 		(date "2019-06-29")
 		(rev "1")
 		(company "ThunderDrive")
@@ -1452,7 +1452,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+48V"
+		(symbol "power:+BATT"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -1477,7 +1477,7 @@
 					)
 				)
 			)
-			(property "Value" "+48V"
+			(property "Value" "+BATT"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1509,7 +1509,7 @@
 					)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"+48V\""
+			(property "Description" "Power symbol creates a global label with name \"+BATT\""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1520,7 +1520,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "global power"
+			(property "ki_keywords" "global power battery"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1531,7 +1531,7 @@
 					)
 				)
 			)
-			(symbol "+48V_0_1"
+			(symbol "+BATT_0_1"
 				(polyline
 					(pts
 						(xy -0.762 1.27) (xy 0 2.54)
@@ -1569,7 +1569,7 @@
 					)
 				)
 			)
-			(symbol "+48V_1_1"
+			(symbol "+BATT_1_1"
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
@@ -1856,7 +1856,30 @@
 		)
 		(uuid "16e1d870-d2bf-4b5c-893c-83c70ae5b153")
 	)
-	(text "1   48 V -> 12 V   U502 LM5008 buck"
+	(text "J501 Enable / supply input"
+		(exclude_from_sim no)
+		(at 17.78 148.59 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1ef36d7b-2906-4d94-a290-0dd57ec0b2b8")
+	)
+	(text "1  +BATT_LOGIC battery +\n2  buck VIN (U502 LM5008)\n3  PWM_EN_IN, optocoupler U1102 input + (12 - 40 V)\n4  PWM_EN_RTN, optocoupler input return, battery - (floating, not GNDD)\nBench: bridge 1-2, battery + to pin 3, battery - to pin 4.  Cart: switch pin 2 (logic), pin 3 (phases)."
+		(exclude_from_sim no)
+		(at 17.78 149.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "72de8dfc-cc39-4529-acd9-2897d910b3ae")
+	)
+	(text "1   BATT -> 12 V   U502 LM5008 buck"
 		(exclude_from_sim no)
 		(at 17.78 43.18 0)
 		(effects
@@ -1981,12 +2004,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c80633c0-b3d9-47da-be14-960a51553c5c")
-	)
-	(junction
-		(at 54.61 130.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0463908-f046-463c-9371-e2281cdcca83")
 	)
 	(junction
 		(at 88.9 72.39)
@@ -2275,6 +2292,16 @@
 			(type default)
 		)
 		(uuid "47ac968f-b0cf-4c10-b20d-4906b5092319")
+	)
+	(wire
+		(pts
+			(xy 34.29 77.47) (xy 36.83 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f754b2-ef46-4c0f-a177-0339f75c17e9")
 	)
 	(wire
 		(pts
@@ -2728,6 +2755,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 74.93) (xy 36.83 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f69bc3a2-0681-4829-a598-0b6ad89e52c3")
+	)
+	(wire
+		(pts
 			(xy 261.62 82.55) (xy 261.62 86.36)
 		)
 		(stroke
@@ -2735,6 +2772,28 @@
 			(type default)
 		)
 		(uuid "fc2b0117-d637-4d97-89c6-5da36b977719")
+	)
+	(hierarchical_label "PWM_EN_IN"
+		(shape output)
+		(at 36.83 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a81e573e-87e4-4b07-9b83-22616eccb48b")
+	)
+	(hierarchical_label "PWM_EN_RTN"
+		(shape output)
+		(at 36.83 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f48ae319-4bb2-4f83-952c-be226b0ef80d")
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -4400,7 +4459,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+48V")
+		(lib_id "power:+BATT")
 		(at 54.61 57.15 0)
 		(unit 1)
 		(body_style 1)
@@ -4421,7 +4480,7 @@
 				)
 			)
 		)
-		(property "Value" "+48V"
+		(property "Value" "+BATT_LOGIC"
 			(at 54.991 52.7558 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5065,70 +5124,5 @@
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 34.29 74.93) (xy 36.83 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f69bc3a2-0681-4829-a598-0b6ad89e52c3")
-	)
-	(hierarchical_label "PWM_EN_IN"
-		(shape output)
-		(at 36.83 74.93 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a81e573e-87e4-4b07-9b83-22616eccb48b")
-	)
-	(wire
-		(pts
-			(xy 34.29 77.47) (xy 36.83 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47f754b2-ef46-4c0f-a177-0339f75c17e9")
-	)
-	(hierarchical_label "PWM_EN_RTN"
-		(shape output)
-		(at 36.83 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f48ae319-4bb2-4f83-952c-be226b0ef80d")
-	)
-	(text "J501 Enable / supply input"
-		(exclude_from_sim no)
-		(at 17.78 148.59 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "1ef36d7b-2906-4d94-a290-0dd57ec0b2b8")
-	)
-	(text "1  +48V battery +\n2  buck VIN (U502 LM5008)\n3  PWM_EN_IN, optocoupler U1102 input + (12 - 40 V)\n4  PWM_EN_RTN, optocoupler input return, battery - (floating, not GNDD)\nBench: bridge 1-2, battery + to pin 3, battery - to pin 4.  Cart: switch pin 2 (logic), pin 3 (phases)."
-		(exclude_from_sim no)
-		(at 17.78 149.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "72de8dfc-cc39-4529-acd9-2897d910b3ae")
 	)
 )

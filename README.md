@@ -49,6 +49,7 @@ measurements on a test bench. The reference load is the kids' quad: an MY1020
 | | Rating | Limited by |
 |---|---|---|
 | Battery | **3 × 12 V lead-acid (36 V)**, up to 44 V while charging; Li-ion up to 10S (42 V) | 60 V FETs (NCEP6080AG), see below |
+| Enable input (J501 pin 3 against pin 4) | **12–40 V**, switched battery voltage; 1–4 mA through a TLP291 optocoupler, 3750 Vrms isolation | input resistor R1115 (10k, 1206): 0.19 W at 44 V, 0.25 W rating |
 | Battery current | **~45 A** (1600 W at 36 V) for minutes in still air; continuous only with better cooling | housing to air: 1600 W needs about 58 A peak phase current |
 | Phase current, peak | **100 A** for seconds | motor saturation, FET losses |
 | Phase current, continuous | **~50 A peak** in still air; with the housing bolted to a frame or in airflow, the 100 A motor limit comes first | housing to air (about 2.5 K/W) |
@@ -238,6 +239,22 @@ the PCB still shows the old F730 board.
   parallel, read by an INA240A1 (gain 20): ±160 A.
 - **USB-C** instead of mini-B: HRO TYPE-C-31-M-12 (LCSC `C165948`, 16 pins,
   USB 2.0), 5k1 on CC1/CC2 (R613/R614) as a device. SBU not connected.
+- **PWM_EN through an optocoupler.** The PWM_EN jumper J1102 is gone. The
+  enable input is a TLP291 (U1102) on the `interfaces` sheet that pulls PE15
+  high. J501 (`Enable`, now 4-pin JST PH) carries, from pin 1: `+BATT_LOGIC`
+  (battery +), the LM5008 supply (VIN), `PWM_EN_IN` (opto LED +, **12–40 V**)
+  and `PWM_EN_RTN` (opto LED return, battery −). The LED path is 10k (R1115)
+  with 10n (C1108) across the LED and a 1N4148W (D1105) against reverse
+  polarity. The output has a 510R collector resistor, a 10k pulldown (R1116)
+  and 10n (C1109). `PWM_EN_RTN` is not connected to `GNDD`, so the enable
+  line is isolated and its current stays in its own wire pair, which keeps
+  noise out on a cart with four drives. Keep the LED side clear of copper from
+  the output side under U1102 (5 mm creepage). On the bench bridge pins 1–2,
+  put battery + on pin 3 and battery − on pin 4. On the cart switch pin 2
+  (logic) and pin 3 (phases).
+- **`+48V` is now `+BATT_LOGIC`.** The board is no longer 48 V compatible
+  (60 V FETs), so the logic board supply net (J101 pin 1, J501 pin 1) is named
+  after the battery. It stays a separate net from `+BATT` on the power board.
 - **No aux bridge.** The EESM excitation and brake chopper are out of scope for
   this board; a separate module will do that.
 

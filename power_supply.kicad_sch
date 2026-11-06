@@ -5,13 +5,13 @@
 	(uuid "9665b141-cefa-4d1c-8d0b-06f648d22a13")
 	(paper "A4")
 	(title_block
-		(title "Power supply overview: 48V -> 12V -> 3V3 / 3V3 analog")
+		(title "Power supply overview: BATT -> 12V -> 3V3 / 3V3 analog")
 		(date "2019-06-29")
 		(rev "1")
 		(company "ThunderDrive")
 	)
 	(lib_symbols)
-	(text "All stages connect only through global power symbols (+48V, +12V, +3V3, +3.3VADC, GNDD, GNDA).\nPWM_EN_IN / PWM_EN_RTN (J501 pins 3 and 4) leave this tree as hierarchical labels to the optocoupler on the interfaces sheet."
+	(text "All stages connect only through global power symbols (+BATT_LOGIC, +12V, +3V3, +3.3VADC, GNDD, GNDA).\nPWM_EN_IN / PWM_EN_RTN (J501 pins 3 and 4) leave this tree as hierarchical labels to the optocoupler on the interfaces sheet."
 		(exclude_from_sim no)
 		(at 25.4 143.51 0)
 		(effects
@@ -44,7 +44,7 @@
 		)
 		(uuid "7cbe7328-40a4-4141-8526-73bab77c3195")
 	)
-	(text "1   +48V  ->  +12V\n2   +12V  ->  +3V3       (MCU VDD, digital logic)\n3   +12V  ->  +3.3VADC  (VDDA / VREF+, INA240)"
+	(text "1   +BATT_LOGIC  ->  +12V\n2   +12V  ->  +3V3       (MCU VDD, digital logic)\n3   +12V  ->  +3.3VADC  (VDDA / VREF+, INA240)"
 		(exclude_from_sim no)
 		(at 25.4 45.72 0)
 		(effects
@@ -55,7 +55,7 @@
 		)
 		(uuid "b288ab8e-db50-4cfa-9d79-df9fe9548dd0")
 	)
-	(text "1  48 V -> 12 V\nU502 LM5008 buck, enable jumper J501"
+	(text "1  BATT -> 12 V\nU502 LM5008 buck, enable jumper J501"
 		(exclude_from_sim no)
 		(at 27.94 73.66 0)
 		(effects
@@ -77,6 +77,48 @@
 			(justify left bottom)
 		)
 		(uuid "de6e7cbe-c49e-4c3d-8b29-b4f1da265ce9")
+	)
+	(wire
+		(pts
+			(xy 88.9 69.85) (xy 96.52 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "421ff3b2-bf6f-475f-9812-96f9ba2e83ab")
+	)
+	(wire
+		(pts
+			(xy 88.9 72.39) (xy 96.52 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdea938a-63ac-4141-932f-e95d69bd196e")
+	)
+	(hierarchical_label "PWM_EN_RTN"
+		(shape output)
+		(at 96.52 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "896d7a12-e9f7-49d7-ad0b-266b9c7d3ac0")
+	)
+	(hierarchical_label "PWM_EN_IN"
+		(shape output)
+		(at 96.52 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9d27c06e-1f4a-4ff4-a07e-b47568ef82ac")
 	)
 	(sheet
 		(at 116.84 101.6)
@@ -235,47 +277,5 @@
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 88.9 69.85) (xy 96.52 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "421ff3b2-bf6f-475f-9812-96f9ba2e83ab")
-	)
-	(hierarchical_label "PWM_EN_IN"
-		(shape output)
-		(at 96.52 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9d27c06e-1f4a-4ff4-a07e-b47568ef82ac")
-	)
-	(wire
-		(pts
-			(xy 88.9 72.39) (xy 96.52 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cdea938a-63ac-4141-932f-e95d69bd196e")
-	)
-	(hierarchical_label "PWM_EN_RTN"
-		(shape output)
-		(at 96.52 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "896d7a12-e9f7-49d7-ad0b-266b9c7d3ac0")
 	)
 )

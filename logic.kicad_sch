@@ -802,7 +802,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+48V"
+		(symbol "power:+BATT"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -827,7 +827,7 @@
 					)
 				)
 			)
-			(property "Value" "+48V"
+			(property "Value" "+BATT"
 				(at 0 3.556 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -859,7 +859,7 @@
 					)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"+48V\""
+			(property "Description" "Power symbol creates a global label with name \"+BATT\""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -870,7 +870,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "global power"
+			(property "ki_keywords" "global power battery"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -881,7 +881,7 @@
 					)
 				)
 			)
-			(symbol "+48V_0_1"
+			(symbol "+BATT_0_1"
 				(polyline
 					(pts
 						(xy -0.762 1.27) (xy 0 2.54)
@@ -919,7 +919,7 @@
 					)
 				)
 			)
-			(symbol "+48V_1_1"
+			(symbol "+BATT_1_1"
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
@@ -1298,7 +1298,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "power_supply  48 V -> 12 V -> 3V3 / 3V3 analog"
+	(text "power_supply  BATT -> 12 V -> 3V3 / 3V3 analog"
 		(exclude_from_sim no)
 		(at 185 35.85 0)
 		(effects
@@ -1308,6 +1308,17 @@
 			(justify left bottom)
 		)
 		(uuid "1106c4ea-6c5a-4eea-aec0-0e2f209e001c")
+	)
+	(text "PWM_EN_IN / PWM_EN_RTN  J501 pins 3, 4 -> optocoupler"
+		(exclude_from_sim no)
+		(at 185 53.85 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "44d46af1-a740-4fa1-8a7d-96df9985ef2d")
 	)
 	(text "(J103, J104, J110)"
 		(exclude_from_sim no)
@@ -1451,6 +1462,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 151.13) (xy 85.09 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18f9502f-3d11-4965-8823-47ef06238d4a")
+	)
+	(wire
+		(pts
 			(xy 121.92 83.82) (xy 134.62 83.82)
 		)
 		(stroke
@@ -1548,6 +1569,16 @@
 			(type default)
 		)
 		(uuid "37148c3f-83b8-48a5-848a-8af3fb6aa2e7")
+	)
+	(wire
+		(pts
+			(xy 77.47 119.38) (xy 85.09 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fa4b24d-2eb9-484d-9f87-ca45a1bed0ff")
 	)
 	(wire
 		(pts
@@ -1658,6 +1689,16 @@
 			(type default)
 		)
 		(uuid "6806ce3a-d656-4fd7-8b1e-8ba100feea23")
+	)
+	(wire
+		(pts
+			(xy 77.47 153.67) (xy 85.09 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68ddfafe-8465-4bc9-9a58-b8edeedf6a2d")
 	)
 	(wire
 		(pts
@@ -1941,6 +1982,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 121.92) (xy 85.09 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6d846c2-c7f7-44bc-82d6-8d17174fbc72")
+	)
+	(wire
+		(pts
 			(xy 107.95 110.49) (xy 116.84 110.49)
 		)
 		(stroke
@@ -1958,6 +2009,46 @@
 			(type default)
 		)
 		(uuid "fd840fed-de9f-40c9-9e12-b05e38807be7")
+	)
+	(label "PWM_EN_RTN"
+		(at 85.09 153.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0c8e9462-2e97-4f77-b4c9-c7c9855dd87a")
+	)
+	(label "PWM_EN_RTN"
+		(at 85.09 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "28f8b01d-558b-47b9-aab4-299d9afb8f45")
+	)
+	(label "PWM_EN_IN"
+		(at 85.09 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ecff4a5-157b-4fe0-9a7c-f03f8ac73dda")
+	)
+	(label "PWM_EN_IN"
+		(at 85.09 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fe363203-c4bb-4041-9ea0-b52486e0e0df")
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
@@ -2339,7 +2430,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+48V")
+		(lib_id "power:+BATT")
 		(at 100.33 25.4 0)
 		(unit 1)
 		(body_style 1)
@@ -2360,7 +2451,7 @@
 				)
 			)
 		)
-		(property "Value" "+48V"
+		(property "Value" "+BATT_LOGIC"
 			(at 100.711 21.0058 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3508,96 +3599,5 @@
 				)
 			)
 		)
-	)
-	(wire
-		(pts
-			(xy 77.47 119.38) (xy 85.09 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fa4b24d-2eb9-484d-9f87-ca45a1bed0ff")
-	)
-	(label "PWM_EN_IN"
-		(at 85.09 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ecff4a5-157b-4fe0-9a7c-f03f8ac73dda")
-	)
-	(wire
-		(pts
-			(xy 77.47 151.13) (xy 85.09 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18f9502f-3d11-4965-8823-47ef06238d4a")
-	)
-	(label "PWM_EN_IN"
-		(at 85.09 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fe363203-c4bb-4041-9ea0-b52486e0e0df")
-	)
-	(wire
-		(pts
-			(xy 77.47 121.92) (xy 85.09 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6d846c2-c7f7-44bc-82d6-8d17174fbc72")
-	)
-	(label "PWM_EN_RTN"
-		(at 85.09 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "28f8b01d-558b-47b9-aab4-299d9afb8f45")
-	)
-	(wire
-		(pts
-			(xy 77.47 153.67) (xy 85.09 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68ddfafe-8465-4bc9-9a58-b8edeedf6a2d")
-	)
-	(label "PWM_EN_RTN"
-		(at 85.09 153.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0c8e9462-2e97-4f77-b4c9-c7c9855dd87a")
-	)
-	(text "PWM_EN_IN / PWM_EN_RTN  J501 pins 3, 4 -> optocoupler"
-		(exclude_from_sim no)
-		(at 185 53.85 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "44d46af1-a740-4fa1-8a7d-96df9985ef2d")
 	)
 )
